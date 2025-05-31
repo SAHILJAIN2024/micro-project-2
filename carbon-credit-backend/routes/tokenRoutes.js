@@ -1,84 +1,54 @@
+require("dotenv").config();
 const express = require("express");
 const { ethers } = require("ethers");
-require("dotenv").config();
-
 const router = express.Router();
 
-const provider = new ethers.JsonRpcProvider(process.env.RPC_URL);
-const wallet = new ethers.Wallet(process.env.AUTHORITY_PRIVATE_KEY, provider);
+
+const contractABI = require("../abi/CRXToken.json");
+
+// ✅ Load environment variables
 const contractAddress = process.env.CRX_CONTRACT_ADDRESS;
+const rpcUrl = process.env.RPC_URL;
+const privateKey = process.env.PRIVATE_KEY;
 
-const abi = [
-  "function mint(address to, uint256 amount) public",
-  "function balanceOf(address account) view returns (uint256)",
-  "function burn(uint256 amount) public"
-];
+if (!contractAddress) {
+  throw new Error("🚨 CRX_CONTRACT_ADDRESS is not set in .env");
+}
+if (!rpcUrl) {
+  throw new Error("🚨 RPC_URL is not set in .env");
+}
+if (!privateKey) {
+  throw new Error("🚨 PRIVATE_KEY is not set in .env");
+}
 
-const contract = new ethers.Contract(contractAddress, abi, wallet);
+const provider = new ethers.JsonRpcProvider(rpcUrl);
+const wallet = new ethers.Wallet(privateKey, provider);
+const contract = new ethers.Contract(contractAddress, contractABI, wallet);
 
-// ✅ Mint tokens
+
+// POST /api/token/mint
 router.post("/mint", async (req, res) => {
-  const { to, amount } = req.body;
-
-  console.log("Received mint request:", { to, amount });
-
-  if (!ethers.isAddress(to)) {
-    return res.status(400).json({ message: "Invalid recipient address." });
-  }
-
   try {
+    const { to, amount } = req.body;
     const tx = await contract.mint(to, ethers.parseUnits(amount.toString(), 18));
-    console.log("Mint transaction hash:", tx.hash);
-
     await tx.wait();
-    console.log("Mint transaction confirmed:", tx.hash);
-
-    res.status(200).json({ message: "Mint successful", txHash: tx.hash });
-  } catch (error) {
-    console.error("Mint error:", error);
-    res.status(500).json({ message: "Mint failed", error: error.message });
+    res.json({ message: "Tokens minted", txHash: tx.hash });
+  } catch (err) {
+    console.error("Mint error:", err.message);
+    res.status(500).json({ message: "Minting failed" });
   }
 });
 
-// ✅ Check token balance
-router.get("/balance/:address", async (req, res) => {
-  const { address } = req.params;
-
-  if (!ethers.isAddress(address)) {
-    return res.status(400).json({ message: "Invalid address format" });
-  }
-
-  try {
-    const balance = await contract.balanceOf(address);
-    const formatted = ethers.formatUnits(balance, 18);
-    console.log(`Balance for ${address}: ${formatted} CRX`);
-
-    res.status(200).json({ balance: formatted });
-  } catch (error) {
-    console.error("Balance fetch error:", error);
-    res.status(500).json({ message: "Failed to fetch balance", error: error.message });
-  }
-});
-
-// ✅ Burn tokens (from authority wallet)
+// POST /api/token/burn
 router.post("/burn", async (req, res) => {
-  const { amount } = req.body;
-
-  if (!amount || isNaN(amount)) {
-    return res.status(400).json({ message: "Amount is required and must be a number." });
-  }
-
   try {
-    const tx = await contract.burn(ethers.parseUnits(amount.toString(), 18));
-    console.log("Burn transaction hash:", tx.hash);
-
+    const { from, amount } = req.body;
+    const tx = await contract.burnFrom(from, ethers.parseUnits(amount.toString(), 18));
     await tx.wait();
-    console.log("Burn transaction confirmed:", tx.hash);
-
-    res.status(200).json({ message: "Burn successful", txHash: tx.hash });
-  } catch (error) {
-    console.error("Burn error:", error);
-    res.status(500).json({ message: "Burn failed", error: error.message });
+    res.json({ message: "Tokens burned", txHash: tx.hash });
+  } catch (err) {
+    console.error("Burn error:", err.message);
+    res.status(500).json({ message: "Burning failed" });
   }
 });
 

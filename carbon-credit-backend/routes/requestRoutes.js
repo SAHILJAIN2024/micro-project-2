@@ -1,100 +1,57 @@
 const express = require("express");
-const multer = require("multer");
-const path = require("path");
+const router = express.Router();
 const Request = require("../models/Request");
 
-const router = express.Router();
-
-// Multer config for file uploads
-const storage = multer.diskStorage({
-  destination: function (req, file, cb) {
-    cb(null, "uploads/"); // Ensure this folder exists
-  },
-  filename: function (req, file, cb) {
-    const uniqueSuffix = Date.now() + "-" + Math.round(Math.random() * 1e9);
-    cb(null, uniqueSuffix + path.extname(file.originalname));
-  },
-});
-
-const upload = multer({ storage });
-
-/**
- * POST /api/requests
- * Submits a new mint/burn request
- */
-router.post("/", upload.single("file"), async (req, res) => {
+// POST /api/requests
+router.post("/", async (req, res) => {
   try {
-    const { type, address, amount, notes } = req.body;
-
-    if (!type || !address || !amount) {
-      return res.status(400).json({ error: "Type, address, and amount are required." });
-    }
-
-    const newRequest = new Request({
-      type,
-      address,
-      amount: parseFloat(amount),
-      notes: notes || "",
-      fileUrl: req.file ? `/uploads/${req.file.filename}` : null,
-      status: "pending",
-      createdAt: new Date(),
-    });
-
+    const newRequest = new Request(req.body);
     await newRequest.save();
-
-    res.status(201).json({ message: "Request submitted successfully", request: newRequest });
-  } catch (error) {
-    console.error("Error submitting request:", error);
-    res.status(500).json({ error: "Internal server error" });
+    res.status(201).json(newRequest);
+  } catch (err) {
+    console.error("Error creating request:", err.message);
+    res.status(500).json({ message: "Server error" });
   }
 });
 
-
-/**
- * GET /api/requests
- * Fetches all pending requests
- */
+// GET all requests
 router.get("/", async (req, res) => {
   try {
-    const pendingRequests = await Request.find({ status: "pending" }).sort({ createdAt: -1 });
-    res.status(200).json(pendingRequests);
-  } catch (error) {
-    console.error("Error fetching requests:", error);
-    res.status(500).json({ error: "Internal server error" });
+    const requests = await Request.find();
+    res.json(requests);
+  } catch (err) {
+    console.error("Error fetching requests:", err.message);
+    res.status(500).json({ message: "Server error" });
   }
 });
 
-/**
- * POST /api/requests/:id/approve
- * Approves a request and deletes it from DB
- */
-router.post("/:id/approve", async (req, res) => {
+// PUT /api/requests/:id/approve
+router.put("/:id/approve", async (req, res) => {
   try {
-    const request = await Request.findById(req.params.id);
-    if (!request) return res.status(404).json({ message: "Request not found" });
-
-    // Optionally: Perform token minting logic here
-
-    await Request.findByIdAndDelete(req.params.id); // Delete after approval
-    res.status(200).json({ message: "Request approved and deleted" });
+    const updated = await Request.findByIdAndUpdate(
+      req.params.id,
+      { status: "approved" },
+      { new: true }
+    );
+    res.json(updated);
   } catch (err) {
-    res.status(500).json({ message: err.message });
+    console.error("Error approving request:", err.message);
+    res.status(500).json({ message: "Server error" });
   }
 });
 
-/**
- * POST /api/requests/:id/reject
- * Rejects a request and deletes it from DB
- */
-router.post("/:id/reject", async (req, res) => {
+// PUT /api/requests/:id/reject
+router.put("/:id/reject", async (req, res) => {
   try {
-    const request = await Request.findById(req.params.id);
-    if (!request) return res.status(404).json({ message: "Request not found" });
-
-    await Request.findByIdAndDelete(req.params.id); // Delete after rejection
-    res.status(200).json({ message: "Request rejected and deleted" });
+    const updated = await Request.findByIdAndUpdate(
+      req.params.id,
+      { status: "rejected" },
+      { new: true }
+    );
+    res.json(updated);
   } catch (err) {
-    res.status(500).json({ message: err.message });
+    console.error("Error rejecting request:", err.message);
+    res.status(500).json({ message: "Server error" });
   }
 });
 
