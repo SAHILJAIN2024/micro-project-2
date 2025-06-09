@@ -5,9 +5,9 @@ import styles from "../styles/CreateRequest.module.css";
 
 const CreateRequest: React.FC = () => {
   const [requestType, setRequestType] = useState("mint");
-  const [address, setAddress] = useState("");
+  const [wallet, setWallet] = useState("");
   const [amount, setAmount] = useState("");
-  const [notes, setNotes] = useState("");
+  const [reason, setReason] = useState("");
   const [file, setFile] = useState<File | null>(null);
   const [message, setMessage] = useState("");
 
@@ -18,49 +18,46 @@ const CreateRequest: React.FC = () => {
   };
 
   const handleSubmit = async (e: React.FormEvent) => {
-  e.preventDefault();
+    e.preventDefault();
 
-  if (!address || !amount) {
-    setMessage("❗ Address and amount are required.");
-    return;
-  }
-
-  const requestBody = {
-    type: requestType,
-    address,
-    amount,
-    notes,
-  };
-
-  try {
-    const response = await fetch("http://localhost:5000/api/requests", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify(requestBody),
-    });
-
-    if (!response.ok) {
-      throw new Error("Failed to submit request");
+    if (!wallet || !amount) {
+      setMessage("❗ Wallet address and amount are required.");
+      return;
     }
 
-    await response.json();
-    setMessage("✅ Request submitted successfully!");
-    setRequestType("mint");
-    setAddress("");
-    setAmount("");
-    setNotes("");
-  } catch (err) {
-    setMessage("❌ Failed to submit request.");
-  }
-};
+    const requestBody = {
+      wallet,
+      reason: reason || requestType, // fallback to request type if no custom reason
+      amount: Number(amount),
+      status: "pending",
+    };
+
+    try {
+      const response = await fetch("http://localhost:5000/api/requests", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(requestBody),
+      });
+
+      if (!response.ok) throw new Error("Failed to submit request");
+
+      await response.json();
+      setMessage("✅ Request submitted successfully!");
+      setWallet("");
+      setAmount("");
+      setReason("");
+    } catch (err) {
+      console.error(err);
+      setMessage("❌ Failed to submit request.");
+    }
+  };
 
   return (
     <div className={styles.container}>
       <h2 className={styles.heading}>📨 Submit Token Request</h2>
-<form onSubmit={handleSubmit} className={styles.form}>
-
+      <form onSubmit={handleSubmit} className={styles.form}>
         <label className={styles.label}>
           Type:
           <select
@@ -75,8 +72,8 @@ const CreateRequest: React.FC = () => {
 
         <input
           type="text"
-          value={address}
-          onChange={(e) => setAddress(e.target.value)}
+          value={wallet}
+          onChange={(e) => setWallet(e.target.value)}
           placeholder="Wallet Address"
           className={styles.input}
         />
@@ -91,9 +88,9 @@ const CreateRequest: React.FC = () => {
         />
 
         <textarea
-          value={notes}
-          onChange={(e) => setNotes(e.target.value)}
-          placeholder="Add optional notes or justification..."
+          value={reason}
+          onChange={(e) => setReason(e.target.value)}
+          placeholder="Reason or justification..."
           className={styles.textarea}
         />
 

@@ -9,9 +9,10 @@ import Navbar from "../../../components/Navbarauthority";
 
 interface Request {
   _id: string;
-  address: string;
-  type: string;
+  wallet: string;
+  reason: string;
   amount: number;
+  status: string;
 }
 
 const RequestDashboard: React.FC = () => {
@@ -23,7 +24,8 @@ const RequestDashboard: React.FC = () => {
       try {
         const res = await fetch("http://localhost:5000/api/requests");
         const data = await res.json();
-        setRequests(data);
+        const pendingRequests = data.filter((r: Request) => r.status === "pending");
+        setRequests(pendingRequests);
       } catch (error) {
         console.error("❌ Failed to fetch requests:", error);
       } finally {
@@ -37,7 +39,7 @@ const RequestDashboard: React.FC = () => {
   const handleApprove = async (id: string) => {
     try {
       await fetch(`http://localhost:5000/api/requests/${id}/approve`, {
-        method: "POST",
+        method: "PUT",
       });
       setRequests((prev) => prev.filter((req) => req._id !== id));
     } catch (err) {
@@ -48,7 +50,7 @@ const RequestDashboard: React.FC = () => {
   const handleReject = async (id: string) => {
     try {
       await fetch(`http://localhost:5000/api/requests/${id}/reject`, {
-        method: "POST",
+        method: "PUT",
       });
       setRequests((prev) => prev.filter((req) => req._id !== id));
     } catch (err) {
@@ -74,8 +76,8 @@ const RequestDashboard: React.FC = () => {
               ) : (
                 requests.map((req) => (
                   <li key={req._id} className={styles.listItem}>
-                    <p><strong>Type:</strong> {req.type}</p>
-                    <p><strong>Wallet Address:</strong> {req.address}</p>
+                    <p><strong>Reason:</strong> {req.reason}</p>
+                    <p><strong>Wallet Address:</strong> {req.wallet}</p>
                     <p><strong>Amount:</strong> {req.amount}</p>
                     <div className={styles.buttonGroup}>
                       <button
