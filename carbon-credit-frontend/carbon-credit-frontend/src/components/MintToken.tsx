@@ -2,6 +2,7 @@
 
 import React, { useState } from "react";
 import styles from "../styles/Mint.module.css";
+import { logTransaction } from "../utils/logTransaction";
 
 const MintToken: React.FC = () => {
   const [recipient, setRecipient] = useState("");
@@ -10,47 +11,48 @@ const MintToken: React.FC = () => {
   const [loading, setLoading] = useState(false);
 
   const handleMint = async () => {
-    setStatus(""); // Clear previous status
+    setStatus("");
     if (!recipient || !amount) {
       setStatus("⚠️ All fields are required.");
       return;
     }
-  
+
     try {
       setLoading(true);
-  
-      // Send request to backend to mint the token
+
       const response = await fetch("http://localhost:5000/api/token/mint", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ to: recipient, amount }),
       });
-  
+
       const data = await response.json();
-  
-      console.log("Backend response:", data); // Log backend response for debugging
-  
+
       if (!response.ok) {
-        // Log the error message if response is not OK
         throw new Error(data.message || "Minting failed, please try again.");
       }
-  
+
+      // ✅ Log the transaction to backend
+      await logTransaction(
+        "0xAuthorityAddress", // Replace with actual authority address if dynamic
+        recipient,
+        parseFloat(amount),
+        data.txHash // optional if available from backend
+      );
+
       setStatus(`✅ Minted successfully! Transaction Hash: ${data.txHash}`);
       setRecipient("");
       setAmount("");
     } catch (err: any) {
       console.error("Minting error:", err);
-      const errorMessage = err.message || "Unknown error occurred during minting";
-      setStatus("❌ Minting failed: " + errorMessage); // Update status with detailed error message
+      setStatus("❌ Minting failed: " + (err.message || "Unknown error"));
     } finally {
       setLoading(false);
     }
   };
-  
-  
+
   return (
     <div className={styles.container}>
-      
       <input
         type="text"
         placeholder="Recipient address"

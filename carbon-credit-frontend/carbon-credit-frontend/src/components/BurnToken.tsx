@@ -2,6 +2,7 @@
 
 import React, { useState } from "react";
 import styles from "../styles/Burn.module.css";
+import { logTransaction } from "../utils/logTransaction";
 
 const BurnToken: React.FC = () => {
   const [amount, setAmount] = useState("");
@@ -27,6 +28,14 @@ const BurnToken: React.FC = () => {
 
       const data = await response.json();
       if (!response.ok) throw new Error(data.message || "Burn failed");
+
+      // ✅ Log the burn transaction
+      await logTransaction(
+        "0xAuthorityAddress", // Replace with actual authority wallet address
+        "0x000000000000000000000000000000000000dEaD", // Common burn address
+        parseFloat(amount),
+        data.txHash
+      );
 
       setStatus(`🔥 Burn successful! Tx Hash: ${data.txHash}`);
       setAmount("");

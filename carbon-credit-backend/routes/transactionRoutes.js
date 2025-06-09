@@ -2,10 +2,16 @@ const express = require("express");
 const router = express.Router();
 const Transaction = require("../models/Transaction");
 
-// POST /api/transactions
+// POST /api/transactions — Log a new transaction
 router.post("/", async (req, res) => {
   try {
-    const newTx = new Transaction(req.body);
+    const { from, to, amount, txHash } = req.body;
+
+    if (!from || !to || !amount) {
+      return res.status(400).json({ message: "Missing required fields" });
+    }
+
+    const newTx = new Transaction({ from, to, amount, txHash });
     await newTx.save();
     res.status(201).json(newTx);
   } catch (err) {
@@ -14,11 +20,13 @@ router.post("/", async (req, res) => {
   }
 });
 
-// GET /api/transactions/:wallet
+// GET /api/transactions/:wallet — Fetch all transactions for a wallet
 router.get("/:wallet", async (req, res) => {
   try {
+    const wallet = req.params.wallet.toLowerCase();
+
     const transactions = await Transaction.find({
-      $or: [{ sender: req.params.wallet }, { receiver: req.params.wallet }],
+      $or: [{ from: wallet }, { to: wallet }],
     }).sort({ createdAt: -1 });
 
     res.json(transactions);
