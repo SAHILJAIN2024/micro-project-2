@@ -11,15 +11,8 @@ export default function LoginPage() {
   const router = useRouter();
 
   const handleLogin = async () => {
-    if (!address) {
-      alert("Please connect your wallet first!");
-      return;
-    }
-
-    if (!email) {
-      alert("Please enter your email!");
-      return;
-    }
+    if (!address) return alert("Please connect your wallet first!");
+    if (!email) return alert("Please enter your email!");
 
     try {
       const response = await fetch("http://localhost:5000/api/auth/login", {
@@ -29,25 +22,28 @@ export default function LoginPage() {
       });
 
       const data = await response.json();
+      console.log("Login API response:", data);
 
-      if (!response.ok) {
-        throw new Error(data.message || "Login failed");
-      }
+      if (!response.ok || !data.role) throw new Error(data.message || "Login failed");
 
-      // ✅ Save JWT token to localStorage
       localStorage.setItem("crx_token", data.token);
 
-      alert("✅ Login successful!");
-      router.push(`/dashboard/${data.role}`);
+      if (data.role === "authority") {
+        router.push("/dashboard/authority");
+      } else if (data.role === "user") {
+        router.push("/dashboard/user");
+      } else {
+        throw new Error("Unknown role returned from server.");
+      }
     } catch (err: any) {
-      alert(`❌ Login error: ${err.message}`);
+      alert(`\u274C Login error: ${err.message}`);
     }
   };
 
   return (
     <div className={styles.container}>
       <div className={styles.formBox}>
-        <h1 className={styles.title}>🔐 Login</h1>
+        <h1 className={styles.title}>\uD83D\uDD10 Login</h1>
 
         {!address ? (
           <button onClick={connectWallet} className={styles.button}>
@@ -75,5 +71,5 @@ export default function LoginPage() {
   );
 }
 
-// 👇 ensures this page is always dynamically rendered
 export const dynamic = "force-dynamic";
+

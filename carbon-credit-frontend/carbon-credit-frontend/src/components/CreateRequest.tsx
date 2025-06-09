@@ -18,46 +18,49 @@ const CreateRequest: React.FC = () => {
   };
 
   const handleSubmit = async (e: React.FormEvent) => {
-    e.preventDefault();
+  e.preventDefault();
 
-    if (!address || !amount) {
-      setMessage("❗ Address and amount are required.");
-      return;
-    }
+  if (!address || !amount) {
+    setMessage("❗ Address and amount are required.");
+    return;
+  }
 
-    const formData = new FormData();
-    formData.append("type", requestType);
-    formData.append("address", address);
-    formData.append("amount", amount);
-    formData.append("notes", notes);
-    if (file) formData.append("file", file);
-
-    try {
-      const response = await fetch("http://localhost:5000/api/requests", {
-        method: "POST",
-        body: formData,
-      });
-
-      if (!response.ok) {
-        throw new Error("Failed to submit request");
-      }
-
-      const result = await response.json();
-      setMessage("✅ Request submitted successfully!");
-      setRequestType("mint");
-      setAddress("");
-      setAmount("");
-      setNotes("");
-      setFile(null);
-    } catch (err) {
-      setMessage("❌ Failed to submit request.");
-    }
+  const requestBody = {
+    type: requestType,
+    address,
+    amount,
+    notes,
   };
+
+  try {
+    const response = await fetch("http://localhost:5000/api/requests", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify(requestBody),
+    });
+
+    if (!response.ok) {
+      throw new Error("Failed to submit request");
+    }
+
+    await response.json();
+    setMessage("✅ Request submitted successfully!");
+    setRequestType("mint");
+    setAddress("");
+    setAmount("");
+    setNotes("");
+  } catch (err) {
+    setMessage("❌ Failed to submit request.");
+  }
+};
 
   return (
     <div className={styles.container}>
       <h2 className={styles.heading}>📨 Submit Token Request</h2>
-      <form onSubmit={handleSubmit} className={styles.form} encType="multipart/form-data">
+<form onSubmit={handleSubmit} className={styles.form}>
+
         <label className={styles.label}>
           Type:
           <select
