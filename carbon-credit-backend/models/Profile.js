@@ -2,7 +2,7 @@
 const mongoose = require('mongoose');
 
 const ProfileSchema = new mongoose.Schema({
-  walletAddress: { type: String, required: true, unique: true },
+  wallet: { type: String, required: true, unique: true },
   name: String,
   email: String,
   organization: String,
