@@ -40,4 +40,36 @@ router.post("/login", async (req, res) => {
   }
 });
 
+
+router.post("/signup", async (req, res) => {
+  const { wallet, email, role } = req.body;
+
+  if (!wallet || !email || !role) {
+    return res.status(400).json({ message: "All fields are required" });
+  }
+
+  try {
+    let existing = await User.findOne({ wallet });
+    if (existing) {
+      return res.status(409).json({ message: "User already exists" });
+    }
+
+    const user = new User({ wallet, email, role });
+    await user.save();
+
+    const token = jwt.sign({ wallet, role }, process.env.JWT_SECRET, {
+      expiresIn: "1d",
+    });
+
+    return res.status(201).json({
+      token,
+      role,
+    });
+  } catch (err) {
+    console.error("Signup error:", err);
+    res.status(500).json({ message: "Server error" });
+  }
+});
+
+
 module.exports = router;
