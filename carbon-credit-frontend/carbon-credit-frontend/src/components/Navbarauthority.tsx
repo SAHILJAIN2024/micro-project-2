@@ -24,9 +24,7 @@ const Navbar: React.FC = () => {
         <li>
           <button onClick={() => scrollToSection("mint")}>Mint</button>
         </li>
-        <li>
-          <button onClick={() => scrollToSection("burn")}>Burn</button>
-        </li>
+       
       </ul>
       <WalletConnect />
     </nav>

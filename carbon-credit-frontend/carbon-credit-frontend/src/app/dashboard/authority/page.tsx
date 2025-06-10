@@ -2,7 +2,7 @@
 
 import React, { useState, useEffect } from "react";
 import MintToken from "../../../components/MintToken";
-import BurnToken from "../../../components/BurnToken";
+
 import styles from "../../../styles/Dashboard.module.css";
 import WalletConnect from "../../../components/ConnectWalletButton";
 import Navbar from "../../../components/Navbarauthority";
@@ -107,11 +107,6 @@ const RequestDashboard: React.FC = () => {
         <MintToken />
       </section>
 
-      {/* Burn Section */}
-      <section id="burn" className={styles.section}>
-        <h2>Burn CRX Tokens</h2>
-        <BurnToken />
-      </section>
     </div>
   );
 };

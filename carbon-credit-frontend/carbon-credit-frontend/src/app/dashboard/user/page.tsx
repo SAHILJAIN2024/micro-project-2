@@ -1,5 +1,5 @@
 "use client";
-
+import BurnToken from "../../../components/BurnToken";
 import React, { useEffect, useState, useRef } from "react";
 import { useRouter } from "next/navigation";
 import WalletConnect from "../../../components/ConnectWalletButton";
@@ -73,6 +73,9 @@ const UserDashboard: React.FC = () => {
           <button onClick={() => scrollToSection(requestRef)} className={styles.navButton}>
             Submit Request
           </button>
+          <button onClick={() => scrollToSection(requestRef)} className={styles.navButton}>
+            Burn Token
+          </button>
           <button onClick={handleLogout} className={styles.navButton}>
             Logout
           </button>
@@ -101,6 +104,11 @@ const UserDashboard: React.FC = () => {
         <section ref={requestRef}>
           <CreateRequest />
         </section>
+         {/* Burn Section */}
+      <section id="burn" className={styles.section}>
+        <h2>Burn CRX Tokens</h2>
+        <BurnToken />
+      </section>
       </div>
     </main>
   );

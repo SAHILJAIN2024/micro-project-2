@@ -36,20 +36,20 @@ router.post("/mint", async (req, res) => {
   }
 });
 
-// ✅ POST /api/token/burn
-router.post("/burn", async (req, res) => {
-  try {
-    const { from, amount } = req.body;
+// // ✅ POST /api/token/burn
+// router.post("/burn", async (req, res) => {
+//   try {
+//     const { from, amount } = req.body;
 
-    const tx = await contract.burnFrom(from, ethers.parseUnits(amount.toString(), 18));
-    await tx.wait();
+//     const tx = await contract.burnFrom(from, ethers.parseUnits(amount.toString(), 18));
+//     await tx.wait();
 
-    res.json({ message: "🔥 Tokens burned", txHash: tx.hash });
-  } catch (err) {
-    console.error("❌ Burn error:", err.message);
-    res.status(500).json({ message: "Burning failed" });
-  }
-});
+//     res.json({ message: "🔥 Tokens burned", txHash: tx.hash });
+//   } catch (err) {
+//     console.error("❌ Burn error:", err.message);
+//     res.status(500).json({ message: "Burning failed" });
+//   }
+// });
 
 // ✅ GET /api/token/balance/:address
 router.get("/balance/:address", async (req, res) => {
