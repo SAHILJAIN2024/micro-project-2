@@ -1,8 +1,8 @@
 const express = require("express");
-const jwt = require("jsonwebtoken");
 const router = express.Router();
 const User = require("../models/User");
 
+// POST /login
 router.post("/login", async (req, res) => {
   const { wallet, email } = req.body;
 
@@ -14,7 +14,7 @@ router.post("/login", async (req, res) => {
     let user = await User.findOne({ wallet });
 
     if (!user) {
-      // Auto-assign role based on email or default to 'user'
+      // Auto-assign role based on email domain
       const role = email.endsWith("@authority.com") ? "authority" : "user";
 
       user = new User({ wallet, email, role });
@@ -26,13 +26,10 @@ router.post("/login", async (req, res) => {
       }
     }
 
-    const token = jwt.sign({ wallet, role: user.role }, process.env.JWT_SECRET, {
-      expiresIn: "1d"
-    });
-
     return res.status(200).json({
-      token,
-      role: user.role
+      message: "Login successful",
+      role: user.role,
+      wallet: user.wallet,
     });
   } catch (err) {
     console.error("Login error:", err);
@@ -40,7 +37,7 @@ router.post("/login", async (req, res) => {
   }
 });
 
-
+// POST /signup
 router.post("/signup", async (req, res) => {
   const { wallet, email, role } = req.body;
 
@@ -57,19 +54,15 @@ router.post("/signup", async (req, res) => {
     const user = new User({ wallet, email, role });
     await user.save();
 
-    const token = jwt.sign({ wallet, role }, process.env.JWT_SECRET, {
-      expiresIn: "1d",
-    });
-
     return res.status(201).json({
-      token,
-      role,
+      message: "Signup successful",
+      role: user.role,
+      wallet: user.wallet,
     });
   } catch (err) {
     console.error("Signup error:", err);
     res.status(500).json({ message: "Server error" });
   }
 });
-
 
 module.exports = router;

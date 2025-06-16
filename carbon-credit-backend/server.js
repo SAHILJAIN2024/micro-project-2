@@ -14,6 +14,7 @@ const authRoutes = require("./routes/authRoutes");
 const tokenRoutes = require("./routes/tokenRoutes");
 const profileRoutes = require("./routes/profileRoutes");
 const transactionRoutes = require("./routes/transactionRoutes");
+const communityRoutes = require("./routes/communityRoutes")
 
 app.get("/ping", (req, res) => res.send("pong"));
 app.use("/api/transactions", transactionRoutes);
@@ -21,6 +22,7 @@ app.use("/api/requests", requestRoutes);
 app.use("/api/auth", authRoutes);
 app.use("/api/token", tokenRoutes);
 app.use("/api/profile", profileRoutes);
+app.use("/api/communitypost", communityRoutes);
 
 app.get("/", (req, res) => {
   res.send("🌍 Welcome to the Carbon Credit API");

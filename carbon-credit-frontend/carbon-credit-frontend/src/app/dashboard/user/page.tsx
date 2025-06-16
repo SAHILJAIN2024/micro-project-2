@@ -15,12 +15,12 @@ const UserDashboard: React.FC = () => {
   const router = useRouter();
   const [loading, setLoading] = useState(true);
 
-  const walletRef = useRef<HTMLDivElement>(null);
   const profileRef = useRef<HTMLDivElement>(null);
   const transferRef = useRef<HTMLDivElement>(null);
   const balanceRef = useRef<HTMLDivElement>(null);
   const historyRef = useRef<HTMLDivElement>(null);
   const requestRef = useRef<HTMLDivElement>(null);
+  const burnRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     if (typeof window !== "undefined") {
@@ -73,8 +73,11 @@ const UserDashboard: React.FC = () => {
           <button onClick={() => scrollToSection(requestRef)} className={styles.navButton}>
             Submit Request
           </button>
-          <button onClick={() => scrollToSection(requestRef)} className={styles.navButton}>
+          <button onClick={() => scrollToSection(burnRef)} className={styles.navButton}>
             Burn Token
+          </button>
+          <button onClick={() => router.push("/community")} className={styles.navButton}>
+            Community Page
           </button>
           <button onClick={handleLogout} className={styles.navButton}>
             Logout
@@ -104,11 +107,11 @@ const UserDashboard: React.FC = () => {
         <section ref={requestRef}>
           <CreateRequest />
         </section>
-         {/* Burn Section */}
-      <section id="burn" className={styles.section}>
-        <h2>Burn CRX Tokens</h2>
-        <BurnToken />
-      </section>
+        {/* Burn Section */}
+        <section ref = {burnRef} id="burn" className={styles.section}>
+          <h2>Burn CRX Tokens</h2>
+          <BurnToken />
+        </section>
       </div>
     </main>
   );
