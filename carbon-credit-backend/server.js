@@ -15,7 +15,9 @@ const tokenRoutes = require("./routes/tokenRoutes");
 const profileRoutes = require("./routes/profileRoutes");
 const transactionRoutes = require("./routes/transactionRoutes");
 const communityRoutes = require("./routes/communityRoutes")
+const aiRoutes = require("./routes/aiRoutes");
 
+app.use("/api/ai", aiRoutes);
 app.get("/ping", (req, res) => res.send("pong"));
 app.use("/api/transactions", transactionRoutes);
 app.use("/api/requests", requestRoutes);

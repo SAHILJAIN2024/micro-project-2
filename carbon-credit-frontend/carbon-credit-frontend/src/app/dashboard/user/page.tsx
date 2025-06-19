@@ -79,6 +79,9 @@ const UserDashboard: React.FC = () => {
           <button onClick={() => router.push("/community")} className={styles.navButton}>
             Community Page
           </button>
+          <button onClick={() => router.push("/ai")} className={styles.navButton}>
+            AI prediction
+          </button>
           <button onClick={handleLogout} className={styles.navButton}>
             Logout
           </button>

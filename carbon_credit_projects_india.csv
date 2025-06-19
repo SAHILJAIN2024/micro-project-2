@@ -1,0 +1,2001 @@
+project_type,area_hectares,duration_years,baseline_emissions,expected_emission_reduction,location,emission_factor,carbon_credits_generated
+reforestation,80.67,11,6457.84,398.43,Chhattisgarh,1.73,4383
+methane_capture,8.64,14,2665.44,200.28,Uttarakhand,0.62,2804
+electric_mobility,66.83,12,6053.99,569.28,Madhya Pradesh,1.23,6831
+electric_mobility,9.91,6,1260.61,181.19,Chandigarh,0.87,1087
+reforestation,0.0,16,2299.81,724.77,Delhi,0.0,11596
+wetland_restoration,7.84,19,1415.9,164.02,Delhi,1.08,3116
+methane_capture,0.0,19,10039.02,582.46,Sikkim,0.0,11067
+sustainable_agriculture,0.0,8,9701.39,246.45,Bihar,0.0,1972
+afforestation,0.0,7,7122.77,505.45,West Bengal,0.0,3538
+solar_power,0.0,6,9539.97,969.07,Andhra Pradesh,0.0,5814
+solar_power,0.0,6,7010.41,215.97,Andaman and Nicobar Islands,0.0,1296
+geothermal_energy,34.53,6,805.1,173.79,Sikkim,1.38,1043
+wetland_restoration,0.0,19,4253.74,591.06,Puducherry,0.0,11230
+carbon_sequestration,33.46,6,1800.17,186.68,Uttarakhand,1.12,1120
+wetland_restoration,0.0,10,1281.82,858.06,Gujarat,0.0,8581
+reforestation,0.0,16,9455.49,905.34,Tamil Nadu,0.0,14486
+methane_capture,0.0,18,7545.45,393.89,Himachal Pradesh,0.0,7090
+carbon_sequestration,0.0,18,4547.78,245.23,Andaman and Nicobar Islands,0.0,4414
+geothermal_energy,85.23,12,4777.84,393.38,Madhya Pradesh,3.99,4721
+reforestation,31.69,13,1986.47,501.1,Andaman and Nicobar Islands,3.17,6514
+sustainable_agriculture,0.0,5,2203.27,623.4,Haryana,0.0,3117
+wetland_restoration,0.0,5,4583.3,205.52,Tamil Nadu,0.0,1028
+wind_energy,107.43,15,0.0,0.0,Puducherry,7.98,12859
+electric_mobility,387.92,7,0.0,0.0,Andhra Pradesh,3.52,9554
+biochar_production,32.9,11,2625.1,162.36,Nagaland,2.33,1786
+wetland_restoration,0.0,5,1572.03,379.88,West Bengal,0.0,1899
+biochar_production,0.0,12,6993.3,632.17,Uttarakhand,0.0,7586
+solar_power,44.47,10,798.99,228.31,Lakshadweep,1.44,2283
+green_building,36.36,5,1140.17,60.11,Puducherry,0.97,301
+biochar_production,45.62,19,1755.24,115.71,Sikkim,1.1,2199
+sustainable_agriculture,50.16,11,5868.61,169.67,Madhya Pradesh,3.25,1866
+biochar_production,211.09,11,0.0,0.0,Lakshadweep,8.29,19246
+wetland_restoration,94.57,8,5863.49,540.23,Delhi,3.4,4322
+carbon_sequestration,40.6,14,2678.65,250.92,Ladakh,1.77,3513
+solar_power,0.0,16,7414.63,1083.28,Punjab,0.0,17332
+afforestation,40.56,20,1295.01,77.51,Rajasthan,2.29,1550
+green_building,0.0,13,10419.97,200.52,Meghalaya,0.0,2607
+methane_capture,0.0,17,13189.5,206.95,Goa,0.0,3518
+biochar_production,27.17,12,2231.09,117.35,Maharashtra,1.47,1408
+electric_mobility,0.0,12,9486.19,390.88,Karnataka,0.0,4691
+biochar_production,28.35,20,662.23,113.48,Himachal Pradesh,1.31,2270
+afforestation,13.34,16,1252.2,121.21,Goa,1.49,1939
+afforestation,30.34,5,3877.26,116.53,Manipur,4.91,583
+carbon_sequestration,91.29,20,2014.26,344.73,Maharashtra,1.96,6895
+green_building,280.92,20,0.0,0.0,Sikkim,7.15,40165
+green_building,0.0,11,11901.05,437.64,Andaman and Nicobar Islands,0.0,4814
+green_building,40.35,19,2958.56,149.71,Jammu and Kashmir,1.44,2844
+solar_power,0.0,19,1812.61,851.77,Lakshadweep,0.0,16184
+wetland_restoration,0.0,16,8606.58,895.81,Haryana,0.0,14333
+afforestation,0.0,7,6318.04,709.81,Tripura,0.0,4969
+wind_energy,358.46,7,0.0,0.0,Punjab,8.67,21746
+biochar_production,326.13,8,0.0,0.0,Dadra and Nagar Haveli and Daman and Diu,4.22,11012
+afforestation,20.48,5,2594.28,218.92,Sikkim,1.54,1095
+solar_power,0.0,13,2021.26,932.22,Chandigarh,0.0,12119
+biochar_production,0.0,18,7262.06,305.7,Meghalaya,0.0,5503
+methane_capture,410.44,20,0.0,0.0,Bihar,6.89,56529
+wetland_restoration,0.0,16,5390.78,1196.25,Mizoram,0.0,19140
+biochar_production,449.64,18,0.0,0.0,Tripura,9.3,75293
+afforestation,0.0,15,2698.36,350.98,Himachal Pradesh,0.0,5265
+geothermal_energy,73.97,7,7209.6,489.94,Delhi,4.59,3430
+electric_mobility,426.95,12,0.0,0.0,Telangana,9.55,48926
+reforestation,90.36,8,1064.38,150.74,Haryana,3.43,1206
+green_building,0.0,7,14657.63,483.92,Delhi,0.0,3387
+carbon_sequestration,0.0,18,5938.6,722.71,Tripura,0.0,13009
+biochar_production,0.0,20,9950.12,258.33,Gujarat,0.0,5167
+green_building,27.54,8,6225.44,424.82,Chhattisgarh,2.3,3399
+sustainable_agriculture,73.49,11,4797.78,354.41,Uttar Pradesh,2.23,3898
+sustainable_agriculture,0.0,10,3386.82,319.59,Maharashtra,0.0,3196
+carbon_sequestration,48.97,10,2765.25,158.6,Telangana,1.47,1586
+electric_mobility,0.0,9,5523.73,619.21,Andaman and Nicobar Islands,0.0,5573
+green_building,87.1,20,4494.35,386.0,Manipur,1.92,7720
+biochar_production,0.0,20,10391.14,377.11,Andaman and Nicobar Islands,0.0,7542
+methane_capture,0.0,16,8109.28,479.56,Ladakh,0.0,7673
+wind_energy,0.0,10,6812.06,215.46,Ladakh,0.0,2155
+electric_mobility,36.42,12,5006.05,590.17,Punjab,3.21,7082
+methane_capture,15.43,8,2627.84,129.23,Arunachal Pradesh,1.27,1034
+afforestation,40.41,20,6909.49,565.01,Lakshadweep,2.58,11300
+carbon_sequestration,0.0,18,3263.29,815.01,Tripura,0.0,14670
+green_building,185.74,10,0.0,0.0,Punjab,4.78,8877
+biochar_production,439.91,14,0.0,0.0,Dadra and Nagar Haveli and Daman and Diu,8.19,50412
+geothermal_energy,76.94,5,0.0,0.0,Punjab,7.96,3063
+sustainable_agriculture,0.0,11,5816.69,1009.36,Meghalaya,0.0,11103
+solar_power,135.54,7,0.0,0.0,Haryana,7.28,6908
+solar_power,0.0,16,8647.45,701.52,Gujarat,0.0,11224
+wetland_restoration,105.19,17,0.0,0.0,Andaman and Nicobar Islands,3.5,6253
+methane_capture,0.0,18,8162.13,901.0,Punjab,0.0,16218
+geothermal_energy,7.62,11,4069.32,436.01,Puducherry,3.32,4796
+wind_energy,49.23,7,3005.79,395.42,Madhya Pradesh,3.17,2768
+sustainable_agriculture,0.0,10,5253.27,238.83,Dadra and Nagar Haveli and Daman and Diu,0.0,2388
+wetland_restoration,0.0,19,4241.72,214.35,Dadra and Nagar Haveli and Daman and Diu,0.0,4073
+biochar_production,83.65,5,7756.76,328.63,Himachal Pradesh,2.09,1643
+geothermal_energy,0.0,10,1465.14,578.22,Chhattisgarh,0.0,5782
+methane_capture,71.45,19,1929.22,584.77,Andaman and Nicobar Islands,1.55,11111
+methane_capture,0.0,14,6198.43,995.19,Madhya Pradesh,0.0,13933
+reforestation,22.24,19,1127.15,96.08,Jammu and Kashmir,1.99,1826
+carbon_sequestration,0.0,18,12867.74,895.97,Maharashtra,0.0,16128
+solar_power,3.85,9,1605.88,109.95,Maharashtra,2.33,990
+biochar_production,0.0,10,7431.36,694.18,Chhattisgarh,0.0,6942
+methane_capture,0.0,9,10297.52,716.7,West Bengal,0.0,6450
+geothermal_energy,57.66,20,3937.2,223.87,Assam,3.45,4477
+wetland_restoration,87.74,20,0.0,0.0,Delhi,3.84,6740
+reforestation,6.69,17,601.82,263.87,Chandigarh,0.59,4486
+electric_mobility,95.91,8,0.0,0.0,Jammu and Kashmir,3.12,2394
+wetland_restoration,51.7,14,2212.41,316.93,Bihar,2.89,4437
+methane_capture,3.35,11,2716.7,115.22,Manipur,2.4,1267
+wind_energy,31.67,14,2641.22,214.67,Ladakh,1.51,3005
+biochar_production,31.18,8,2860.63,266.8,West Bengal,2.39,2134
+solar_power,94.32,20,3717.19,421.64,Bihar,3.3,8433
+wetland_restoration,82.06,5,5381.58,510.21,Maharashtra,4.28,2551
+green_building,45.36,12,673.4,75.19,Chandigarh,0.89,902
+solar_power,29.09,6,0.0,0.0,Ladakh,7.33,1279
+green_building,4.49,11,2612.19,55.82,Tripura,1.14,614
+geothermal_energy,13.77,6,2232.23,137.08,Ladakh,1.49,822
+reforestation,44.0,15,2508.7,120.51,Tripura,1.97,1808
+electric_mobility,0.0,14,7505.12,768.52,Dadra and Nagar Haveli and Daman and Diu,0.0,10759
+afforestation,0.0,7,9914.55,471.36,Meghalaya,0.0,3299
+methane_capture,13.25,6,2667.79,190.47,Andaman and Nicobar Islands,1.66,1143
+solar_power,45.75,16,6281.8,151.56,Dadra and Nagar Haveli and Daman and Diu,4.0,2425
+carbon_sequestration,0.0,5,5808.95,546.91,West Bengal,0.0,2735
+afforestation,16.68,13,1473.0,52.71,Chandigarh,2.29,685
+sustainable_agriculture,85.48,13,7697.61,438.38,Tamil Nadu,2.42,5699
+electric_mobility,0.0,8,9454.69,831.84,Ladakh,0.0,6655
+sustainable_agriculture,54.94,9,0.0,0.0,Himachal Pradesh,7.22,3568
+biochar_production,68.89,8,6541.05,494.81,Lakshadweep,4.01,3958
+green_building,466.16,17,0.0,0.0,Karnataka,9.82,77818
+solar_power,0.0,18,5945.76,497.38,Karnataka,0.0,8953
+biochar_production,0.0,11,5913.24,735.25,Uttar Pradesh,0.0,8088
+green_building,80.07,19,0.0,0.0,Himachal Pradesh,8.33,12673
+electric_mobility,87.35,16,3982.64,211.29,Andhra Pradesh,4.35,3381
+reforestation,0.0,13,8396.74,735.62,Arunachal Pradesh,0.0,9563
+solar_power,0.0,9,5619.94,309.91,Punjab,0.0,2789
+solar_power,0.0,12,6865.52,570.64,Himachal Pradesh,0.0,6848
+green_building,27.49,8,5143.22,275.11,Tripura,4.63,2201
+carbon_sequestration,0.0,16,1751.51,799.43,Andaman and Nicobar Islands,0.0,12791
+geothermal_energy,71.98,10,3311.77,317.23,Gujarat,1.99,3172
+sustainable_agriculture,0.0,17,1102.18,521.79,Bihar,0.0,8871
+green_building,0.0,14,11632.66,967.19,Bihar,0.0,13541
+afforestation,32.81,19,1958.42,290.54,Delhi,1.99,5520
+biochar_production,244.08,19,0.0,0.0,Punjab,3.58,16603
+geothermal_energy,11.96,5,530.39,292.47,Maharashtra,2.43,1462
+wind_energy,0.0,17,6194.92,243.4,Tripura,0.0,4138
+geothermal_energy,99.33,9,4876.98,584.65,Telangana,1.3,5262
+reforestation,0.0,6,4160.8,416.81,Delhi,0.0,2501
+methane_capture,0.0,19,7909.03,827.56,Odisha,0.0,15724
+wind_energy,19.83,10,2788.14,289.68,West Bengal,1.97,2897
+methane_capture,0.0,20,9012.37,510.09,West Bengal,0.0,10202
+carbon_sequestration,0.0,16,6363.58,369.68,Telangana,0.0,5915
+solar_power,0.0,8,5173.29,418.02,Ladakh,0.0,3344
+methane_capture,0.0,6,3393.44,424.31,Mizoram,0.0,2546
+green_building,0.0,8,9875.9,728.35,Maharashtra,0.0,5827
+carbon_sequestration,31.58,5,5219.47,235.48,Kerala,2.64,1177
+afforestation,0.0,17,9198.34,840.28,Uttarakhand,0.0,14285
+sustainable_agriculture,214.15,6,0.0,0.0,Nagaland,7.07,9082
+geothermal_energy,0.0,13,4764.19,939.46,Puducherry,0.0,12213
+wetland_restoration,280.28,6,0.0,0.0,Arunachal Pradesh,4.15,6985
+electric_mobility,40.76,12,7910.93,175.21,Mizoram,4.24,2102
+geothermal_energy,377.29,9,0.0,0.0,Karnataka,5.75,19528
+solar_power,0.0,15,12947.55,1038.33,Chandigarh,0.0,15575
+wind_energy,28.04,6,0.0,0.0,Tripura,3.94,662
+electric_mobility,10.36,9,6690.31,599.86,Puducherry,4.46,5399
+electric_mobility,457.45,10,0.0,0.0,Telangana,7.1,32461
+reforestation,94.75,9,2731.44,325.27,Arunachal Pradesh,4.4,2927
+electric_mobility,28.89,18,2450.59,539.11,Arunachal Pradesh,2.1,9704
+wetland_restoration,0.0,12,6563.15,422.35,Manipur,0.0,5068
+methane_capture,2.09,12,1690.53,257.84,Nagaland,1.5,3094
+solar_power,0.0,6,8669.63,596.72,Gujarat,0.0,3580
+solar_power,0.0,9,1795.67,812.64,Jammu and Kashmir,0.0,7314
+geothermal_energy,0.0,5,3742.2,228.78,West Bengal,0.0,1144
+biochar_production,79.54,19,6635.31,551.58,Odisha,3.56,10480
+methane_capture,1.71,20,1974.79,148.06,Maharashtra,1.2,2961
+biochar_production,5.46,15,1868.62,162.73,Uttar Pradesh,1.95,2441
+green_building,20.43,19,2655.91,287.38,Mizoram,1.74,5460
+electric_mobility,23.51,8,2422.29,66.56,Telangana,2.18,532
+biochar_production,49.02,9,1321.88,208.35,West Bengal,1.49,1875
+electric_mobility,177.37,20,0.0,0.0,Goa,6.76,23983
+wetland_restoration,17.16,11,1971.79,420.44,Manipur,1.61,4625
+biochar_production,0.0,12,7268.51,470.5,Karnataka,0.0,5646
+carbon_sequestration,0.0,20,5265.65,700.8,Manipur,0.0,14016
+afforestation,0.0,6,9825.16,423.85,Andhra Pradesh,0.0,2543
+wind_energy,92.78,9,0.0,0.0,Uttarakhand,4.95,4133
+reforestation,8.02,17,4740.96,278.0,Uttar Pradesh,3.19,4726
+green_building,18.85,18,2225.99,59.83,Uttar Pradesh,1.51,1077
+solar_power,0.0,13,8254.89,887.78,Meghalaya,0.0,11541
+afforestation,87.99,12,1427.55,238.44,Meghalaya,4.68,2861
+geothermal_energy,51.41,5,0.0,0.0,Jharkhand,7.18,1846
+reforestation,112.58,8,0.0,0.0,Madhya Pradesh,5.59,5038
+carbon_sequestration,125.7,10,0.0,0.0,Telangana,8.32,10458
+methane_capture,0.0,18,5162.81,772.72,Rajasthan,0.0,13909
+geothermal_energy,0.0,18,2329.65,219.81,Jharkhand,0.0,3956
+electric_mobility,448.65,7,0.0,0.0,Rajasthan,6.58,20670
+wind_energy,2.49,19,1385.37,149.29,Odisha,2.23,2837
+methane_capture,141.93,20,0.0,0.0,Telangana,5.64,16012
+solar_power,286.34,14,0.0,0.0,Tamil Nadu,8.88,35618
+green_building,0.0,10,3947.48,207.79,Himachal Pradesh,0.0,2078
+reforestation,178.03,5,0.0,0.0,Chandigarh,6.32,5624
+carbon_sequestration,79.97,14,1608.44,368.55,Manipur,2.99,5160
+afforestation,283.29,6,0.0,0.0,Haryana,7.11,12078
+afforestation,0.0,16,2148.22,355.4,Sikkim,0.0,5686
+methane_capture,45.08,10,1110.88,174.56,Andhra Pradesh,1.72,1746
+geothermal_energy,0.0,10,9875.07,437.23,Kerala,0.0,4372
+electric_mobility,12.04,10,1719.52,262.7,Nagaland,1.23,2627
+carbon_sequestration,32.08,18,7277.36,140.12,Bihar,1.69,2522
+wind_energy,18.94,7,0.0,0.0,Manipur,7.88,1044
+solar_power,0.0,12,3456.51,597.86,Jammu and Kashmir,0.0,7174
+methane_capture,459.52,16,0.0,0.0,Chandigarh,3.04,22330
+electric_mobility,13.64,10,2171.61,282.34,Karnataka,0.84,2823
+carbon_sequestration,27.22,19,2596.46,101.27,Assam,1.45,1924
+biochar_production,0.0,14,6207.83,625.44,Gujarat,0.0,8756
+afforestation,0.0,5,7626.22,576.86,Nagaland,0.0,2884
+carbon_sequestration,30.92,5,1953.1,88.59,Lakshadweep,1.08,443
+carbon_sequestration,35.46,8,3584.61,327.13,Delhi,3.38,2617
+green_building,0.0,9,2823.87,1189.96,Nagaland,0.0,10710
+methane_capture,34.54,17,847.06,50.68,Jammu and Kashmir,0.68,862
+sustainable_agriculture,301.86,13,0.0,0.0,West Bengal,6.3,24727
+biochar_production,39.92,11,2626.82,236.49,West Bengal,0.71,2601
+afforestation,0.0,6,3615.86,930.87,Telangana,0.0,5585
+wetland_restoration,11.05,13,2816.12,230.4,Uttarakhand,1.26,2995
+green_building,0.0,16,12943.77,339.77,Dadra and Nagar Haveli and Daman and Diu,0.0,5436
+solar_power,0.0,13,7754.52,819.58,Delhi,0.0,10655
+solar_power,9.05,7,2162.99,180.77,Bihar,2.13,1265
+solar_power,164.94,8,0.0,0.0,Odisha,7.12,9392
+wind_energy,0.0,6,8349.39,495.22,Uttarakhand,0.0,2971
+carbon_sequestration,0.0,18,13695.68,824.1,Chandigarh,0.0,14834
+biochar_production,76.02,5,2625.49,549.79,Tripura,3.01,2749
+green_building,0.0,11,8914.15,266.62,Nagaland,0.0,2933
+reforestation,315.88,12,0.0,0.0,Delhi,3.82,14473
+reforestation,173.08,10,0.0,0.0,Karnataka,8.11,14043
+wetland_restoration,78.24,14,0.0,0.0,Haryana,8.56,9375
+wind_energy,252.76,17,0.0,0.0,Nagaland,8.19,35192
+wind_energy,396.41,15,0.0,0.0,Bihar,4.06,24152
+reforestation,0.0,5,11190.75,978.57,Chandigarh,0.0,4893
+wind_energy,26.43,5,0.0,0.0,Maharashtra,6.99,924
+wetland_restoration,0.0,14,8421.76,954.64,Delhi,0.0,13365
+afforestation,0.0,10,8391.32,199.57,Punjab,0.0,1996
+reforestation,48.42,8,4516.02,369.93,Lakshadweep,3.42,2959
+green_building,122.33,17,0.0,0.0,Puducherry,8.06,16753
+wetland_restoration,0.0,6,1109.83,638.6,Andhra Pradesh,0.0,3832
+electric_mobility,0.0,8,9055.42,451.8,Chandigarh,0.0,3614
+reforestation,41.51,9,1356.31,106.84,West Bengal,2.42,962
+electric_mobility,0.0,11,8006.08,1147.28,Odisha,0.0,12620
+green_building,0.0,16,13854.08,339.12,Maharashtra,0.0,5426
+biochar_production,63.09,6,7104.87,566.06,Assam,1.07,3396
+sustainable_agriculture,92.28,8,1161.16,425.68,Dadra and Nagar Haveli and Daman and Diu,4.16,3405
+reforestation,0.0,5,9491.75,806.72,Odisha,0.0,4034
+methane_capture,0.0,10,1695.89,193.82,Puducherry,0.0,1938
+electric_mobility,463.53,13,0.0,0.0,Madhya Pradesh,6.16,37095
+methane_capture,0.0,18,3123.15,248.97,Dadra and Nagar Haveli and Daman and Diu,0.0,4481
+electric_mobility,0.0,8,3620.61,1120.84,Maharashtra,0.0,8967
+methane_capture,16.26,19,2019.74,144.83,Telangana,0.95,2752
+sustainable_agriculture,17.42,9,511.58,133.37,Puducherry,2.11,1200
+wetland_restoration,21.31,19,2807.4,166.43,Jharkhand,2.23,3162
+wind_energy,0.0,15,11587.52,652.22,Manipur,0.0,9783
+methane_capture,26.09,15,0.0,0.0,Gujarat,9.39,3675
+wetland_restoration,0.0,10,4293.03,698.37,Delhi,0.0,6984
+wetland_restoration,0.0,10,1304.91,380.33,Assam,0.0,3803
+green_building,0.0,17,6225.3,669.04,Karnataka,0.0,11374
+biochar_production,0.0,16,4764.85,715.17,Karnataka,0.0,11443
+methane_capture,480.92,5,0.0,0.0,Andaman and Nicobar Islands,4.04,9716
+geothermal_energy,431.71,10,0.0,0.0,Nagaland,6.75,29121
+wind_energy,52.71,12,1469.54,474.98,Assam,3.38,5700
+carbon_sequestration,0.0,15,12397.17,549.39,Dadra and Nagar Haveli and Daman and Diu,0.0,8241
+biochar_production,103.44,18,0.0,0.0,Assam,3.26,6062
+afforestation,0.0,18,8529.08,628.71,Mizoram,0.0,11317
+carbon_sequestration,390.01,5,0.0,0.0,Dadra and Nagar Haveli and Daman and Diu,6.17,12038
+solar_power,271.88,6,0.0,0.0,Karnataka,6.37,10387
+wetland_restoration,28.42,18,954.82,265.45,Chhattisgarh,0.81,4778
+sustainable_agriculture,379.09,11,0.0,0.0,Mizoram,4.91,20458
+electric_mobility,32.56,7,563.47,89.04,Arunachal Pradesh,1.32,623
+solar_power,43.48,6,1879.31,113.47,Punjab,1.32,681
+sustainable_agriculture,339.23,11,0.0,0.0,Gujarat,3.14,11709
+carbon_sequestration,176.24,10,0.0,0.0,Goa,6.99,12313
+reforestation,0.0,7,6874.71,314.36,Lakshadweep,0.0,2201
+geothermal_energy,0.0,6,12469.09,1188.73,Tamil Nadu,0.0,7132
+wetland_restoration,0.0,20,8701.27,847.2,Chandigarh,0.0,16944
+reforestation,0.0,8,9499.69,226.97,Goa,0.0,1816
+geothermal_energy,153.64,18,0.0,0.0,Puducherry,9.27,25649
+afforestation,0.0,11,6699.17,762.31,Punjab,0.0,8385
+carbon_sequestration,0.0,9,1238.79,263.29,Chandigarh,0.0,2370
+afforestation,0.0,8,6786.33,733.55,Odisha,0.0,5868
+biochar_production,82.66,5,2815.96,289.85,Delhi,2.37,1449
+afforestation,8.25,11,3416.35,486.92,Jammu and Kashmir,4.32,5356
+afforestation,223.7,13,0.0,0.0,Goa,5.06,14719
+solar_power,0.0,8,9770.93,801.78,Meghalaya,0.0,6414
+sustainable_agriculture,0.0,5,13290.08,687.43,Manipur,0.0,3437
+biochar_production,240.82,18,0.0,0.0,Arunachal Pradesh,4.27,18530
+electric_mobility,7.13,6,4791.44,416.74,Punjab,2.07,2500
+geothermal_energy,0.0,11,2962.21,680.55,Mizoram,0.0,7486
+methane_capture,492.36,18,0.0,0.0,Andhra Pradesh,6.68,59200
+methane_capture,0.0,17,10985.88,883.18,Goa,0.0,15014
+geothermal_energy,91.86,10,5035.62,237.03,Bihar,1.47,2370
+reforestation,0.0,5,7268.23,697.46,Mizoram,0.0,3487
+geothermal_energy,0.0,16,4683.48,211.0,Jammu and Kashmir,0.0,3376
+afforestation,139.21,9,0.0,0.0,Meghalaya,4.87,6096
+carbon_sequestration,302.73,15,0.0,0.0,Dadra and Nagar Haveli and Daman and Diu,7.2,32712
+green_building,0.0,13,5448.46,615.96,Jharkhand,0.0,8008
+carbon_sequestration,44.78,5,4632.42,123.48,Bihar,2.53,617
+wetland_restoration,47.97,16,725.84,242.75,Nagaland,0.87,3884
+wetland_restoration,200.75,17,0.0,0.0,Telangana,5.02,17135
+wetland_restoration,45.86,20,2026.01,287.33,Sikkim,1.94,5747
+solar_power,33.52,11,2331.43,103.74,Jharkhand,2.37,1141
+sustainable_agriculture,56.29,8,6890.71,523.2,Uttarakhand,1.65,4186
+wind_energy,302.45,15,0.0,0.0,Andaman and Nicobar Islands,5.34,24225
+electric_mobility,50.05,14,3460.78,306.4,Telangana,2.38,4290
+reforestation,34.73,17,1116.01,254.78,Andhra Pradesh,1.37,4331
+green_building,11.15,9,0.0,0.0,Madhya Pradesh,9.77,980
+afforestation,0.0,10,6312.08,424.88,Dadra and Nagar Haveli and Daman and Diu,0.0,4249
+carbon_sequestration,405.64,16,0.0,0.0,West Bengal,9.73,63181
+afforestation,475.62,5,0.0,0.0,Madhya Pradesh,6.12,14559
+solar_power,5.25,19,2395.98,209.74,Punjab,2.42,3985
+carbon_sequestration,33.28,5,2622.99,112.42,Jharkhand,1.88,562
+biochar_production,32.69,13,628.99,217.48,Arunachal Pradesh,1.89,2827
+electric_mobility,35.57,20,951.44,191.99,Assam,2.35,3840
+methane_capture,163.3,14,0.0,0.0,Tripura,3.84,8787
+carbon_sequestration,33.25,11,7797.41,572.13,Puducherry,4.7,6293
+wetland_restoration,75.78,6,4186.01,361.22,Mizoram,1.22,2167
+green_building,8.52,11,2610.06,160.28,Dadra and Nagar Haveli and Daman and Diu,3.39,1763
+wind_energy,44.36,6,1602.58,151.12,Rajasthan,1.56,907
+solar_power,0.0,11,6098.77,739.49,Punjab,0.0,8134
+reforestation,67.86,17,4641.18,313.41,West Bengal,3.95,5328
+afforestation,12.42,16,2675.25,55.32,Nagaland,0.55,885
+methane_capture,100.88,11,0.0,0.0,Chhattisgarh,5.69,6312
+methane_capture,0.0,20,8189.05,998.14,Gujarat,0.0,19963
+wind_energy,35.82,8,0.0,0.0,Andaman and Nicobar Islands,3.62,1037
+green_building,50.59,18,7115.74,592.04,Madhya Pradesh,3.51,10657
+wind_energy,0.0,14,1825.29,402.73,Himachal Pradesh,0.0,5638
+solar_power,371.42,8,0.0,0.0,Maharashtra,4.67,13880
+sustainable_agriculture,0.0,7,8075.04,497.0,Uttarakhand,0.0,3479
+electric_mobility,0.0,6,3666.77,310.25,Meghalaya,0.0,1861
+green_building,145.86,13,0.0,0.0,Ladakh,9.37,17772
+methane_capture,0.0,19,7561.05,584.33,Andhra Pradesh,0.0,11102
+methane_capture,7.1,12,2494.97,114.75,West Bengal,2.41,1377
+green_building,44.67,16,7613.12,333.7,Tripura,4.52,5339
+wetland_restoration,0.0,17,9902.66,769.02,Karnataka,0.0,13073
+green_building,0.0,8,3085.05,948.46,Tripura,0.0,7588
+reforestation,12.3,19,800.85,61.74,Arunachal Pradesh,2.16,1173
+wind_energy,11.8,13,2448.96,137.53,Dadra and Nagar Haveli and Daman and Diu,0.87,1788
+carbon_sequestration,0.0,9,6668.0,294.69,Telangana,0.0,2652
+biochar_production,93.14,13,2217.27,298.12,Jammu and Kashmir,4.98,3876
+wetland_restoration,250.68,6,0.0,0.0,Kerala,9.97,15002
+reforestation,82.5,7,2566.72,368.49,Telangana,1.9,2579
+solar_power,0.0,13,13633.98,1060.13,Uttar Pradesh,0.0,13782
+afforestation,0.0,15,13406.99,465.6,Madhya Pradesh,0.0,6984
+electric_mobility,24.36,16,2630.48,58.86,Madhya Pradesh,0.59,942
+carbon_sequestration,33.11,19,717.47,152.11,Lakshadweep,1.6,2890
+sustainable_agriculture,0.0,19,1045.74,726.14,Odisha,0.0,13797
+wind_energy,25.3,20,1050.46,220.81,Punjab,0.66,4416
+reforestation,0.0,9,9923.28,155.37,Kerala,0.0,1398
+wetland_restoration,245.49,17,0.0,0.0,Gujarat,7.15,29826
+wind_energy,28.99,14,1859.45,266.12,Odisha,1.82,3726
+biochar_production,44.05,5,2146.13,262.65,Lakshadweep,2.09,1313
+afforestation,8.86,15,1096.73,282.52,Manipur,1.17,4238
+afforestation,0.0,8,10041.95,952.72,Lakshadweep,0.0,7622
+solar_power,0.0,11,13461.28,1161.32,Punjab,0.0,12774
+geothermal_energy,7.78,13,1902.09,267.56,Ladakh,4.3,3478
+methane_capture,91.33,18,4893.27,478.32,Dadra and Nagar Haveli and Daman and Diu,1.0,8610
+electric_mobility,0.0,16,1057.47,358.33,Tamil Nadu,0.0,5733
+wind_energy,0.0,18,6243.64,759.84,Kerala,0.0,13677
+wind_energy,137.3,12,0.0,0.0,Manipur,7.44,12255
+biochar_production,82.77,12,2983.4,109.21,Uttarakhand,1.51,1311
+sustainable_agriculture,481.87,13,0.0,0.0,Assam,5.39,33784
+sustainable_agriculture,22.05,16,6521.65,186.88,Tripura,4.01,2990
+methane_capture,0.0,8,2881.88,500.96,Arunachal Pradesh,0.0,4008
+green_building,387.78,5,0.0,0.0,Goa,7.96,15434
+wind_energy,17.95,10,614.36,267.88,Tripura,1.74,2679
+methane_capture,69.22,20,5533.02,397.2,Ladakh,2.78,7944
+carbon_sequestration,7.34,16,3265.27,344.32,Jharkhand,1.09,5509
+wind_energy,0.0,7,5282.61,201.03,Kerala,0.0,1407
+wetland_restoration,30.99,6,3983.27,325.69,Dadra and Nagar Haveli and Daman and Diu,4.99,1954
+geothermal_energy,0.0,11,8851.31,1025.92,Puducherry,0.0,11285
+reforestation,0.0,15,4870.0,282.38,Jharkhand,0.0,4236
+sustainable_agriculture,0.0,18,4990.7,331.34,Punjab,0.0,5964
+biochar_production,95.33,7,4026.34,571.81,Andaman and Nicobar Islands,1.6,4003
+afforestation,430.11,20,0.0,0.0,Rajasthan,9.75,83885
+wetland_restoration,144.37,7,0.0,0.0,Uttarakhand,9.89,9992
+methane_capture,167.16,5,0.0,0.0,Telangana,8.07,6746
+electric_mobility,11.44,6,2129.17,142.13,West Bengal,0.56,853
+solar_power,24.11,19,898.11,100.93,Telangana,1.59,1918
+carbon_sequestration,39.05,17,2611.96,240.26,Tamil Nadu,2.04,4084
+sustainable_agriculture,40.04,7,2779.59,291.88,Delhi,1.09,2043
+biochar_production,400.3,8,0.0,0.0,Uttar Pradesh,6.37,20402
+solar_power,0.0,18,6384.95,646.58,Jammu and Kashmir,0.0,11638
+wind_energy,0.0,8,4872.75,280.47,Meghalaya,0.0,2244
+green_building,0.0,13,2447.43,686.37,Kerala,0.0,8923
+methane_capture,0.0,9,3420.94,817.8,Madhya Pradesh,0.0,7360
+wetland_restoration,0.0,15,14796.57,349.58,Tamil Nadu,0.0,5244
+methane_capture,11.88,9,4359.57,400.01,Jammu and Kashmir,2.57,3600
+geothermal_energy,67.41,20,7668.54,553.91,Manipur,4.03,11078
+wind_energy,0.0,15,5324.56,194.44,Goa,0.0,2917
+wetland_restoration,0.0,5,3336.3,770.9,Chhattisgarh,0.0,3855
+geothermal_energy,0.0,19,8485.55,818.16,Goa,0.0,15545
+reforestation,37.87,8,7588.66,136.21,Uttarakhand,4.1,1090
+biochar_production,13.35,5,1232.42,139.29,Assam,2.4,696
+wetland_restoration,167.83,10,0.0,0.0,Sikkim,9.84,16518
+biochar_production,0.0,14,10963.04,1000.59,Odisha,0.0,14008
+solar_power,0.0,6,1370.65,703.35,Maharashtra,0.0,4220
+geothermal_energy,321.85,12,0.0,0.0,Bihar,7.95,30687
+carbon_sequestration,301.44,10,0.0,0.0,Karnataka,7.32,22054
+geothermal_energy,275.24,19,0.0,0.0,Lakshadweep,7.96,41644
+geothermal_energy,47.42,12,2458.56,203.06,Puducherry,1.75,2437
+carbon_sequestration,0.0,19,3041.49,1094.82,Jharkhand,0.0,20802
+carbon_sequestration,30.28,8,1702.26,60.19,Meghalaya,2.07,482
+wetland_restoration,368.48,16,0.0,0.0,West Bengal,3.57,21056
+afforestation,30.07,10,1698.2,203.94,Nagaland,1.8,2039
+wetland_restoration,48.82,7,955.29,247.42,Tripura,1.17,1732
+electric_mobility,0.0,11,2567.6,361.67,Chandigarh,0.0,3978
+methane_capture,362.41,10,0.0,0.0,Meghalaya,4.6,16668
+afforestation,0.0,20,9052.22,693.28,Sikkim,0.0,13866
+solar_power,0.0,16,2795.88,712.21,Meghalaya,0.0,11395
+carbon_sequestration,215.02,17,0.0,0.0,Uttarakhand,4.43,16175
+methane_capture,236.69,11,0.0,0.0,Karnataka,9.08,23635
+electric_mobility,44.51,19,5401.35,467.68,Andhra Pradesh,4.38,8886
+wetland_restoration,98.83,18,7069.22,389.34,Andhra Pradesh,1.16,7008
+sustainable_agriculture,2.44,8,2015.47,199.43,Jammu and Kashmir,1.29,1595
+wind_energy,45.06,8,5146.45,556.18,Puducherry,2.11,4449
+electric_mobility,41.47,16,6851.99,217.9,Haryana,2.86,3486
+wind_energy,0.0,14,11305.72,1109.03,Goa,0.0,15526
+wetland_restoration,65.09,11,4588.31,306.52,Jammu and Kashmir,2.49,3372
+geothermal_energy,0.0,10,5430.5,322.51,Assam,0.0,3225
+reforestation,208.46,16,0.0,0.0,Andaman and Nicobar Islands,7.15,23849
+reforestation,18.6,11,908.81,147.77,Tripura,1.69,1625
+afforestation,205.53,13,0.0,0.0,Nagaland,9.01,24063
+afforestation,0.0,9,3926.71,796.13,West Bengal,0.0,7165
+geothermal_energy,204.36,12,0.0,0.0,Jharkhand,4.66,11426
+carbon_sequestration,27.42,19,2188.31,359.89,Andhra Pradesh,1.29,6838
+wind_energy,0.0,14,7024.51,231.18,Uttar Pradesh,0.0,3237
+methane_capture,13.19,9,2266.94,91.76,Bihar,1.73,826
+methane_capture,0.0,8,4414.23,644.98,Telangana,0.0,5160
+solar_power,335.26,19,0.0,0.0,Chandigarh,6.32,40274
+biochar_production,72.01,5,7049.51,379.07,Bihar,2.79,1895
+wetland_restoration,15.63,15,1399.61,365.58,Maharashtra,2.08,5484
+sustainable_agriculture,0.0,8,1465.27,676.0,Arunachal Pradesh,0.0,5408
+wind_energy,47.96,7,3213.09,353.62,Arunachal Pradesh,4.74,2475
+afforestation,347.22,18,0.0,0.0,Uttar Pradesh,5.78,36135
+biochar_production,0.0,6,14546.54,204.94,Mizoram,0.0,1230
+sustainable_agriculture,0.0,6,6200.7,1173.1,Manipur,0.0,7039
+carbon_sequestration,0.0,11,7911.62,715.6,Himachal Pradesh,0.0,7872
+carbon_sequestration,37.55,6,1880.19,166.36,Himachal Pradesh,3.13,998
+wind_energy,35.53,8,2183.58,292.48,Punjab,0.9,2340
+wetland_restoration,0.0,5,7577.47,240.55,Uttarakhand,0.0,1203
+biochar_production,0.0,10,13285.85,377.15,Maharashtra,0.0,3772
+carbon_sequestration,0.0,6,10601.22,1178.63,Uttarakhand,0.0,7072
+wind_energy,0.0,15,7149.23,547.46,Gujarat,0.0,8212
+wind_energy,83.93,5,6379.64,156.55,Maharashtra,4.46,783
+geothermal_energy,34.79,13,1039.19,214.72,Nagaland,1.85,2791
+wetland_restoration,33.68,9,1371.43,89.82,Haryana,1.65,808
+solar_power,3.36,20,1517.27,267.69,Lakshadweep,2.45,5354
+electric_mobility,54.34,13,0.0,0.0,Telangana,5.02,3547
+wind_energy,0.0,15,8906.64,463.73,Karnataka,0.0,6956
+carbon_sequestration,46.36,18,2753.44,269.47,Punjab,1.38,4851
+afforestation,0.0,11,7662.58,1017.83,Punjab,0.0,11196
+green_building,0.0,12,5859.3,849.07,West Bengal,0.0,10189
+afforestation,16.9,9,1490.43,223.87,Himachal Pradesh,1.23,2015
+biochar_production,57.11,16,4819.81,322.21,Delhi,3.39,5155
+biochar_production,0.0,10,1658.76,643.1,Manipur,0.0,6431
+electric_mobility,0.0,18,10353.49,959.34,Ladakh,0.0,17268
+wetland_restoration,0.0,13,6937.22,1063.33,Uttar Pradesh,0.0,13823
+geothermal_energy,425.11,20,0.0,0.0,Chhattisgarh,9.4,79918
+solar_power,17.72,17,1497.06,195.04,Meghalaya,1.26,3316
+electric_mobility,243.58,16,0.0,0.0,Punjab,5.76,22451
+biochar_production,40.84,11,2888.81,54.56,Goa,1.94,600
+reforestation,22.11,11,678.2,288.67,Assam,2.29,3175
+sustainable_agriculture,0.0,8,14051.45,260.27,Delhi,0.0,2082
+carbon_sequestration,24.48,9,915.83,204.34,Sikkim,0.89,1839
+afforestation,14.96,9,2507.56,184.79,Mizoram,1.11,1663
+geothermal_energy,0.0,20,3165.14,917.64,Telangana,0.0,18353
+reforestation,0.0,6,5544.11,613.55,Dadra and Nagar Haveli and Daman and Diu,0.0,3681
+afforestation,266.02,13,0.0,0.0,Tamil Nadu,3.86,13358
+biochar_production,22.24,16,5963.32,153.44,Delhi,3.1,2455
+methane_capture,100.76,14,0.0,0.0,Lakshadweep,9.42,13294
+solar_power,0.0,8,5351.91,825.39,Andhra Pradesh,0.0,6603
+sustainable_agriculture,19.3,5,780.76,50.65,Haryana,1.55,253
+reforestation,0.0,10,12649.46,1084.21,Himachal Pradesh,0.0,10842
+carbon_sequestration,80.41,13,2223.41,280.39,West Bengal,3.59,3645
+afforestation,0.0,14,9100.21,418.08,Kerala,0.0,5853
+afforestation,135.27,14,0.0,0.0,Telangana,5.11,9685
+green_building,0.0,12,12693.99,623.74,Karnataka,0.0,7485
+afforestation,0.0,14,8285.77,789.99,Andaman and Nicobar Islands,0.0,11060
+wind_energy,47.92,14,2176.1,468.44,Madhya Pradesh,3.35,6558
+green_building,24.17,6,946.11,128.07,Punjab,1.57,768
+geothermal_energy,62.67,7,2623.63,295.45,Meghalaya,3.19,2068
+geothermal_energy,10.55,17,2921.78,398.52,Karnataka,1.57,6775
+geothermal_energy,0.0,6,4638.87,485.38,Karnataka,0.0,2912
+wind_energy,365.01,11,0.0,0.0,Andaman and Nicobar Islands,3.11,12490
+carbon_sequestration,72.91,12,0.0,0.0,Karnataka,3.73,3263
+sustainable_agriculture,0.0,14,6383.95,1105.52,Uttar Pradesh,0.0,15477
+green_building,48.92,17,0.0,0.0,Jharkhand,3.6,2993
+biochar_production,30.19,5,1417.39,135.89,Andhra Pradesh,1.3,679
+methane_capture,4.4,11,669.03,250.09,Andhra Pradesh,1.54,2751
+carbon_sequestration,0.0,15,6761.51,344.03,Haryana,0.0,5160
+sustainable_agriculture,66.83,12,3270.34,266.5,Jharkhand,3.13,3198
+wind_energy,35.65,10,0.0,0.0,Jharkhand,5.65,2014
+reforestation,28.33,10,1663.01,65.04,Haryana,1.96,650
+methane_capture,5.35,16,2087.4,238.71,Lakshadweep,2.42,3819
+carbon_sequestration,272.56,11,0.0,0.0,Dadra and Nagar Haveli and Daman and Diu,3.68,11023
+green_building,412.69,13,0.0,0.0,Maharashtra,3.01,16141
+methane_capture,0.0,20,6984.21,815.9,Bihar,0.0,16318
+sustainable_agriculture,0.0,20,4442.74,207.85,Jammu and Kashmir,0.0,4157
+electric_mobility,19.48,7,7489.01,369.98,Jammu and Kashmir,4.97,2590
+wind_energy,33.91,13,1142.62,246.98,Kerala,0.69,3211
+biochar_production,0.0,20,2149.42,843.46,Himachal Pradesh,0.0,16869
+sustainable_agriculture,8.81,10,794.12,106.84,Puducherry,0.63,1068
+wind_energy,18.65,17,2842.39,188.45,Kerala,0.68,3204
+carbon_sequestration,0.0,15,8427.57,351.73,Arunachal Pradesh,0.0,5276
+methane_capture,62.06,14,7435.74,348.48,Tamil Nadu,3.06,4879
+wetland_restoration,0.0,10,6099.18,451.94,Chandigarh,0.0,4519
+carbon_sequestration,46.6,16,2543.62,145.16,Andhra Pradesh,0.73,2322
+green_building,55.59,12,1988.95,205.99,Arunachal Pradesh,3.89,2472
+carbon_sequestration,49.65,18,0.0,0.0,Haryana,5.82,5202
+wetland_restoration,8.54,6,2893.31,193.26,Jammu and Kashmir,0.95,1160
+wind_energy,83.14,14,7034.1,561.38,Jammu and Kashmir,1.53,7859
+solar_power,18.22,18,6805.33,258.77,Tamil Nadu,4.59,4658
+biochar_production,20.53,7,1418.84,67.04,Nagaland,0.79,469
+wind_energy,0.0,6,5554.97,309.3,Kerala,0.0,1856
+reforestation,0.0,17,5945.77,969.24,Lakshadweep,0.0,16477
+carbon_sequestration,0.0,20,9725.78,1136.45,Haryana,0.0,22729
+methane_capture,0.0,8,7713.65,305.66,Tamil Nadu,0.0,2445
+carbon_sequestration,0.0,10,2004.32,217.69,Andaman and Nicobar Islands,0.0,2177
+afforestation,0.0,6,10452.61,352.02,Telangana,0.0,2112
+green_building,58.62,7,2482.29,342.3,Karnataka,1.77,2396
+electric_mobility,38.31,6,0.0,0.0,Assam,7.87,1808
+electric_mobility,0.0,13,7594.38,370.66,Jharkhand,0.0,4819
+afforestation,0.0,9,3578.0,503.28,Meghalaya,0.0,4529
+sustainable_agriculture,21.89,7,5326.36,416.59,Sikkim,3.77,2916
+reforestation,82.33,12,3143.78,411.95,Rajasthan,3.46,4943
+reforestation,0.0,16,8632.14,751.89,Goa,0.0,12030
+geothermal_energy,89.23,9,2362.36,283.88,Himachal Pradesh,2.8,2555
+solar_power,24.6,16,1467.7,290.96,Tripura,0.85,4655
+reforestation,21.39,11,547.98,114.95,Delhi,1.46,1264
+geothermal_energy,34.37,14,2047.37,130.88,Haryana,0.88,1832
+biochar_production,27.91,14,6610.76,579.79,Andaman and Nicobar Islands,4.9,8117
+reforestation,40.28,8,5522.63,349.67,West Bengal,2.06,2797
+carbon_sequestration,0.0,20,3275.07,688.24,Meghalaya,0.0,13765
+solar_power,433.68,8,0.0,0.0,Meghalaya,4.7,16322
+solar_power,50.22,6,3761.33,329.72,Assam,2.5,1978
+reforestation,0.0,9,9606.0,219.83,Maharashtra,0.0,1978
+afforestation,0.0,20,8082.13,383.87,Lakshadweep,0.0,7677
+wetland_restoration,81.84,5,2955.57,565.16,Himachal Pradesh,1.31,2826
+carbon_sequestration,0.0,20,13722.91,661.48,Lakshadweep,0.0,13230
+geothermal_energy,0.0,15,8440.88,586.35,Punjab,0.0,8795
+sustainable_agriculture,0.0,10,10276.71,813.93,Telangana,0.0,8139
+wind_energy,23.08,16,764.23,297.07,Tripura,2.26,4753
+geothermal_energy,34.33,11,711.98,229.08,Chandigarh,0.58,2520
+geothermal_energy,403.04,17,0.0,0.0,Gujarat,3.74,25609
+carbon_sequestration,0.0,5,14434.52,937.51,Manipur,0.0,4688
+wind_energy,48.88,14,7795.25,571.16,Haryana,4.97,7996
+afforestation,100.75,7,0.0,0.0,West Bengal,4.22,2975
+wetland_restoration,0.0,9,5946.54,847.48,Jharkhand,0.0,7627
+electric_mobility,0.0,12,3385.42,118.85,Lakshadweep,0.0,1426
+reforestation,26.22,20,2456.21,106.96,Madhya Pradesh,2.3,2139
+carbon_sequestration,41.28,13,1849.7,407.51,Dadra and Nagar Haveli and Daman and Diu,1.82,5298
+carbon_sequestration,43.93,18,0.0,0.0,Goa,9.72,7686
+solar_power,0.0,11,2545.37,1168.49,Manipur,0.0,12853
+electric_mobility,0.0,9,3628.04,674.34,Arunachal Pradesh,0.0,6069
+wind_energy,0.0,6,6416.93,624.18,Rajasthan,0.0,3745
+sustainable_agriculture,54.47,19,2096.47,121.87,Kerala,3.47,2315
+methane_capture,464.76,5,0.0,0.0,Sikkim,4.57,10625
+geothermal_energy,0.0,13,6887.91,750.09,Gujarat,0.0,9751
+biochar_production,0.0,14,6516.46,948.77,Gujarat,0.0,13283
+afforestation,0.0,18,9354.86,708.38,Kerala,0.0,12751
+solar_power,44.46,7,1214.77,253.99,Mizoram,1.79,1778
+solar_power,0.0,11,13430.49,458.43,Rajasthan,0.0,5043
+green_building,0.0,19,5279.13,955.04,Ladakh,0.0,18146
+solar_power,489.41,9,0.0,0.0,Tamil Nadu,8.24,36283
+reforestation,390.46,18,0.0,0.0,West Bengal,7.59,53367
+solar_power,16.68,15,1173.33,184.89,Chandigarh,2.01,2773
+sustainable_agriculture,90.76,17,0.0,0.0,Sikkim,3.92,6051
+sustainable_agriculture,55.02,19,0.0,0.0,Himachal Pradesh,9.76,10198
+wind_energy,0.0,19,5552.67,856.63,Tripura,0.0,16276
+wetland_restoration,21.26,17,2358.56,202.99,Bihar,2.02,3451
+wetland_restoration,286.86,10,0.0,0.0,Lakshadweep,7.82,22439
+wind_energy,59.83,11,4036.6,180.42,Dadra and Nagar Haveli and Daman and Diu,4.51,1985
+electric_mobility,1.46,14,2316.15,297.95,Uttarakhand,0.99,4171
+wetland_restoration,23.43,12,5602.92,255.46,Tamil Nadu,4.52,3066
+geothermal_energy,369.2,9,0.0,0.0,Puducherry,7.31,24296
+green_building,347.06,15,0.0,0.0,Puducherry,5.63,29293
+reforestation,0.0,13,9204.94,205.23,Jharkhand,0.0,2668
+wetland_restoration,0.0,14,12919.53,1032.68,Andaman and Nicobar Islands,0.0,14458
+afforestation,24.24,18,3575.59,263.47,Sikkim,4.83,4742
+biochar_production,84.99,7,4514.35,162.36,Haryana,2.88,1136
+reforestation,47.62,19,7203.37,396.52,Rajasthan,3.89,7534
+biochar_production,0.0,9,10619.55,201.88,Uttarakhand,0.0,1817
+wind_energy,5.31,11,3488.45,497.1,West Bengal,3.48,5468
+wetland_restoration,0.0,8,4620.94,886.84,Goa,0.0,7095
+solar_power,66.02,17,5059.89,380.74,Madhya Pradesh,1.26,6473
+biochar_production,35.87,8,0.0,0.0,Chhattisgarh,6.41,1839
+biochar_production,81.47,18,6775.35,349.13,Assam,2.08,6284
+solar_power,0.0,18,3937.0,895.42,West Bengal,0.0,16117
+carbon_sequestration,0.0,16,8064.07,736.91,Madhya Pradesh,0.0,11791
+electric_mobility,0.0,19,12726.7,720.3,Mizoram,0.0,13686
+solar_power,19.01,17,4038.14,144.3,Gujarat,2.31,2453
+methane_capture,10.94,8,6366.12,466.81,Assam,4.21,3734
+reforestation,0.0,10,6783.09,479.12,Andaman and Nicobar Islands,0.0,4791
+carbon_sequestration,0.0,8,5465.5,260.43,Tamil Nadu,0.0,2083
+carbon_sequestration,0.0,19,4689.14,855.82,Sikkim,0.0,16261
+reforestation,0.0,15,7659.88,955.28,Andhra Pradesh,0.0,14329
+wind_energy,0.0,9,4398.19,562.24,Rajasthan,0.0,5060
+solar_power,0.0,6,2487.65,730.23,Uttarakhand,0.0,4381
+methane_capture,417.53,18,0.0,0.0,Uttar Pradesh,4.91,36913
+wetland_restoration,0.0,5,14085.02,982.58,Assam,0.0,4913
+solar_power,137.06,7,0.0,0.0,Dadra and Nagar Haveli and Daman and Diu,6.01,5764
+methane_capture,40.81,7,4366.34,317.59,Andaman and Nicobar Islands,2.85,2223
+geothermal_energy,24.67,20,701.5,231.98,Dadra and Nagar Haveli and Daman and Diu,0.77,4640
+reforestation,455.6,6,0.0,0.0,Dadra and Nagar Haveli and Daman and Diu,8.46,23130
+wetland_restoration,77.72,8,5271.58,167.68,Himachal Pradesh,1.64,1341
+reforestation,462.09,19,0.0,0.0,Arunachal Pradesh,6.3,55350
+solar_power,11.55,9,2975.31,230.85,Puducherry,1.23,2078
+methane_capture,0.0,7,3480.51,808.41,Punjab,0.0,5659
+afforestation,143.26,14,0.0,0.0,Haryana,8.32,16678
+reforestation,42.39,14,890.95,263.27,Telangana,1.04,3686
+solar_power,0.0,15,2814.49,1106.44,Madhya Pradesh,0.0,16597
+wetland_restoration,179.5,13,0.0,0.0,Uttar Pradesh,5.21,12149
+geothermal_energy,0.0,15,6515.46,1099.83,Andaman and Nicobar Islands,0.0,16498
+reforestation,74.58,6,1895.92,541.07,Tamil Nadu,3.19,3246
+wind_energy,0.0,9,1470.32,476.91,Uttarakhand,0.0,4292
+wetland_restoration,31.6,20,2948.88,86.24,Sikkim,1.49,1725
+wind_energy,107.07,11,0.0,0.0,Punjab,6.96,8194
+electric_mobility,161.26,7,0.0,0.0,Dadra and Nagar Haveli and Daman and Diu,9.63,10870
+sustainable_agriculture,0.0,16,6543.58,314.1,Ladakh,0.0,5026
+carbon_sequestration,0.0,6,7480.07,476.19,Mizoram,0.0,2857
+reforestation,85.81,13,4663.74,157.38,Tamil Nadu,3.24,2046
+biochar_production,207.95,6,0.0,0.0,Chandigarh,6.8,8482
+wetland_restoration,0.0,11,11201.86,743.54,Andaman and Nicobar Islands,0.0,8179
+geothermal_energy,120.81,10,0.0,0.0,Bihar,8.93,10787
+green_building,91.23,14,0.0,0.0,Karnataka,9.62,12287
+carbon_sequestration,11.59,20,2654.97,165.04,Nagaland,0.7,3301
+afforestation,277.26,11,0.0,0.0,Uttarakhand,3.44,10479
+reforestation,64.85,12,0.0,0.0,Haryana,5.49,4274
+electric_mobility,3.55,7,1003.41,114.66,Tamil Nadu,2.07,803
+reforestation,27.7,8,2385.27,54.49,Karnataka,2.02,436
+geothermal_energy,0.0,12,8900.47,891.62,Manipur,0.0,10699
+green_building,0.0,16,5321.41,1146.64,Kerala,0.0,18346
+solar_power,0.0,12,14804.87,972.01,Arunachal Pradesh,0.0,11664
+electric_mobility,280.73,19,0.0,0.0,Ladakh,3.66,19517
+geothermal_energy,455.52,7,0.0,0.0,Delhi,6.77,21590
+biochar_production,0.0,8,12378.47,571.93,Andaman and Nicobar Islands,0.0,4575
+geothermal_energy,0.0,11,8398.93,442.38,Kerala,0.0,4866
+methane_capture,226.13,7,0.0,0.0,Rajasthan,4.37,6916
+geothermal_energy,0.0,16,8803.29,487.14,Dadra and Nagar Haveli and Daman and Diu,0.0,7794
+electric_mobility,0.0,16,11847.26,476.44,Lakshadweep,0.0,7623
+green_building,80.8,12,7405.63,366.51,West Bengal,2.58,4398
+afforestation,229.33,14,0.0,0.0,Assam,6.9,22168
+reforestation,16.52,6,2765.36,119.23,Jharkhand,2.21,715
+carbon_sequestration,258.46,12,0.0,0.0,Chhattisgarh,7.19,22290
+methane_capture,22.5,11,5580.05,176.05,Kerala,4.58,1937
+geothermal_energy,0.0,8,12381.71,1167.76,Rajasthan,0.0,9342
+geothermal_energy,0.0,7,8941.75,823.24,Chandigarh,0.0,5763
+afforestation,0.0,18,6155.67,1188.42,Goa,0.0,21391
+wind_energy,98.49,17,5442.7,182.98,Chandigarh,3.67,3111
+biochar_production,49.01,10,824.57,221.72,Chhattisgarh,1.81,2217
+methane_capture,26.84,7,2725.65,69.85,Gujarat,1.94,489
+electric_mobility,0.0,9,9761.12,403.16,Himachal Pradesh,0.0,3628
+methane_capture,0.0,13,12647.83,740.79,Nagaland,0.0,9630
+carbon_sequestration,382.2,7,0.0,0.0,Bihar,9.92,26530
+carbon_sequestration,41.26,6,1394.5,173.55,Nagaland,1.42,1041
+reforestation,44.11,7,1110.85,78.24,Goa,1.55,548
+reforestation,14.56,14,1993.8,273.97,Mizoram,1.96,3836
+carbon_sequestration,103.72,19,0.0,0.0,Tamil Nadu,7.3,14379
+methane_capture,0.0,11,10072.07,552.37,Jammu and Kashmir,0.0,6076
+solar_power,405.04,9,0.0,0.0,Punjab,8.91,32466
+methane_capture,65.24,15,5733.24,262.55,Sikkim,1.51,3938
+geothermal_energy,11.87,12,0.0,0.0,Assam,7.77,1107
+wetland_restoration,0.0,10,13124.58,427.18,Andhra Pradesh,0.0,4272
+green_building,0.0,12,1654.04,169.37,Meghalaya,0.0,2032
+solar_power,0.0,7,11023.96,712.65,Dadra and Nagar Haveli and Daman and Diu,0.0,4989
+afforestation,18.66,10,2407.89,152.08,Ladakh,0.64,1521
+methane_capture,0.0,8,9444.74,884.08,Andhra Pradesh,0.0,7073
+reforestation,0.0,11,12496.15,259.09,Assam,0.0,2850
+geothermal_energy,0.0,19,3342.58,916.48,Jammu and Kashmir,0.0,17413
+geothermal_energy,10.09,15,0.0,0.0,Dadra and Nagar Haveli and Daman and Diu,4.18,633
+electric_mobility,22.91,6,2661.41,186.66,Madhya Pradesh,1.42,1120
+carbon_sequestration,0.0,7,4714.85,822.12,Assam,0.0,5755
+green_building,0.0,15,4802.94,137.82,Jammu and Kashmir,0.0,2067
+green_building,7.58,12,1892.18,453.84,Chhattisgarh,4.86,5446
+electric_mobility,0.0,18,13840.01,953.96,Andhra Pradesh,0.0,17171
+afforestation,0.0,13,12912.99,1181.8,Manipur,0.0,15363
+wind_energy,0.0,18,11446.72,504.75,Delhi,0.0,9086
+wetland_restoration,0.0,11,8924.79,835.09,Haryana,0.0,9186
+methane_capture,15.7,8,4784.89,148.27,Chandigarh,3.81,1186
+green_building,0.0,18,2599.61,767.17,Kerala,0.0,13809
+wetland_restoration,0.0,8,5916.45,798.36,Meghalaya,0.0,6387
+green_building,12.09,7,1997.02,66.12,Goa,1.96,463
+electric_mobility,427.61,16,0.0,0.0,Tripura,7.67,52508
+electric_mobility,0.0,18,4063.65,990.13,Telangana,0.0,17822
+wind_energy,48.69,19,0.0,0.0,Maharashtra,4.68,4327
+wind_energy,149.79,5,0.0,0.0,Puducherry,6.0,4497
+reforestation,0.0,15,14940.69,1055.7,Haryana,0.0,15835
+carbon_sequestration,33.28,19,1050.56,172.09,Andaman and Nicobar Islands,1.0,3270
+biochar_production,0.0,9,1844.72,918.66,Bihar,0.0,8268
+wetland_restoration,0.0,8,13291.17,264.69,Mizoram,0.0,2118
+methane_capture,29.02,20,1576.07,129.24,Kerala,1.53,2585
+wetland_restoration,23.76,16,1352.04,91.21,Assam,0.78,1459
+wetland_restoration,307.47,10,0.0,0.0,Tamil Nadu,7.42,22812
+green_building,396.51,8,0.0,0.0,Kerala,7.48,23719
+solar_power,0.0,11,8660.73,304.22,Jharkhand,0.0,3346
+wind_energy,39.55,10,1156.69,117.89,West Bengal,2.44,1179
+afforestation,0.0,15,11666.72,706.27,Dadra and Nagar Haveli and Daman and Diu,0.0,10594
+carbon_sequestration,43.66,11,1020.45,119.88,Puducherry,4.57,1319
+geothermal_energy,0.0,10,1410.84,226.02,Andhra Pradesh,0.0,2260
+geothermal_energy,49.62,16,4310.8,411.26,Sikkim,2.8,6580
+afforestation,0.0,18,9940.14,480.68,Sikkim,0.0,8652
+wind_energy,61.13,12,6978.95,124.75,Odisha,3.15,1497
+reforestation,0.0,12,1330.49,197.22,Puducherry,0.0,2367
+afforestation,23.68,14,1046.27,149.2,Assam,1.38,2089
+wind_energy,93.52,10,1609.65,408.53,Goa,2.59,4085
+reforestation,0.0,12,5784.4,891.88,Meghalaya,0.0,10703
+geothermal_energy,43.84,11,2255.65,298.2,Telangana,1.49,3280
+solar_power,0.0,17,14082.55,365.2,Maharashtra,0.0,6208
+biochar_production,216.7,12,0.0,0.0,Karnataka,5.88,15283
+electric_mobility,0.0,12,7038.49,332.36,Odisha,0.0,3988
+methane_capture,161.59,17,0.0,0.0,Jammu and Kashmir,8.77,24082
+solar_power,0.0,11,14402.43,921.39,Telangana,0.0,10135
+carbon_sequestration,0.0,13,10273.22,251.14,Uttarakhand,0.0,3265
+geothermal_energy,41.65,17,2678.99,114.17,Andaman and Nicobar Islands,0.58,1941
+wind_energy,0.0,8,6989.91,656.24,Bihar,0.0,5250
+wetland_restoration,0.0,6,3199.7,796.32,Mizoram,0.0,4778
+biochar_production,0.0,12,7760.6,163.91,Manipur,0.0,1967
+solar_power,0.0,14,6174.05,949.85,Bihar,0.0,13298
+sustainable_agriculture,68.51,6,3533.44,396.83,Nagaland,3.71,2381
+methane_capture,256.06,14,0.0,0.0,Andhra Pradesh,3.97,14239
+reforestation,310.16,13,0.0,0.0,Uttar Pradesh,9.12,36756
+biochar_production,0.0,8,10292.4,940.98,Dadra and Nagar Haveli and Daman and Diu,0.0,7528
+sustainable_agriculture,4.26,17,855.34,52.93,Bihar,1.57,900
+electric_mobility,0.0,18,8922.41,648.85,Uttar Pradesh,0.0,11679
+wetland_restoration,59.83,11,1861.02,379.32,Rajasthan,1.17,4173
+green_building,23.86,19,668.46,146.85,Tripura,2.13,2790
+wind_energy,22.07,15,1188.45,126.58,Lakshadweep,1.85,1899
+electric_mobility,0.0,14,6312.57,303.65,Dadra and Nagar Haveli and Daman and Diu,0.0,4251
+wetland_restoration,412.99,20,0.0,0.0,Manipur,9.0,74362
+sustainable_agriculture,0.0,19,7834.16,188.99,Goa,0.0,3591
+afforestation,295.28,15,0.0,0.0,Dadra and Nagar Haveli and Daman and Diu,5.6,24795
+wind_energy,23.44,13,0.0,0.0,Uttarakhand,5.75,1752
+reforestation,19.35,12,1576.32,85.65,Himachal Pradesh,0.83,1028
+reforestation,0.0,12,7857.16,951.98,Himachal Pradesh,0.0,11424
+green_building,0.0,7,2330.82,845.82,Haryana,0.0,5921
+electric_mobility,0.0,16,1060.39,447.29,Nagaland,0.0,7157
+biochar_production,0.0,15,7325.18,511.22,Mizoram,0.0,7668
+sustainable_agriculture,0.0,10,8624.26,577.98,Meghalaya,0.0,5780
+sustainable_agriculture,116.77,20,0.0,0.0,Telangana,9.92,23158
+carbon_sequestration,6.16,5,2930.06,107.12,Arunachal Pradesh,0.83,536
+reforestation,25.77,12,1460.52,59.75,Delhi,2.43,717
+methane_capture,0.0,10,14033.29,614.15,Tamil Nadu,0.0,6142
+sustainable_agriculture,21.44,7,0.0,0.0,Tripura,8.29,1245
+biochar_production,51.35,19,6848.36,285.2,West Bengal,1.52,5419
+solar_power,163.84,16,0.0,0.0,Chhattisgarh,9.22,24167
+biochar_production,99.51,8,1617.41,403.44,Andaman and Nicobar Islands,3.18,3228
+wetland_restoration,0.0,18,7063.26,585.51,Gujarat,0.0,10539
+sustainable_agriculture,0.0,20,12056.01,1180.11,Chandigarh,0.0,23602
+wetland_restoration,0.0,13,5983.4,587.53,Tamil Nadu,0.0,7638
+reforestation,28.46,10,3493.3,513.41,Meghalaya,4.35,5134
+methane_capture,10.54,17,1356.12,117.56,Arunachal Pradesh,0.62,1999
+methane_capture,417.04,16,0.0,0.0,Nagaland,6.81,45466
+wind_energy,0.0,5,9546.08,339.2,Andaman and Nicobar Islands,0.0,1696
+electric_mobility,0.0,7,2354.69,835.08,Manipur,0.0,5846
+carbon_sequestration,206.87,8,0.0,0.0,West Bengal,9.96,16478
+sustainable_agriculture,0.0,16,5906.36,525.82,Goa,0.0,8413
+electric_mobility,63.96,12,3765.96,119.73,Nagaland,1.81,1437
+methane_capture,0.0,5,11241.5,1106.94,Meghalaya,0.0,5535
+sustainable_agriculture,482.37,19,0.0,0.0,Gujarat,9.37,85842
+wind_energy,183.2,15,0.0,0.0,Dadra and Nagar Haveli and Daman and Diu,6.21,17063
+biochar_production,7.4,10,812.05,248.55,Andaman and Nicobar Islands,2.08,2486
+carbon_sequestration,23.87,8,2924.02,287.28,Andhra Pradesh,0.57,2298
+solar_power,98.19,14,7044.83,394.37,Nagaland,2.93,5521
+sustainable_agriculture,250.79,14,0.0,0.0,Tamil Nadu,6.66,23374
+green_building,38.33,18,1778.19,173.08,Lakshadweep,1.27,3115
+afforestation,36.56,6,1639.95,160.86,Delhi,2.29,965
+methane_capture,38.46,19,2890.12,100.12,Dadra and Nagar Haveli and Daman and Diu,1.65,1902
+afforestation,3.91,13,2100.5,124.61,Assam,0.51,1620
+reforestation,0.0,12,1562.12,895.12,Punjab,0.0,10741
+electric_mobility,7.93,15,2545.22,467.01,Meghalaya,4.89,7005
+afforestation,243.65,6,0.0,0.0,Andaman and Nicobar Islands,7.81,11424
+electric_mobility,437.3,15,0.0,0.0,Maharashtra,6.69,43887
+sustainable_agriculture,15.67,20,2511.09,119.69,Tamil Nadu,1.22,2394
+geothermal_energy,269.0,12,0.0,0.0,Madhya Pradesh,8.55,27612
+wind_energy,49.89,7,2571.17,123.65,Arunachal Pradesh,1.85,866
+wind_energy,31.64,11,0.0,0.0,Nagaland,5.39,1877
+afforestation,372.83,9,0.0,0.0,Andaman and Nicobar Islands,4.0,13422
+geothermal_energy,46.92,12,2522.96,271.11,Sikkim,2.14,3253
+solar_power,310.67,7,0.0,0.0,Telangana,3.62,7873
+carbon_sequestration,0.0,13,7508.35,352.3,Delhi,0.0,4580
+electric_mobility,0.0,8,4663.96,159.41,Andhra Pradesh,0.0,1275
+biochar_production,27.91,7,1942.6,224.44,Chhattisgarh,1.76,1571
+reforestation,47.8,17,1248.91,69.22,Puducherry,1.55,1177
+electric_mobility,422.62,11,0.0,0.0,Lakshadweep,4.7,21829
+reforestation,34.61,10,0.0,0.0,Odisha,3.51,1215
+sustainable_agriculture,68.35,17,7043.81,300.65,Uttar Pradesh,1.84,5111
+solar_power,0.0,11,14079.96,605.1,Haryana,0.0,6656
+reforestation,0.0,15,1198.24,624.93,Odisha,0.0,9374
+geothermal_energy,0.0,11,4938.38,840.48,Kerala,0.0,9245
+biochar_production,0.0,9,1303.02,293.17,Telangana,0.0,2638
+wind_energy,66.54,7,7220.61,351.54,Gujarat,1.49,2461
+reforestation,0.0,18,5085.52,839.29,Delhi,0.0,15107
+biochar_production,45.17,10,0.0,0.0,Madhya Pradesh,7.78,3513
+electric_mobility,0.0,18,5168.55,311.19,Uttarakhand,0.0,5601
+afforestation,0.0,9,8235.63,597.25,Gujarat,0.0,5375
+biochar_production,68.78,19,0.0,0.0,Assam,9.42,12307
+biochar_production,0.0,12,3442.68,547.03,Himachal Pradesh,0.0,6564
+afforestation,44.22,18,2304.3,117.89,Lakshadweep,2.15,2122
+electric_mobility,165.62,5,0.0,0.0,Rajasthan,3.0,2485
+electric_mobility,0.0,14,12179.22,915.04,Arunachal Pradesh,0.0,12811
+carbon_sequestration,35.64,10,2598.35,50.95,Karnataka,0.63,510
+afforestation,470.82,9,0.0,0.0,Ladakh,3.58,15166
+solar_power,0.0,16,1917.03,424.21,Mizoram,0.0,6787
+electric_mobility,58.67,7,5002.66,553.6,Goa,4.47,3875
+biochar_production,222.57,7,0.0,0.0,Arunachal Pradesh,9.37,14598
+reforestation,0.0,20,9426.89,707.63,Mizoram,0.0,14153
+reforestation,0.0,5,10931.25,693.81,Karnataka,0.0,3469
+carbon_sequestration,93.37,5,5730.93,169.56,Uttar Pradesh,4.38,848
+electric_mobility,359.39,9,0.0,0.0,Lakshadweep,7.66,24792
+sustainable_agriculture,146.44,5,0.0,0.0,Delhi,3.91,2861
+biochar_production,354.24,8,0.0,0.0,Karnataka,5.09,14415
+geothermal_energy,0.0,9,5278.66,670.91,Nagaland,0.0,6038
+wind_energy,3.36,9,2892.0,175.1,Sikkim,1.22,1576
+solar_power,24.32,13,2086.06,242.7,Arunachal Pradesh,0.72,3155
+afforestation,35.65,13,0.0,0.0,Goa,8.37,3881
+methane_capture,57.45,6,6037.58,285.58,Manipur,2.66,1713
+wetland_restoration,24.14,10,1039.35,219.45,Jammu and Kashmir,2.26,2195
+biochar_production,8.41,17,7515.65,162.86,Himachal Pradesh,2.58,2769
+wetland_restoration,0.0,7,3840.65,680.35,Chandigarh,0.0,4762
+carbon_sequestration,0.0,9,10868.52,668.15,Maharashtra,0.0,6013
+electric_mobility,0.0,5,9011.94,358.67,Chhattisgarh,0.0,1793
+electric_mobility,33.68,7,2455.04,185.95,Goa,2.15,1302
+wetland_restoration,0.0,19,12861.24,214.69,Rajasthan,0.0,4079
+carbon_sequestration,456.42,9,0.0,0.0,Rajasthan,8.87,36428
+biochar_production,7.09,5,1732.16,151.07,Puducherry,1.33,755
+carbon_sequestration,91.08,5,6074.0,538.82,Jharkhand,2.07,2694
+afforestation,54.31,14,3183.05,487.0,Haryana,3.71,6818
+biochar_production,11.77,19,2642.82,193.84,Jharkhand,0.76,3683
+electric_mobility,387.38,14,0.0,0.0,Telangana,8.65,46912
+biochar_production,0.0,6,2635.65,491.96,Delhi,0.0,2952
+solar_power,15.37,20,1794.9,137.02,Mizoram,2.05,2740
+solar_power,0.0,18,9418.45,768.09,Tamil Nadu,0.0,13826
+sustainable_agriculture,32.68,9,2617.65,55.9,Delhi,2.45,503
+afforestation,41.66,15,1227.86,101.77,Tripura,1.71,1527
+reforestation,33.78,15,2597.65,223.3,Tripura,1.26,3350
+green_building,24.2,16,2179.11,195.55,Puducherry,0.62,3129
+geothermal_energy,471.93,12,0.0,0.0,Delhi,8.5,48117
+reforestation,32.9,20,1903.23,244.23,Goa,1.79,4885
+geothermal_energy,26.41,5,1985.62,411.21,Nagaland,1.78,2056
+green_building,164.42,14,0.0,0.0,Delhi,4.93,11357
+afforestation,82.06,17,3717.16,437.07,Andhra Pradesh,3.54,7430
+electric_mobility,0.0,15,8288.74,952.66,Bihar,0.0,14290
+geothermal_energy,32.6,10,7230.99,453.86,Haryana,2.88,4539
+wetland_restoration,0.0,6,10971.26,1130.61,Nagaland,0.0,6784
+methane_capture,31.92,8,835.69,289.48,Tripura,1.4,2316
+wind_energy,0.0,15,11894.15,554.27,Chhattisgarh,0.0,8314
+biochar_production,0.0,14,10835.06,276.24,Meghalaya,0.0,3867
+afforestation,465.04,10,0.0,0.0,Himachal Pradesh,8.33,38719
+electric_mobility,27.78,18,609.75,91.44,Sikkim,1.37,1646
+biochar_production,24.59,17,2185.87,84.25,Tripura,2.3,1432
+green_building,398.64,15,0.0,0.0,Chandigarh,8.98,53676
+reforestation,332.97,16,0.0,0.0,Haryana,3.76,20043
+methane_capture,0.0,8,9562.87,995.34,Madhya Pradesh,0.0,7963
+biochar_production,47.7,20,1047.79,164.74,Uttar Pradesh,1.55,3295
+biochar_production,61.39,6,5356.4,590.59,Haryana,1.29,3544
+solar_power,416.4,8,0.0,0.0,Manipur,8.12,27066
+green_building,94.65,17,4650.22,588.65,Puducherry,4.84,10007
+wetland_restoration,42.32,11,6411.62,255.0,Andaman and Nicobar Islands,4.42,2805
+methane_capture,323.9,18,0.0,0.0,West Bengal,7.67,44696
+sustainable_agriculture,0.0,15,14482.18,963.58,Manipur,0.0,14454
+biochar_production,25.45,17,522.6,139.26,Chandigarh,0.52,2367
+geothermal_energy,0.0,20,9175.87,1004.75,Kerala,0.0,20095
+wetland_restoration,0.0,9,2998.68,389.5,Ladakh,0.0,3506
+electric_mobility,262.19,6,0.0,0.0,Andaman and Nicobar Islands,8.66,13620
+sustainable_agriculture,22.01,10,1702.23,215.61,Nagaland,0.56,2156
+geothermal_energy,0.0,14,9112.45,238.43,Nagaland,0.0,3338
+geothermal_energy,92.36,11,1314.38,480.5,Maharashtra,4.97,5286
+green_building,321.37,5,0.0,0.0,Himachal Pradesh,3.64,5841
+geothermal_energy,460.03,18,0.0,0.0,Gujarat,9.66,79961
+carbon_sequestration,14.5,15,2981.11,146.58,Chhattisgarh,1.74,2199
+carbon_sequestration,0.0,9,6661.52,856.63,Goa,0.0,7710
+reforestation,90.71,6,7820.61,113.76,Haryana,4.51,683
+sustainable_agriculture,0.0,15,4871.09,238.93,Uttar Pradesh,0.0,3584
+solar_power,47.86,14,2198.87,106.22,Puducherry,0.8,1487
+reforestation,60.25,8,5060.62,358.35,Karnataka,2.75,2867
+carbon_sequestration,42.14,14,1575.26,275.94,Delhi,0.79,3863
+geothermal_energy,0.0,14,9033.02,477.5,Meghalaya,0.0,6685
+afforestation,413.35,8,0.0,0.0,Odisha,9.22,30496
+carbon_sequestration,110.29,6,0.0,0.0,Telangana,7.14,4724
+geothermal_energy,15.49,13,582.02,209.01,Haryana,1.69,2717
+geothermal_energy,11.56,15,4548.44,304.71,Goa,4.76,4571
+wetland_restoration,83.54,12,6087.24,486.95,Mizoram,1.19,5843
+solar_power,67.19,12,7131.18,369.55,Gujarat,1.61,4435
+sustainable_agriculture,15.21,12,1479.56,186.68,Mizoram,2.36,2240
+methane_capture,0.0,13,1000.1,474.91,Bihar,0.0,6174
+afforestation,39.41,10,2403.92,201.79,Nagaland,3.89,2018
+carbon_sequestration,0.0,9,5951.25,430.42,Jharkhand,0.0,3874
+sustainable_agriculture,0.0,7,2674.71,391.12,Goa,0.0,2738
+carbon_sequestration,0.0,16,4915.82,863.05,Rajasthan,0.0,13809
+solar_power,21.38,19,2024.08,274.01,Delhi,2.02,5206
+geothermal_energy,35.92,9,954.03,142.74,Chhattisgarh,2.13,1285
+afforestation,49.98,15,1051.22,240.62,Gujarat,1.31,3609
+solar_power,0.0,10,9678.29,861.01,Bihar,0.0,8610
+geothermal_energy,21.31,15,551.68,117.25,Chandigarh,2.01,1759
+wetland_restoration,296.05,18,0.0,0.0,Tamil Nadu,9.67,51507
+carbon_sequestration,246.12,14,0.0,0.0,Uttar Pradesh,5.53,19061
+electric_mobility,0.0,20,3669.04,742.98,Madhya Pradesh,0.0,14860
+biochar_production,58.21,9,5959.43,186.04,Puducherry,4.12,1674
+reforestation,467.13,5,0.0,0.0,Jammu and Kashmir,8.79,20536
+wetland_restoration,98.3,12,0.0,0.0,Uttar Pradesh,3.69,4350
+wind_energy,461.29,10,0.0,0.0,Telangana,7.86,36267
+carbon_sequestration,85.79,11,1216.01,125.95,Puducherry,2.38,1385
+solar_power,179.22,13,0.0,0.0,Odisha,5.35,12463
+electric_mobility,19.95,8,6353.03,435.53,West Bengal,1.48,3484
+methane_capture,47.41,17,1451.29,90.76,Delhi,1.49,1543
+solar_power,0.0,20,4485.14,915.91,Lakshadweep,0.0,18318
+wind_energy,0.0,5,2327.51,1039.0,Maharashtra,0.0,5195
+green_building,0.0,12,12368.12,815.91,Tamil Nadu,0.0,9791
+carbon_sequestration,0.0,6,4938.95,311.48,Odisha,0.0,1869
+electric_mobility,25.55,15,1835.73,185.18,Odisha,1.91,2778
+sustainable_agriculture,52.96,9,7038.48,189.63,Bihar,3.87,1707
+methane_capture,72.87,20,2587.09,539.67,Andaman and Nicobar Islands,4.81,10793
+solar_power,0.0,13,2415.46,378.81,Manipur,0.0,4925
+green_building,165.11,11,0.0,0.0,Assam,8.71,15828
+electric_mobility,0.0,13,8170.13,325.42,Madhya Pradesh,0.0,4230
+carbon_sequestration,0.0,12,14158.86,1050.68,Uttar Pradesh,0.0,12608
+reforestation,91.08,11,5718.14,125.92,Dadra and Nagar Haveli and Daman and Diu,1.05,1385
+electric_mobility,1.97,5,978.57,152.91,Odisha,1.28,765
+electric_mobility,0.0,10,6342.65,932.7,Karnataka,0.0,9327
+methane_capture,0.0,18,6449.54,322.42,Chhattisgarh,0.0,5804
+biochar_production,32.15,5,5798.11,266.23,Sikkim,2.73,1331
+methane_capture,24.51,6,7874.35,492.43,Uttar Pradesh,2.53,2955
+wind_energy,31.98,11,1545.83,237.73,Dadra and Nagar Haveli and Daman and Diu,0.9,2615
+biochar_production,99.08,12,7588.91,557.37,Delhi,2.3,6688
+reforestation,4.31,12,948.41,292.67,Rajasthan,1.54,3512
+geothermal_energy,98.0,9,2328.71,391.09,Meghalaya,3.22,3520
+methane_capture,0.0,5,6504.81,597.61,Jharkhand,0.0,2988
+reforestation,0.0,15,6449.34,565.11,Haryana,0.0,8477
+wind_energy,0.0,7,3416.8,358.72,Jharkhand,0.0,2511
+methane_capture,347.99,14,0.0,0.0,Assam,4.01,19525
+sustainable_agriculture,12.31,11,7659.96,248.65,Andaman and Nicobar Islands,1.3,2735
+reforestation,0.0,10,11045.37,658.02,Gujarat,0.0,6580
+methane_capture,66.61,7,1105.77,582.51,Goa,2.07,4078
+afforestation,0.0,19,9327.58,650.69,Kerala,0.0,12363
+biochar_production,0.0,20,6490.07,381.62,Puducherry,0.0,7632
+solar_power,13.23,8,935.2,79.27,Chandigarh,0.5,634
+reforestation,0.0,13,2393.46,950.26,Tamil Nadu,0.0,12353
+wetland_restoration,470.14,10,0.0,0.0,West Bengal,3.05,14324
+green_building,0.0,12,6288.27,731.03,Odisha,0.0,8772
+wind_energy,0.0,13,2656.36,827.49,Puducherry,0.0,10757
+reforestation,29.56,17,1625.64,289.4,Punjab,1.01,4920
+sustainable_agriculture,73.94,8,6175.86,207.33,Kerala,3.47,1659
+reforestation,0.0,10,1917.04,107.49,Bihar,0.0,1075
+carbon_sequestration,170.25,10,0.0,0.0,Uttarakhand,9.23,15715
+green_building,91.88,9,2810.98,317.2,Andhra Pradesh,2.74,2855
+carbon_sequestration,0.0,13,4945.46,996.64,Maharashtra,0.0,12956
+wind_energy,0.0,16,9972.79,837.69,Assam,0.0,13403
+geothermal_energy,353.43,14,0.0,0.0,Madhya Pradesh,4.43,21910
+reforestation,107.64,11,0.0,0.0,Uttarakhand,9.14,10825
+electric_mobility,91.59,20,3491.8,107.91,Dadra and Nagar Haveli and Daman and Diu,1.12,2158
+carbon_sequestration,0.0,15,3228.04,156.27,Madhya Pradesh,0.0,2344
+wind_energy,0.0,17,7522.03,415.34,Gujarat,0.0,7061
+solar_power,339.71,5,0.0,0.0,Delhi,3.57,6060
+wetland_restoration,36.64,20,3682.99,346.75,Manipur,4.54,6935
+green_building,276.68,19,0.0,0.0,Uttarakhand,4.4,23141
+wetland_restoration,261.67,14,0.0,0.0,Odisha,4.77,17487
+wind_energy,265.51,15,0.0,0.0,Meghalaya,3.48,13856
+afforestation,21.95,14,2499.3,133.4,Rajasthan,0.91,1868
+wetland_restoration,40.0,16,5665.24,493.69,Gujarat,4.58,7899
+wind_energy,44.08,9,5465.68,516.82,Tripura,4.49,4651
+sustainable_agriculture,226.85,12,0.0,0.0,Goa,7.55,20539
+solar_power,0.0,9,8055.89,477.45,Jharkhand,0.0,4297
+afforestation,32.78,19,1153.39,250.52,Delhi,2.78,4760
+afforestation,0.0,20,7299.23,669.53,Punjab,0.0,13391
+sustainable_agriculture,0.0,12,9344.0,194.85,Lakshadweep,0.0,2338
+carbon_sequestration,0.0,11,11268.48,211.49,Goa,0.0,2326
+wind_energy,0.0,13,5383.08,359.49,Gujarat,0.0,4673
+methane_capture,0.0,20,5647.82,807.87,Himachal Pradesh,0.0,16157
+reforestation,33.55,16,2535.31,221.28,Uttarakhand,2.26,3541
+reforestation,0.0,7,12475.98,207.96,Punjab,0.0,1456
+biochar_production,132.48,16,0.0,0.0,Jammu and Kashmir,6.61,14000
+green_building,29.21,11,1536.45,536.32,Chhattisgarh,3.97,5900
+reforestation,0.0,17,6001.35,1113.79,Kerala,0.0,18934
+geothermal_energy,79.7,20,3614.64,235.75,Punjab,3.53,4715
+afforestation,0.0,20,13392.15,302.57,Gujarat,0.0,6051
+wetland_restoration,12.38,13,3442.23,360.8,Punjab,4.32,4690
+green_building,0.0,9,10800.23,1037.91,Chhattisgarh,0.0,9341
+wetland_restoration,0.0,11,5156.59,473.06,Manipur,0.0,5204
+electric_mobility,0.0,19,6494.92,244.33,Sikkim,0.0,4642
+reforestation,0.0,9,7344.22,921.93,Karnataka,0.0,8297
+afforestation,26.81,8,2156.99,101.0,Mizoram,1.47,808
+biochar_production,0.0,6,8914.56,989.43,Sikkim,0.0,5937
+green_building,0.0,18,4097.72,283.55,Goa,0.0,5104
+green_building,0.0,5,7384.61,932.41,Manipur,0.0,4662
+solar_power,0.0,7,3173.83,418.84,Tamil Nadu,0.0,2932
+afforestation,60.3,16,2483.26,255.5,Maharashtra,1.47,4088
+green_building,10.48,11,2639.42,209.78,Jammu and Kashmir,2.56,2308
+biochar_production,0.0,16,6147.21,987.62,Jammu and Kashmir,0.0,15802
+wind_energy,213.73,13,0.0,0.0,Jammu and Kashmir,6.0,16678
+carbon_sequestration,69.5,7,6275.16,201.83,Goa,2.65,1413
+wind_energy,211.86,6,0.0,0.0,Punjab,9.09,11560
+sustainable_agriculture,7.1,6,5876.39,347.85,Nagaland,4.78,2087
+green_building,175.23,17,0.0,0.0,Chhattisgarh,4.0,11915
+geothermal_energy,261.02,14,0.0,0.0,Ladakh,3.8,13886
+reforestation,0.0,14,13643.77,404.32,Assam,0.0,5660
+green_building,0.0,5,9562.98,798.84,West Bengal,0.0,3994
+carbon_sequestration,0.0,18,12305.86,269.05,Lakshadweep,0.0,4843
+sustainable_agriculture,209.98,17,0.0,0.0,Haryana,9.2,32838
+geothermal_energy,347.43,15,0.0,0.0,Ladakh,4.77,24874
+green_building,0.0,13,11507.11,897.28,Odisha,0.0,11665
+wind_energy,41.97,12,2608.32,171.27,Uttar Pradesh,2.14,2055
+solar_power,403.8,19,5758.41,325.56,Delhi,1.91,2971
+afforestation,485.82,17,3279.57,404.24,Goa,1.06,1841
+sustainable_agriculture,488.75,11,3987.51,164.25,Tripura,1.99,1850
+reforestation,331.01,15,6335.33,974.7,Maharashtra,1.26,4357
+solar_power,487.08,12,3522.42,200.39,Rajasthan,0.82,1385
+wind_energy,169.01,14,2231.35,412.8,Arunachal Pradesh,0.54,1115
+electric_mobility,35.42,5,3810.33,375.89,Meghalaya,1.38,2181
+biochar_production,202.94,6,6340.26,937.87,Lakshadweep,0.63,3084
+geothermal_energy,436.06,16,5475.77,311.64,Dadra and Nagar Haveli and Daman and Diu,0.5,1954
+biochar_production,189.27,13,1593.13,681.36,Uttar Pradesh,1.31,2263
+reforestation,309.26,11,1263.89,456.96,Assam,0.76,1074
+afforestation,87.51,16,9538.82,151.21,Puducherry,0.76,3091
+wind_energy,225.81,18,7726.48,406.69,Gujarat,1.55,3579
+green_building,102.04,13,5948.54,703.86,Ladakh,1.38,3727
+methane_capture,357.69,11,6054.12,593.37,Assam,0.89,2872
+electric_mobility,79.35,17,7966.42,832.14,Karnataka,1.55,4970
+electric_mobility,75.26,17,3268.01,442.16,Andhra Pradesh,1.53,2333
+carbon_sequestration,142.98,18,3002.3,245.1,Sikkim,1.77,1768
+reforestation,272.95,20,6731.3,873.03,Ladakh,0.9,3591
+green_building,327.57,6,2750.72,413.0,Gujarat,1.0,1651
+carbon_sequestration,249.19,18,9870.82,489.78,Assam,1.35,4284
+wind_energy,11.03,8,3277.52,416.91,Uttar Pradesh,0.89,1725
+sustainable_agriculture,187.22,9,9376.05,418.62,Himachal Pradesh,1.69,4228
+wind_energy,152.17,7,4684.26,726.66,Jammu and Kashmir,1.54,3643
+afforestation,230.68,6,6532.45,264.52,Andhra Pradesh,0.84,2404
+solar_power,244.48,20,7698.76,424.07,Uttarakhand,1.09,3234
+sustainable_agriculture,331.24,5,3759.88,562.01,Uttarakhand,1.74,3084
+geothermal_energy,328.67,16,1283.2,811.55,Dadra and Nagar Haveli and Daman and Diu,1.24,2398
+sustainable_agriculture,381.11,16,5233.1,168.61,Meghalaya,1.04,1921
+reforestation,76.44,16,6517.52,204.21,Karnataka,1.68,2641
+wetland_restoration,433.1,15,6017.56,142.37,Jharkhand,1.31,2178
+geothermal_energy,64.92,17,4848.0,278.03,Uttarakhand,1.04,2033
+methane_capture,390.34,14,7092.58,274.86,West Bengal,0.82,2579
+geothermal_energy,79.37,6,1344.6,593.37,Uttar Pradesh,0.67,1198
+methane_capture,457.44,10,6873.07,413.42,Tripura,0.67,2616
+biochar_production,124.22,19,3825.0,476.48,Chandigarh,0.53,1653
+sustainable_agriculture,382.75,11,7379.49,466.1,Jammu and Kashmir,1.13,3267
+electric_mobility,349.27,5,6413.1,870.49,Rajasthan,1.02,3700
+afforestation,19.15,7,1783.4,749.31,Andhra Pradesh,1.55,2858
+wetland_restoration,358.07,14,9881.18,448.12,Punjab,0.56,3466
+geothermal_energy,150.32,11,1632.04,609.69,Puducherry,1.65,2502
+carbon_sequestration,257.36,5,1423.19,992.62,Uttarakhand,1.56,3524
+geothermal_energy,372.58,17,7031.27,187.39,Sikkim,1.28,2589
+carbon_sequestration,212.88,9,5989.45,692.73,Mizoram,1.4,3736
+electric_mobility,315.71,14,3181.22,337.54,Puducherry,1.34,1859
+wind_energy,94.45,7,5065.43,728.27,Haryana,0.75,2612
+methane_capture,81.87,15,5616.99,619.39,Tamil Nadu,1.0,2924
+carbon_sequestration,101.43,5,3294.85,231.58,Punjab,1.55,1706
+electric_mobility,418.17,6,7630.3,480.45,Chhattisgarh,1.14,3385
+afforestation,128.69,12,8581.85,981.04,Kerala,1.46,5439
+carbon_sequestration,461.98,13,8652.63,904.69,Delhi,0.99,4387
+electric_mobility,129.3,19,4815.65,571.25,Manipur,0.71,2256
+carbon_sequestration,371.81,11,2943.87,186.68,Madhya Pradesh,1.44,1421
+green_building,63.51,9,7292.61,677.11,Himachal Pradesh,1.22,3840
+geothermal_energy,118.11,8,6502.24,451.16,Jammu and Kashmir,0.66,2546
+carbon_sequestration,429.63,9,7429.08,215.91,Madhya Pradesh,0.92,2626
+geothermal_energy,479.87,7,8265.98,693.96,Meghalaya,1.42,4451
+methane_capture,496.61,6,6399.94,530.31,West Bengal,1.62,3638
+wetland_restoration,44.94,20,5574.3,159.31,Tamil Nadu,1.45,2134
+electric_mobility,65.47,18,9429.42,679.36,Goa,1.39,4717
+geothermal_energy,382.02,5,9917.57,681.06,Jammu and Kashmir,0.7,3929
+biochar_production,379.47,20,9144.71,101.48,Odisha,1.14,2975
+carbon_sequestration,374.88,20,2874.63,210.56,Rajasthan,1.27,1397
+reforestation,215.21,11,5401.87,973.38,Rajasthan,1.12,3801
+green_building,65.06,10,4586.19,982.31,Bihar,1.86,5030
+solar_power,413.49,19,9452.11,970.63,Odisha,1.94,6602
+wind_energy,217.31,16,3190.11,658.95,Ladakh,1.6,3066
+biochar_production,390.24,17,3162.15,664.83,Nagaland,0.86,2092
+carbon_sequestration,468.96,19,1219.65,753.67,Uttarakhand,1.95,3305
+sustainable_agriculture,38.41,17,4563.08,350.34,Meghalaya,0.54,1747
+biochar_production,26.81,11,9187.76,808.6,Manipur,0.76,3985
+reforestation,355.94,18,1388.29,195.59,Punjab,1.41,968
+wind_energy,58.4,18,9473.94,116.67,West Bengal,1.05,3087
+geothermal_energy,275.7,6,3072.84,446.42,Arunachal Pradesh,0.84,1672
+methane_capture,94.58,18,6358.58,393.27,Himachal Pradesh,0.67,2435
+geothermal_energy,386.27,8,9313.24,659.5,Maharashtra,1.21,4390
+methane_capture,265.15,18,3717.45,505.61,Bihar,0.58,1702
+biochar_production,63.27,12,7790.84,590.3,Uttar Pradesh,1.51,4120
+wetland_restoration,353.19,12,2196.18,114.4,West Bengal,1.28,952
+wind_energy,497.78,13,7897.36,320.12,Manipur,1.71,3464
+sustainable_agriculture,49.16,5,5593.06,449.2,Goa,1.18,2738
+biochar_production,249.02,10,6860.48,206.64,Goa,1.85,2823
+biochar_production,408.45,6,9987.3,874.33,Maharashtra,0.83,4448
+solar_power,242.31,13,1377.48,838.1,Telangana,0.95,2006
+solar_power,148.8,17,4338.96,805.8,Tripura,1.44,3622
+reforestation,441.93,16,5049.21,108.2,Lakshadweep,0.58,1640
+reforestation,169.11,16,3334.53,755.13,Delhi,1.72,3598
+wetland_restoration,493.18,13,4324.22,522.31,Delhi,1.24,2593
+geothermal_energy,476.45,20,3450.06,942.67,Bihar,1.82,4466
+sustainable_agriculture,16.51,5,5613.36,756.83,Mizoram,0.91,3061
+wind_energy,388.04,19,3104.82,808.66,Dadra and Nagar Haveli and Daman and Diu,1.97,4118
+sustainable_agriculture,455.47,10,5603.17,556.24,Mizoram,1.2,3016
+geothermal_energy,311.44,5,4889.3,368.35,Manipur,1.02,2218
+solar_power,127.68,8,8709.97,754.72,Karnataka,1.68,5149
+biochar_production,492.8,8,8331.71,588.88,Maharashtra,1.43,4184
+reforestation,104.75,18,4888.02,571.71,Gujarat,1.71,3422
+sustainable_agriculture,394.97,18,7992.52,472.4,Jharkhand,1.12,3456
+afforestation,273.45,7,2342.47,360.61,Gujarat,1.61,1864
+electric_mobility,335.9,14,9532.56,376.75,Bihar,0.54,3267
+green_building,286.67,20,9503.89,112.49,West Bengal,0.82,3036
+geothermal_energy,305.17,18,1707.66,317.44,Dadra and Nagar Haveli and Daman and Diu,0.55,861
+solar_power,304.0,8,6454.77,547.09,Goa,0.67,2670
+electric_mobility,209.28,16,8175.68,730.25,Telangana,1.78,5052
+biochar_production,194.17,8,3217.2,532.83,Arunachal Pradesh,0.94,1967
+afforestation,179.63,17,9797.86,652.78,Manipur,1.11,4389
+sustainable_agriculture,337.06,20,2191.7,664.23,Chhattisgarh,0.88,1827
+solar_power,305.19,16,4090.38,555.88,Uttar Pradesh,1.55,2950
+carbon_sequestration,336.05,8,6492.3,886.37,Jammu and Kashmir,0.97,3667
+electric_mobility,198.54,12,8995.47,732.0,Chandigarh,1.81,5348
+geothermal_energy,95.58,10,7947.53,495.82,Andhra Pradesh,1.94,4308
+solar_power,176.29,18,6078.11,955.17,Gujarat,1.06,3848
+afforestation,414.13,6,7307.59,524.47,Punjab,1.28,3535
+solar_power,483.07,17,5975.82,661.09,Gujarat,1.04,3168
+wetland_restoration,304.52,13,1725.0,564.24,Nagaland,1.43,2131
+sustainable_agriculture,279.03,9,8085.86,818.29,Punjab,1.14,4291
+carbon_sequestration,122.67,12,2898.11,353.26,Sikkim,0.69,1357
+methane_capture,421.75,15,2854.6,240.95,Arunachal Pradesh,1.46,1560
+methane_capture,47.85,8,1426.68,787.78,Lakshadweep,0.72,1562
+electric_mobility,149.43,17,7010.84,854.65,Ladakh,0.73,3351
+geothermal_energy,448.0,15,3027.8,358.99,Madhya Pradesh,1.14,1727
+afforestation,8.69,14,2010.67,475.96,Uttarakhand,1.77,2288
+electric_mobility,328.75,5,1603.32,667.33,Bihar,0.63,1322
+electric_mobility,247.71,20,9668.63,423.43,Madhya Pradesh,1.63,4281
+electric_mobility,180.05,16,2505.13,621.75,West Bengal,1.21,2256
+afforestation,188.04,20,8149.28,476.22,Andaman and Nicobar Islands,1.51,3883
+methane_capture,179.59,5,2109.14,598.31,Manipur,0.72,1494
+sustainable_agriculture,463.0,20,5531.13,585.59,Jharkhand,1.56,3486
+electric_mobility,32.56,11,4944.42,725.97,Madhya Pradesh,1.14,3139
+afforestation,17.72,12,6412.32,856.07,Tamil Nadu,1.67,4783
+green_building,323.11,8,9864.08,204.81,Jharkhand,1.28,3484
+wetland_restoration,320.91,9,9306.51,951.98,Goa,0.83,4372
+wetland_restoration,284.26,10,1909.7,253.81,Chhattisgarh,1.77,1471
+carbon_sequestration,265.96,20,6542.04,949.04,Lakshadweep,0.87,3614
+carbon_sequestration,293.28,5,9310.44,152.64,Odisha,1.92,3379
+green_building,167.57,13,5653.76,932.03,Andhra Pradesh,0.93,3430
+geothermal_energy,140.82,9,3922.32,885.83,Dadra and Nagar Haveli and Daman and Diu,0.99,2931
+methane_capture,484.42,15,5590.7,313.85,Madhya Pradesh,0.77,2161
+biochar_production,193.04,11,6444.2,117.26,West Bengal,0.77,2114
+methane_capture,235.41,11,6255.12,764.08,Nagaland,1.62,4352
+geothermal_energy,97.07,16,1959.46,919.84,Chhattisgarh,1.74,3789
+wind_energy,132.79,18,1001.17,687.32,Ladakh,1.77,2733
+electric_mobility,138.66,9,7821.89,472.93,Tamil Nadu,0.73,3037
+wind_energy,345.38,17,8839.31,367.44,Tripura,0.81,3247
+wetland_restoration,485.15,7,9431.69,333.8,Andaman and Nicobar Islands,1.88,4085
+electric_mobility,201.91,12,2893.95,465.34,Madhya Pradesh,0.99,1790
+solar_power,48.8,9,4509.21,642.84,Odisha,1.78,3641
+methane_capture,161.82,14,7181.5,766.69,Chandigarh,1.97,5175
+geothermal_energy,37.75,10,5527.66,219.66,Punjab,1.85,2471
+solar_power,288.26,10,3225.02,346.92,Haryana,1.7,2147
+afforestation,30.61,11,7051.25,480.46,Madhya Pradesh,1.88,3922
+wind_energy,45.85,6,3238.8,151.32,Gujarat,0.56,1141
+green_building,323.71,16,3957.24,213.53,Punjab,0.56,1426
+afforestation,132.36,15,9344.2,311.32,Dadra and Nagar Haveli and Daman and Diu,1.87,3968
+solar_power,448.17,15,2236.0,779.95,Uttar Pradesh,1.08,2355
+green_building,117.1,10,3157.6,383.84,Madhya Pradesh,0.99,1707
+reforestation,402.95,11,6896.92,963.16,Karnataka,1.44,4843
+solar_power,358.73,10,1159.7,971.79,Chandigarh,1.52,3302
+carbon_sequestration,482.97,8,2844.56,373.75,Ladakh,1.39,1892
+afforestation,111.85,15,5505.42,470.84,Assam,1.27,2848
+sustainable_agriculture,373.96,10,7790.72,634.25,Maharashtra,1.32,4012
+biochar_production,490.06,14,8032.63,283.19,Lakshadweep,1.11,3038
+sustainable_agriculture,421.62,6,8445.65,382.79,Goa,1.05,3338
+carbon_sequestration,471.81,19,4873.67,173.04,Puducherry,1.31,1915
+electric_mobility,42.57,20,5084.55,796.42,Karnataka,0.66,2577
+geothermal_energy,321.98,18,1705.25,731.17,Delhi,1.4,2559
+electric_mobility,9.8,16,9564.17,273.5,Arunachal Pradesh,1.72,3810
+reforestation,390.23,15,6376.59,759.35,Goa,1.84,4707
+sustainable_agriculture,106.34,7,2996.09,302.38,Chandigarh,0.89,1437
+green_building,275.57,18,8824.13,135.58,Andaman and Nicobar Islands,0.77,2856
+electric_mobility,84.95,19,1338.27,596.71,Odisha,0.88,1452
+afforestation,353.69,14,9226.5,615.13,Telangana,1.42,4515
+methane_capture,312.9,10,4886.21,304.8,Haryana,1.13,2155
+carbon_sequestration,406.21,18,4189.01,557.67,Goa,0.64,1971
+geothermal_energy,143.83,19,7055.87,514.13,Kerala,1.16,3310
+reforestation,303.6,9,1475.11,970.19,Dadra and Nagar Haveli and Daman and Diu,0.72,1840
+carbon_sequestration,487.94,10,4249.67,367.36,Andhra Pradesh,1.97,2722
+biochar_production,228.25,7,6252.06,109.83,Andhra Pradesh,0.63,2014
+methane_capture,449.08,12,9864.52,746.8,Tripura,1.34,4961
+carbon_sequestration,251.83,13,2954.63,225.63,Goa,1.91,1748
+afforestation,392.11,18,4561.32,136.77,Nagaland,1.86,1877
+reforestation,407.97,19,3197.3,448.1,Uttarakhand,0.78,1658
+afforestation,416.29,13,4641.48,616.55,Karnataka,2.0,3859
+wetland_restoration,384.52,14,9522.62,286.91,Haryana,0.6,3201
+solar_power,431.43,17,9092.51,635.56,Himachal Pradesh,0.85,3808
+sustainable_agriculture,477.96,18,8404.8,172.42,Haryana,1.09,2897
+geothermal_energy,285.94,6,7255.19,520.2,Tripura,0.68,2884
+green_building,76.18,12,1767.21,514.87,Telangana,0.96,1519
+geothermal_energy,214.88,10,9202.69,137.56,Chhattisgarh,0.54,2909
+methane_capture,10.22,20,2334.37,458.53,Lakshadweep,1.3,1892
+geothermal_energy,312.92,12,9336.85,602.22,Mizoram,0.83,3801
+sustainable_agriculture,434.2,20,9024.09,843.48,Manipur,1.06,4495
+methane_capture,353.94,6,4464.8,535.86,Bihar,1.06,2475
+afforestation,230.28,9,8927.91,461.85,Andaman and Nicobar Islands,0.63,3260
+wind_energy,211.65,9,8723.74,642.26,Maharashtra,0.73,3555
+methane_capture,267.58,14,3309.96,483.19,Uttarakhand,1.3,2249
+methane_capture,428.25,16,5544.37,894.56,Rajasthan,0.73,2969
+sustainable_agriculture,302.86,15,8430.82,595.71,Kerala,1.72,4578
+electric_mobility,207.49,16,6592.03,261.63,Arunachal Pradesh,1.87,2956
+wetland_restoration,179.47,9,3140.39,399.88,West Bengal,1.95,2502
+reforestation,412.99,7,6782.64,773.48,Rajasthan,0.84,3334
+sustainable_agriculture,258.59,11,3953.26,171.28,Mizoram,1.72,1775
+wetland_restoration,180.95,15,5793.76,480.22,Andhra Pradesh,1.99,3649
+solar_power,392.04,15,2160.22,598.5,West Bengal,0.82,1630
+biochar_production,399.92,12,5959.45,325.85,Haryana,1.13,2524
+biochar_production,476.29,7,4697.02,262.24,Tamil Nadu,1.82,2364
+wetland_restoration,457.48,7,3937.05,822.74,Meghalaya,1.88,4275
+afforestation,305.53,16,6062.17,416.27,Tamil Nadu,1.71,3242
+geothermal_energy,111.84,16,9930.33,570.02,Punjab,1.58,4780
+afforestation,410.66,16,6479.49,298.0,Telangana,1.67,2939
+geothermal_energy,241.3,12,6142.13,799.93,Chandigarh,0.94,3347
+sustainable_agriculture,261.52,14,1603.99,327.02,Uttar Pradesh,0.75,972
+solar_power,245.8,8,4602.99,240.35,Madhya Pradesh,0.88,1804
+electric_mobility,438.68,20,8910.95,678.38,Tripura,1.87,5210
+afforestation,76.96,18,3318.08,438.77,Bihar,1.88,2645
+green_building,188.83,20,4410.84,291.58,Andhra Pradesh,0.96,1883
+green_building,375.74,12,2355.73,914.05,Goa,1.35,3175
+wetland_restoration,450.78,9,3798.77,260.67,Odisha,1.64,1995
+reforestation,376.03,17,4716.93,107.11,Bihar,1.95,1833
+geothermal_energy,160.75,9,2397.11,772.07,Dadra and Nagar Haveli and Daman and Diu,1.99,3792
+wetland_restoration,433.7,13,7549.37,869.55,Andhra Pradesh,1.76,5326
+methane_capture,234.16,8,4334.06,994.08,Chandigarh,1.07,3428
+green_building,466.04,8,2468.25,870.53,Dadra and Nagar Haveli and Daman and Diu,0.67,1907
+methane_capture,294.61,10,4363.8,181.42,Assam,1.48,1846
+wind_energy,109.56,20,4745.35,203.52,Meghalaya,0.69,1704
+geothermal_energy,308.39,8,7171.05,600.59,Tamil Nadu,1.68,4169
+wind_energy,172.29,9,7197.24,752.41,Madhya Pradesh,0.99,3649
+afforestation,208.87,7,5834.28,705.72,Rajasthan,0.79,2865
+wetland_restoration,321.69,15,4550.14,144.03,Punjab,0.83,1604
+solar_power,374.43,8,8039.44,140.02,Goa,1.62,2865
+carbon_sequestration,373.59,15,1122.62,660.4,Uttar Pradesh,1.85,2780
+methane_capture,314.63,14,5216.39,523.17,Chandigarh,0.6,2193
+solar_power,316.62,16,4159.69,299.88,Delhi,0.92,1800
+green_building,195.71,8,6146.34,237.61,Rajasthan,0.54,2101
+green_building,176.56,13,3206.77,290.88,Chhattisgarh,1.46,1811
+wind_energy,494.32,17,8634.27,605.28,Madhya Pradesh,1.06,3873
+wind_energy,154.14,6,1472.17,803.8,Uttarakhand,1.21,2387
+solar_power,113.28,20,6782.48,917.44,Puducherry,1.11,4071
+carbon_sequestration,258.53,13,9099.14,613.35,Odisha,0.97,3920
+solar_power,398.15,10,5088.68,579.35,Chhattisgarh,1.18,2894
+green_building,399.47,15,8923.55,829.1,Nagaland,0.87,4120
+electric_mobility,464.27,15,5684.23,833.51,Himachal Pradesh,1.6,4373
+carbon_sequestration,236.69,8,4086.05,490.86,Kerala,1.62,2816
+biochar_production,482.82,12,6407.64,395.49,Maharashtra,1.77,3322
+green_building,493.5,8,8416.41,249.46,Sikkim,1.73,3388
+solar_power,261.93,10,8701.67,199.99,Telangana,0.53,2822
+biochar_production,7.81,10,9658.02,250.89,Andaman and Nicobar Islands,0.62,3209
+methane_capture,360.84,17,6583.13,230.2,Rajasthan,0.57,2237
+afforestation,466.44,12,6183.73,475.67,Manipur,1.89,3653
+wind_energy,403.68,12,7521.14,304.57,Jammu and Kashmir,1.35,3079
+green_building,394.99,13,8046.63,457.72,Chandigarh,1.57,3851
+green_building,489.46,8,7833.9,397.02,Rajasthan,0.56,2795
+geothermal_energy,302.66,6,7029.43,198.07,Gujarat,0.64,2362
+reforestation,359.01,7,9298.35,143.69,Ladakh,1.35,3177
+solar_power,407.14,7,3057.19,127.17,Punjab,1.11,1199
+reforestation,224.12,11,2630.98,276.89,Manipur,1.21,1459
+afforestation,41.27,9,1850.0,927.73,Gujarat,0.58,1631
+afforestation,408.97,17,9864.28,203.0,Tamil Nadu,1.74,3666
+wetland_restoration,10.83,10,5969.34,179.42,Meghalaya,1.84,2451
+methane_capture,330.78,19,7827.23,575.28,Uttarakhand,0.76,3223
+solar_power,175.92,15,9633.68,139.31,Kerala,0.73,3093
+solar_power,120.52,14,9323.61,278.28,Maharashtra,1.43,3593
+electric_mobility,6.02,5,9712.43,527.03,Puducherry,1.78,4790
+electric_mobility,417.51,10,1103.75,407.77,Chhattisgarh,0.8,984
+geothermal_energy,457.19,7,2465.59,303.15,Uttarakhand,1.54,1673
+afforestation,205.06,11,1062.9,523.13,Gujarat,0.74,1093
+carbon_sequestration,106.94,11,4652.08,388.17,Kerala,1.86,2840
+solar_power,100.17,17,3948.54,386.8,Ladakh,0.54,1602
+carbon_sequestration,81.3,7,4008.36,926.07,Karnataka,1.07,3184
+afforestation,403.6,17,1708.63,478.72,Karnataka,1.7,2140
+geothermal_energy,476.45,15,3014.06,692.24,Karnataka,1.52,3009
+geothermal_energy,163.88,14,3211.41,318.26,Karnataka,1.88,2160
+methane_capture,209.83,15,4794.84,731.99,Maharashtra,1.49,3620
+reforestation,48.77,6,4651.71,335.96,Madhya Pradesh,0.9,2000
+sustainable_agriculture,163.01,18,4569.47,357.99,Assam,1.37,2352
+wind_energy,342.65,7,5778.44,861.11,Mizoram,1.99,5161
+sustainable_agriculture,84.59,17,7503.59,647.98,Mizoram,0.9,3417
+afforestation,474.18,12,5997.82,498.15,Bihar,1.86,3652
+carbon_sequestration,37.07,8,8138.2,297.01,Maharashtra,0.95,3006
+biochar_production,198.95,7,1474.69,832.91,Manipur,1.77,3391
+wetland_restoration,115.69,15,8853.33,419.34,Lakshadweep,1.61,4006
+afforestation,390.72,11,9776.54,300.3,Manipur,1.19,3648
+sustainable_agriculture,67.74,13,7663.28,921.94,Himachal Pradesh,0.6,3405
+carbon_sequestration,235.82,20,5040.97,663.47,Kerala,1.4,3370
+sustainable_agriculture,293.35,6,8279.75,221.28,Manipur,1.33,3073
+reforestation,284.8,17,4917.14,827.8,Bihar,1.56,4058
+methane_capture,108.06,6,8822.21,863.08,West Bengal,1.12,4580
+wind_energy,26.99,9,8109.49,256.01,Chandigarh,1.7,3303
+methane_capture,404.04,13,8890.78,474.45,Haryana,0.97,3588
+afforestation,148.94,7,7045.03,443.89,Dadra and Nagar Haveli and Daman and Diu,0.92,2930
+electric_mobility,251.73,9,3155.42,373.1,Chhattisgarh,0.71,1476
+sustainable_agriculture,452.02,14,2329.6,721.26,West Bengal,1.69,3137
+wetland_restoration,96.32,14,9616.27,412.11,Tamil Nadu,0.88,3610
+wetland_restoration,274.33,11,9396.56,671.28,Uttarakhand,1.98,5477
+geothermal_energy,412.56,7,7717.28,558.91,Haryana,0.99,3422
+wind_energy,386.33,14,1575.33,300.42,Goa,1.4,1314
+methane_capture,470.47,15,9841.59,646.52,Andaman and Nicobar Islands,1.1,4375
+wetland_restoration,248.15,17,8761.41,869.35,Tamil Nadu,0.53,3550
+sustainable_agriculture,64.01,17,5341.63,739.71,Ladakh,1.76,4206
+green_building,363.36,12,6120.48,700.78,Puducherry,1.38,3770
+wind_energy,47.45,19,1370.57,253.17,Punjab,0.87,852
+methane_capture,396.27,19,4331.26,544.56,Nagaland,1.37,2791
+geothermal_energy,439.37,15,6247.14,259.2,Sikkim,1.09,2439
+carbon_sequestration,106.46,6,6632.1,465.33,Madhya Pradesh,1.45,3339
+biochar_production,100.95,11,6382.46,665.73,Tamil Nadu,0.54,2634
+afforestation,291.2,18,9441.09,572.7,Ladakh,0.68,3611
+wind_energy,83.75,15,9164.0,800.46,Karnataka,1.69,5455
+solar_power,228.41,10,6844.53,956.28,Gujarat,1.68,5266
+electric_mobility,219.54,14,7790.29,829.27,Tripura,1.74,5223
+wetland_restoration,215.05,18,2616.28,393.64,Chandigarh,1.94,2312
+afforestation,415.66,13,3393.63,414.95,Gujarat,1.16,1981
+methane_capture,178.48,18,5169.83,935.71,Goa,1.46,4283
+afforestation,391.09,15,3113.2,475.53,Rajasthan,1.07,1952
+carbon_sequestration,465.57,13,4213.69,348.19,Maharashtra,1.65,2413
+wetland_restoration,415.91,5,7664.17,228.13,Himachal Pradesh,0.53,2541
+reforestation,271.14,17,5875.57,316.62,Dadra and Nagar Haveli and Daman and Diu,0.65,2174
+methane_capture,454.95,8,9270.29,493.43,Jharkhand,0.57,3344
+solar_power,464.09,14,9032.83,375.14,Odisha,1.03,3483
+wind_energy,219.71,7,9481.75,444.35,Dadra and Nagar Haveli and Daman and Diu,1.5,4178
+solar_power,279.5,11,9196.03,461.83,Manipur,1.17,3839
+wetland_restoration,366.19,7,6756.33,520.06,Kerala,0.81,2869
+wetland_restoration,197.02,20,7053.22,370.53,Odisha,0.56,2531
+solar_power,78.32,8,5937.83,919.06,Rajasthan,0.74,3142
+methane_capture,491.38,15,5084.67,926.46,Uttarakhand,1.62,4527
+geothermal_energy,493.24,8,9124.68,562.8,Haryana,1.98,4966
+geothermal_energy,389.53,14,4430.49,153.14,Lakshadweep,1.83,1890
+wind_energy,482.57,9,1427.87,544.06,Sikkim,0.99,1506
+carbon_sequestration,82.93,12,8884.71,988.27,Andaman and Nicobar Islands,1.1,4840
+carbon_sequestration,414.57,15,9951.37,288.67,Goa,1.92,4094
+wetland_restoration,493.81,20,7513.46,825.0,Mizoram,1.6,4894
+sustainable_agriculture,53.38,6,8839.62,150.65,Kerala,1.99,3251
+geothermal_energy,165.66,16,5048.78,187.19,Jharkhand,1.51,2080
+green_building,236.27,7,3230.94,566.56,West Bengal,0.69,1751
+methane_capture,414.32,18,7965.06,812.12,Ladakh,1.19,4322
+electric_mobility,260.08,11,5632.4,590.62,West Bengal,1.65,3639
+biochar_production,47.99,16,8768.59,174.18,Haryana,1.79,3254
+geothermal_energy,315.56,17,6735.08,411.82,Telangana,1.52,3272
+wetland_restoration,76.78,17,2788.76,959.92,Odisha,1.25,3236
+biochar_production,386.19,10,7027.6,987.92,Puducherry,0.65,3393
+wind_energy,404.02,16,5278.68,777.21,Dadra and Nagar Haveli and Daman and Diu,1.71,4242
+reforestation,341.09,6,6683.96,135.49,West Bengal,0.59,2165
+afforestation,78.16,7,5554.39,639.27,Arunachal Pradesh,1.63,3750
+afforestation,309.15,6,7887.19,777.23,Andhra Pradesh,1.23,4278
+wind_energy,320.84,12,4363.5,685.8,Bihar,1.34,3147
+green_building,159.72,15,1200.87,471.78,Maharashtra,1.83,2087
+electric_mobility,27.99,10,9405.26,591.57,Punjab,0.98,3981
+solar_power,216.09,19,3650.19,376.77,Dadra and Nagar Haveli and Daman and Diu,0.66,1592
+solar_power,77.11,19,5000.83,395.44,Uttar Pradesh,1.66,2813
+wetland_restoration,375.84,7,7571.76,266.23,Kerala,1.85,3257
+carbon_sequestration,300.12,7,7386.45,664.02,Odisha,1.74,4527
+reforestation,79.41,5,6035.34,222.67,Lakshadweep,0.78,2158
+biochar_production,41.59,14,1835.21,943.04,Mizoram,1.36,3116
+biochar_production,473.9,11,5294.97,715.02,Arunachal Pradesh,1.25,3376
+methane_capture,333.97,9,9974.2,173.72,West Bengal,1.78,3611
+biochar_production,389.98,12,5398.2,714.52,Dadra and Nagar Haveli and Daman and Diu,1.46,3706
+green_building,10.34,10,5009.36,540.05,Puducherry,1.66,3296
+green_building,457.93,5,9518.93,841.03,Kerala,1.73,5766
+carbon_sequestration,139.51,6,1104.87,554.96,Goa,1.29,1763
+biochar_production,460.77,16,8190.87,511.21,Puducherry,1.29,3776
+afforestation,255.54,16,2562.1,464.41,Ladakh,1.76,2403
+wetland_restoration,282.81,17,6166.83,566.04,Nagaland,1.74,3820
+carbon_sequestration,242.95,14,9260.22,607.32,Bihar,0.56,3458
+afforestation,158.91,12,9135.56,991.83,Bihar,0.94,4605
+sustainable_agriculture,228.41,18,2735.78,519.67,Maharashtra,1.43,2307
+electric_mobility,286.74,8,6450.53,288.29,Haryana,1.95,3059
+reforestation,297.92,12,9661.36,613.53,Lakshadweep,1.31,4506
+biochar_production,158.6,5,1883.25,412.05,Haryana,0.64,1092
+green_building,177.09,18,5004.55,886.08,Tamil Nadu,0.84,2990
+methane_capture,356.58,5,7353.94,163.33,Delhi,1.95,2843
+green_building,168.17,11,2649.65,295.36,Nagaland,1.41,1628
+wind_energy,137.32,17,3319.02,425.81,Tripura,1.49,2265
+afforestation,298.63,13,9921.41,772.96,Goa,1.28,4955
+solar_power,380.78,10,6239.67,312.19,Tamil Nadu,1.28,2671
+geothermal_energy,12.49,6,9315.72,853.15,Odisha,1.03,4552
+reforestation,290.98,12,2269.54,113.13,Haryana,0.75,851
+reforestation,44.5,11,6487.68,231.46,Andhra Pradesh,1.28,2539
+methane_capture,84.39,11,7973.41,831.33,Assam,1.45,4803
+biochar_production,215.67,17,9583.18,666.35,Himachal Pradesh,1.83,5314
+wind_energy,274.51,15,3667.73,865.33,Goa,1.61,3887
+green_building,327.43,20,7372.6,867.1,Uttar Pradesh,0.73,3478
+wetland_restoration,91.75,17,3692.73,930.55,Gujarat,0.54,2113
+methane_capture,266.8,12,7487.4,459.02,Dadra and Nagar Haveli and Daman and Diu,1.75,3853
+electric_mobility,82.61,17,7539.25,929.79,Meghalaya,1.65,5330
+carbon_sequestration,490.17,9,8303.13,257.58,Haryana,1.9,3470
+green_building,452.54,16,4810.71,709.24,Karnataka,1.59,3699
+wind_energy,28.53,16,2444.74,392.92,Lakshadweep,0.77,1339
+green_building,149.62,20,4402.44,836.9,Maharashtra,0.99,2978
+afforestation,155.84,6,6909.33,900.22,Nagaland,1.69,5116
+wind_energy,428.95,16,2408.65,810.56,Uttarakhand,0.84,2084
+methane_capture,170.2,20,2775.56,322.52,Manipur,1.31,1678
+biochar_production,116.62,11,5069.94,533.46,Himachal Pradesh,1.81,3452
+biochar_production,377.2,17,7904.25,697.96,Ladakh,1.6,4605
+sustainable_agriculture,154.59,10,6616.16,952.31,Kerala,1.83,5470
+afforestation,344.35,7,8123.27,978.55,Andaman and Nicobar Islands,1.78,5921
+carbon_sequestration,310.54,15,7224.99,139.75,Chandigarh,1.04,2458
+geothermal_energy,239.49,12,4481.66,148.43,Chandigarh,1.93,1917
+sustainable_agriculture,454.6,16,1637.46,960.39,Gujarat,1.64,3641
+geothermal_energy,168.54,17,3579.64,868.48,Assam,1.01,2828
+afforestation,179.02,6,1168.69,184.07,Punjab,1.46,888
+solar_power,201.71,11,2706.74,336.99,Himachal Pradesh,1.76,1998
+green_building,439.3,20,2416.87,813.7,Meghalaya,1.53,3215
+afforestation,5.39,14,8641.87,240.46,Andaman and Nicobar Islands,1.04,3093
+biochar_production,128.83,12,6717.7,440.55,Haryana,0.64,2579
+geothermal_energy,244.29,10,7696.03,923.97,Meghalaya,0.99,4138
+carbon_sequestration,60.45,10,9271.36,267.53,Karnataka,1.47,3568
+electric_mobility,230.65,13,3287.85,837.12,Andhra Pradesh,0.74,2225
+sustainable_agriculture,308.48,11,1136.37,818.21,West Bengal,1.24,2370
+wetland_restoration,451.48,16,1866.04,566.54,Himachal Pradesh,1.11,1818
+electric_mobility,172.19,8,8488.09,379.58,Tamil Nadu,0.89,3222
+wind_energy,221.95,14,4871.43,434.02,Dadra and Nagar Haveli and Daman and Diu,1.35,2633
+carbon_sequestration,42.04,19,1338.62,397.62,Chhattisgarh,1.57,1650
+carbon_sequestration,140.6,19,5844.51,960.49,Andhra Pradesh,1.79,5192
+methane_capture,79.53,6,5399.36,216.4,Karnataka,0.5,1836
+electric_mobility,470.94,5,7919.4,895.4,Ladakh,1.5,5062
+wetland_restoration,43.21,18,4522.95,204.5,Odisha,1.63,2024
+wind_energy,200.59,7,2591.22,630.62,Puducherry,0.64,1585
+methane_capture,204.19,11,9795.93,838.24,Arunachal Pradesh,1.82,5990
+sustainable_agriculture,18.97,13,9966.74,190.66,Chhattisgarh,1.39,3520
+sustainable_agriculture,405.82,9,9284.81,560.39,Himachal Pradesh,1.61,4590
+afforestation,93.3,19,8600.38,650.09,Meghalaya,1.69,4777
+reforestation,454.34,17,4530.41,990.73,Nagaland,0.85,3043
+geothermal_energy,352.99,5,2216.52,838.31,Nagaland,0.7,1839
+solar_power,475.43,8,2692.18,744.43,Punjab,1.07,2401
+afforestation,225.42,7,2698.88,376.41,Mizoram,0.54,1216
+wetland_restoration,162.07,13,3654.2,989.99,Jharkhand,1.01,3096
+wetland_restoration,440.64,13,7790.24,145.26,Haryana,0.7,2540
+geothermal_energy,141.76,10,5330.18,337.74,Madhya Pradesh,0.77,2119
+wind_energy,212.28,18,4651.99,165.02,Tripura,0.97,1716
+geothermal_energy,213.15,17,2002.9,124.8,Maharashtra,1.54,985
+wetland_restoration,244.96,5,2727.58,122.62,Nagaland,0.84,1024
+carbon_sequestration,108.1,9,6712.45,293.07,Sikkim,1.24,2741
+afforestation,131.27,15,9444.3,999.9,Manipur,1.57,5973
+reforestation,55.51,12,2063.47,999.26,Kerala,0.55,1718
+solar_power,445.36,20,1387.2,168.32,Himachal Pradesh,1.29,850
+geothermal_energy,109.68,13,2787.71,578.63,Jammu and Kashmir,0.97,1959
+carbon_sequestration,153.63,20,4435.56,360.31,Gujarat,1.87,2678
+wind_energy,333.45,15,8699.01,989.54,Haryana,1.28,5143
+afforestation,129.1,9,3426.0,110.19,Odisha,1.74,1411
+afforestation,67.1,9,6720.87,344.05,Jammu and Kashmir,0.84,2594
+carbon_sequestration,446.05,16,9193.92,117.82,Punjab,1.83,3189
+reforestation,268.47,6,8313.24,278.26,Delhi,0.5,2772
+electric_mobility,264.19,10,9908.08,991.86,Kerala,1.69,6325
+methane_capture,86.13,7,7929.47,673.36,Puducherry,1.47,4359
+afforestation,69.29,14,8150.47,971.34,Telangana,1.33,5029
+green_building,350.77,7,8201.67,394.3,Manipur,1.2,3407
+carbon_sequestration,428.21,8,2500.28,344.31,Telangana,1.18,1563
+biochar_production,17.17,14,4797.53,324.12,Karnataka,1.69,2535
+wetland_restoration,42.51,20,7012.81,355.18,Karnataka,0.93,2764
+green_building,186.17,9,6422.8,204.54,Arunachal Pradesh,1.1,2377
+electric_mobility,120.14,6,1669.3,508.4,Meghalaya,0.7,1213
+methane_capture,489.71,13,2328.73,648.34,Jammu and Kashmir,1.54,2696
+carbon_sequestration,165.12,18,4519.7,543.11,Andhra Pradesh,0.81,2236
+wetland_restoration,332.23,6,2716.66,292.98,Tamil Nadu,1.89,1922
+green_building,87.37,15,5746.9,963.16,Tripura,1.73,5057
+reforestation,399.34,20,6720.12,923.32,Goa,1.3,4417
+sustainable_agriculture,360.82,12,7995.2,534.81,Telangana,0.91,3372
+geothermal_energy,92.73,5,9693.68,200.83,Himachal Pradesh,1.86,3655
+solar_power,425.93,13,6537.6,869.89,Haryana,1.31,4240
+methane_capture,319.62,19,6874.86,457.62,Chhattisgarh,0.52,2538
+methane_capture,162.25,12,8402.76,239.08,Telangana,1.27,3128
+electric_mobility,444.58,14,8759.82,831.05,Uttar Pradesh,1.43,5005
+geothermal_energy,451.89,19,4222.92,794.52,Rajasthan,0.54,2125
+solar_power,378.37,8,8655.19,618.42,Gujarat,1.61,4588
+wetland_restoration,7.08,17,3100.06,660.47,Uttarakhand,1.8,3308
+carbon_sequestration,109.38,11,2695.01,662.12,Andhra Pradesh,1.64,2980
+carbon_sequestration,40.41,6,3971.43,201.53,Haryana,0.54,1409
+sustainable_agriculture,395.15,18,3211.49,946.85,Dadra and Nagar Haveli and Daman and Diu,0.83,2535
+sustainable_agriculture,263.18,13,8203.12,825.37,Himachal Pradesh,0.8,3782
+methane_capture,442.69,17,2904.0,965.59,Assam,0.8,2416
+reforestation,435.83,17,7471.9,711.0,Ladakh,1.54,4431
+reforestation,34.35,12,7033.52,807.66,Nagaland,0.58,3047
+carbon_sequestration,488.73,7,2668.47,976.8,Uttarakhand,0.77,2305
+sustainable_agriculture,47.96,14,4418.86,446.73,Chhattisgarh,1.43,2603
+wetland_restoration,401.63,17,2829.33,320.39,Jammu and Kashmir,0.58,1220
+wetland_restoration,163.4,9,8863.12,793.09,Rajasthan,1.87,5625
+sustainable_agriculture,159.6,19,4627.3,837.3,Haryana,1.55,3984
+sustainable_agriculture,156.91,18,4019.82,291.16,Meghalaya,1.74,2219
+reforestation,38.51,15,6911.36,309.91,Jharkhand,0.95,2662
+solar_power,33.36,14,5384.16,808.16,Uttarakhand,0.93,3118
+wetland_restoration,82.18,17,7424.91,202.49,Haryana,1.21,2717
+afforestation,374.39,8,1167.88,204.92,Telangana,0.84,695
+carbon_sequestration,13.53,5,8605.64,454.64,West Bengal,1.03,3518
+sustainable_agriculture,239.13,9,9380.04,683.57,Mizoram,0.93,4085
+biochar_production,462.53,7,1400.06,874.68,Andaman and Nicobar Islands,0.86,1924
+wetland_restoration,485.16,15,5851.96,165.16,Chandigarh,1.33,2195
+wetland_restoration,182.4,13,2954.88,126.0,Andhra Pradesh,1.85,1353
+electric_mobility,46.65,11,8193.52,199.47,West Bengal,0.71,2741
+electric_mobility,95.35,20,9273.67,335.75,Haryana,1.03,3474
+wind_energy,405.95,5,7063.18,956.47,Madhya Pradesh,0.69,3439
+electric_mobility,242.88,12,2687.85,152.35,Dadra and Nagar Haveli and Daman and Diu,1.65,1309
+solar_power,475.09,17,4322.88,263.58,Rajasthan,1.49,2082
+afforestation,413.62,10,6973.12,840.56,Dadra and Nagar Haveli and Daman and Diu,1.07,3891
+methane_capture,40.9,9,6767.37,925.21,Andhra Pradesh,1.62,5028
+solar_power,126.1,14,7007.81,448.43,Himachal Pradesh,0.93,2936
+biochar_production,236.51,14,9762.77,581.25,Goa,1.21,4335
+methane_capture,314.74,13,3747.95,307.53,Karnataka,1.64,2133
+solar_power,359.8,15,2872.24,209.67,Nagaland,0.76,1180
+wetland_restoration,413.94,5,5193.41,533.24,Gujarat,1.91,3595
+electric_mobility,88.82,7,5039.58,482.45,Arunachal Pradesh,1.44,2901
+wetland_restoration,300.19,5,1215.55,814.72,Manipur,1.58,2939
+afforestation,157.08,19,2752.33,757.41,Telangana,1.33,2840
+geothermal_energy,205.17,14,1212.01,384.97,Mizoram,1.58,1580
+green_building,7.92,5,7322.56,409.05,Punjab,1.1,3097
+wind_energy,247.51,5,7036.85,409.63,Lakshadweep,1.53,3365
+biochar_production,400.47,12,9115.68,419.64,Karnataka,1.46,3960
+methane_capture,193.32,15,6760.44,469.15,Telangana,1.86,3773
+carbon_sequestration,136.53,13,5389.83,823.89,Telangana,1.33,3808
+solar_power,74.6,16,8687.24,963.87,West Bengal,1.39,5286
+solar_power,180.4,14,6753.68,104.63,Arunachal Pradesh,1.96,2436
+wetland_restoration,135.88,11,1632.46,688.65,Chhattisgarh,0.51,1192
+green_building,194.64,11,4647.91,918.51,West Bengal,0.93,3103
+electric_mobility,102.6,13,1147.1,712.26,Puducherry,1.79,2894
+solar_power,150.39,14,4868.81,522.01,Mizoram,0.72,2212
+wetland_restoration,410.65,18,8093.02,143.47,Odisha,1.09,2741
+sustainable_agriculture,309.39,7,7274.78,831.06,West Bengal,0.61,3196
+afforestation,259.85,19,2138.18,941.86,Haryana,1.39,3260
+green_building,402.51,15,1717.92,657.71,Himachal Pradesh,1.97,3107
+wind_energy,184.63,18,7588.27,385.9,Punjab,0.89,2963
+methane_capture,182.12,20,3361.69,869.31,Manipur,0.58,2017
+wetland_restoration,439.83,17,4874.45,279.74,Gujarat,1.47,2285
+afforestation,192.36,15,8836.27,126.43,Odisha,1.17,2947
+sustainable_agriculture,210.59,18,8186.04,791.61,Sikkim,1.35,4593
+wetland_restoration,147.67,5,6603.34,971.51,Delhi,0.77,3477
+geothermal_energy,209.06,19,5855.86,479.73,Uttarakhand,0.96,2678
+sustainable_agriculture,322.59,14,9816.54,430.38,Arunachal Pradesh,0.65,3504
+wetland_restoration,217.77,18,7472.27,225.58,Sikkim,1.01,2697
+geothermal_energy,182.12,15,5468.65,808.99,Jharkhand,1.34,3809
+electric_mobility,260.98,16,3232.01,907.19,Andhra Pradesh,1.33,3383
+methane_capture,408.4,6,5325.17,887.6,Dadra and Nagar Haveli and Daman and Diu,0.82,3053
+sustainable_agriculture,434.86,9,6287.28,607.96,Telangana,1.28,3443
+geothermal_energy,470.21,10,9439.22,745.27,Assam,1.3,4769
+green_building,414.46,12,1461.32,105.98,Andhra Pradesh,0.89,627
+green_building,32.53,12,2550.34,177.85,Tamil Nadu,0.84,1064
+solar_power,375.54,5,6390.92,264.02,Tripura,1.97,2958
+biochar_production,101.05,9,7805.28,648.84,Nagaland,1.69,4535
+wetland_restoration,277.88,12,2305.39,875.07,Gujarat,0.98,2407
+solar_power,82.36,11,1227.72,489.62,Kerala,1.14,1485
+solar_power,357.06,10,3615.14,837.17,Punjab,0.66,2190
+wind_energy,49.62,12,3829.02,976.43,Chandigarh,1.63,4332
+green_building,295.13,9,3806.21,223.53,Andhra Pradesh,1.2,1678
+wind_energy,343.13,8,7417.9,265.08,Sikkim,1.96,3264
+wetland_restoration,93.32,16,9784.62,813.4,Meghalaya,1.16,4822
+wind_energy,128.24,7,3184.77,454.72,Arunachal Pradesh,1.81,2602
+sustainable_agriculture,271.13,20,3168.24,760.39,Madhya Pradesh,1.41,3095
+reforestation,398.43,18,8120.51,671.69,Goa,1.04,3833
+methane_capture,255.35,14,6441.88,115.55,Nagaland,0.89,2138
+sustainable_agriculture,78.97,6,4723.51,483.93,Maharashtra,1.13,2511
+carbon_sequestration,263.09,9,9738.26,338.71,Ladakh,0.85,3497
+methane_capture,203.59,18,3402.83,294.09,Nagaland,1.13,1685
+biochar_production,207.94,18,1880.65,776.99,Arunachal Pradesh,1.76,3299
+wetland_restoration,220.87,11,8085.19,999.54,Ladakh,1.77,5964
+solar_power,155.84,5,2107.73,558.7,Manipur,1.21,1984
+solar_power,480.65,5,4443.95,649.49,Telangana,1.27,2983
+biochar_production,137.02,14,5228.04,935.16,Uttarakhand,1.91,5141
+wetland_restoration,100.36,13,1058.2,155.41,Uttar Pradesh,1.41,756
+wetland_restoration,83.12,13,5941.42,241.21,Arunachal Pradesh,1.31,2414
+sustainable_agriculture,370.67,5,1602.19,441.93,Sikkim,0.5,923
+carbon_sequestration,49.41,15,2015.96,477.42,Telangana,1.33,1875
+afforestation,333.92,8,5368.24,454.06,Uttarakhand,1.79,3236
+afforestation,70.99,6,5931.8,487.07,West Bengal,1.53,3270
+solar_power,285.35,9,3600.44,734.79,Maharashtra,0.53,1859
+biochar_production,336.69,17,7755.31,365.82,Himachal Pradesh,1.15,3168
+green_building,333.93,14,5700.51,760.38,Sikkim,1.41,3854
+reforestation,162.22,5,2249.83,255.27,Delhi,1.86,1625
+solar_power,459.51,12,2743.9,301.55,Delhi,1.94,1993
+reforestation,393.86,5,4417.5,472.74,Odisha,0.82,2101
+green_building,170.95,16,7738.94,198.03,Madhya Pradesh,1.11,2761
+electric_mobility,259.07,6,1020.42,212.0,Tamil Nadu,1.79,1065
+reforestation,68.91,11,2645.34,150.01,Delhi,1.45,1229
+geothermal_energy,306.04,11,4268.33,102.76,Rajasthan,1.79,1648
+reforestation,468.64,13,2110.84,366.42,Ladakh,1.99,2092
+wetland_restoration,69.62,14,8586.66,583.49,Chandigarh,1.14,3906
+biochar_production,319.12,17,6452.02,597.56,Haryana,1.11,3262
+geothermal_energy,417.67,9,1166.21,184.98,Jharkhand,1.01,724
+biochar_production,473.89,13,4432.51,738.47,Karnataka,0.95,2733
+reforestation,240.81,14,5909.01,174.56,Puducherry,0.76,2038
+biochar_production,348.55,7,6967.63,699.58,Jharkhand,1.98,4861
+electric_mobility,265.91,10,2895.25,850.67,Manipur,0.56,1821
+geothermal_energy,388.58,9,4036.94,136.73,Madhya Pradesh,1.99,1755
+geothermal_energy,228.45,9,4848.86,129.96,Sikkim,0.85,1676
+wind_energy,215.5,16,4492.67,864.28,Karnataka,0.95,2990
+reforestation,178.31,12,5588.91,543.51,Telangana,1.29,3079
+solar_power,314.09,6,6622.59,496.66,Chhattisgarh,0.94,2920
+green_building,96.38,13,4672.77,185.69,Kerala,1.54,1974
+wind_energy,271.75,15,4496.95,431.86,West Bengal,1.38,2541
+electric_mobility,241.58,14,6350.43,867.05,Lakshadweep,0.55,2859
+electric_mobility,77.34,14,4025.05,450.05,Sikkim,0.61,1757
+geothermal_energy,348.65,20,2760.19,813.17,Punjab,1.78,3723
+green_building,316.51,11,7448.87,634.79,Odisha,0.58,2971
+electric_mobility,198.61,13,2444.68,957.81,Puducherry,1.13,2898
+reforestation,45.17,11,9638.59,450.45,Telangana,0.8,3612
+wind_energy,472.99,9,9995.53,562.3,Chhattisgarh,1.0,4123
+green_building,337.1,18,8999.73,317.14,Sikkim,1.17,3442
+electric_mobility,46.72,14,1170.46,561.41,Haryana,0.51,924
+reforestation,218.56,11,8014.16,926.89,Punjab,0.59,3498
+geothermal_energy,361.53,10,4237.74,630.8,Tamil Nadu,0.7,2154
+solar_power,123.41,9,7704.89,889.85,Nagaland,1.33,4678
+wetland_restoration,122.69,15,3051.25,407.54,Kerala,1.24,1926
+sustainable_agriculture,73.02,17,6189.37,824.95,Himachal Pradesh,0.93,3391
+reforestation,199.32,12,1776.37,361.19,Bihar,1.7,1761
+solar_power,100.8,18,2962.5,430.81,Arunachal Pradesh,1.85,2483
+methane_capture,289.21,19,9922.62,789.68,Himachal Pradesh,1.59,5488
+electric_mobility,286.16,11,1213.68,916.83,Tamil Nadu,1.68,3445
+green_building,316.79,13,8093.43,814.09,West Bengal,1.82,5391
+carbon_sequestration,230.77,13,7846.02,813.49,Odisha,1.8,5282
+wetland_restoration,288.76,15,9262.23,316.18,Meghalaya,1.92,3993
+wetland_restoration,16.42,8,7735.21,156.24,Andhra Pradesh,1.02,2639
+green_building,105.83,14,7367.27,754.18,Uttarakhand,1.28,4141
+solar_power,109.8,5,5288.96,961.69,Nagaland,1.71,4876
+wind_energy,380.43,13,9434.07,927.89,Telangana,1.16,4983
+electric_mobility,145.49,12,7971.24,207.8,West Bengal,0.51,2603
+afforestation,442.06,12,7810.9,904.73,Odisha,1.93,5836
+solar_power,203.97,11,4152.26,782.95,Mizoram,1.56,3688
+biochar_production,196.53,13,1459.29,862.51,Puducherry,0.65,1559
+carbon_sequestration,114.41,15,1931.21,951.52,Manipur,1.17,2806
+wind_energy,289.41,15,6334.31,384.16,Andaman and Nicobar Islands,1.52,3068
+solar_power,431.4,12,4074.85,421.96,Kerala,0.72,1830
+afforestation,125.46,17,5525.83,443.66,Uttar Pradesh,1.69,3157
+carbon_sequestration,64.09,6,7175.43,242.27,Haryana,1.46,2860
+green_building,129.05,6,5380.03,879.75,Goa,1.93,5010
+wetland_restoration,143.36,14,7800.0,461.95,Maharashtra,1.61,3827
+solar_power,370.66,5,1289.84,878.47,Uttar Pradesh,1.21,2513
+electric_mobility,314.75,14,2877.87,859.03,Chandigarh,1.17,2873
+geothermal_energy,337.63,20,5629.63,199.43,Ladakh,1.59,2323
+green_building,140.01,18,9115.7,691.82,Jammu and Kashmir,1.66,5032
+afforestation,156.6,16,4348.45,881.33,Kerala,1.85,4565
+geothermal_energy,249.3,12,7696.95,168.71,Maharashtra,0.83,2589
+biochar_production,246.92,6,2583.7,781.75,Jammu and Kashmir,1.56,3214
+geothermal_energy,263.45,12,8559.02,530.33,Mizoram,0.6,3204
+afforestation,217.14,17,6193.89,769.37,Ladakh,0.78,3058
+sustainable_agriculture,221.11,18,1782.63,745.64,Arunachal Pradesh,1.31,2488
+methane_capture,297.08,19,9005.79,548.59,Rajasthan,1.19,4007
+sustainable_agriculture,428.77,14,5961.24,594.85,Puducherry,1.84,3977
+wind_energy,22.31,17,3993.34,259.79,Mizoram,0.95,1692
+biochar_production,279.79,17,8439.81,684.1,Telangana,1.47,4543
+sustainable_agriculture,231.28,5,1229.86,692.12,Haryana,1.99,3124
+reforestation,58.85,11,9542.42,236.09,Mizoram,0.73,3207
+green_building,265.22,7,3262.57,909.27,Ladakh,1.56,3816
+electric_mobility,295.46,7,7531.6,636.06,Andaman and Nicobar Islands,0.61,3035
+biochar_production,83.34,14,6946.41,933.65,Jammu and Kashmir,1.9,5632
+solar_power,259.78,8,2096.12,388.02,Maharashtra,0.93,1351
+wetland_restoration,456.18,13,2093.5,867.75,Assam,0.65,1756
+methane_capture,334.42,5,7076.72,704.04,Lakshadweep,1.96,4883
+wetland_restoration,257.74,12,9390.87,679.93,Jammu and Kashmir,1.66,5075
+methane_capture,393.81,15,2179.68,812.61,Dadra and Nagar Haveli and Daman and Diu,1.25,2685
+geothermal_energy,165.48,17,4692.31,381.61,West Bengal,0.69,1934
+sustainable_agriculture,460.92,18,5138.9,637.44,Chhattisgarh,1.9,3964
+methane_capture,410.94,9,6342.19,389.4,Uttar Pradesh,1.51,3079
+electric_mobility,183.81,15,8718.55,956.4,Assam,1.28,5064
+wind_energy,452.52,20,2653.2,284.72,Madhya Pradesh,1.39,1587
+electric_mobility,136.34,20,2108.54,548.1,Arunachal Pradesh,1.09,1827
+green_building,140.15,16,8803.76,601.44,Kerala,0.51,3255
+sustainable_agriculture,252.57,7,1692.83,345.42,Himachal Pradesh,1.25,1371
+geothermal_energy,495.85,5,6530.39,455.58,Himachal Pradesh,1.66,3472
+biochar_production,411.39,19,6067.82,874.03,Ladakh,1.66,4722
+wetland_restoration,349.57,11,2741.22,758.52,Puducherry,1.94,3765
+reforestation,21.89,19,6698.76,734.06,Delhi,0.9,3331
+wetland_restoration,265.91,11,4558.33,322.2,Madhya Pradesh,0.55,1722
+sustainable_agriculture,491.07,7,6056.77,522.1,Chhattisgarh,0.76,2611
+geothermal_energy,140.34,15,7068.28,958.32,Ladakh,1.08,4190
+reforestation,315.58,12,7319.64,703.0,Puducherry,0.76,3264
+carbon_sequestration,261.13,5,4510.05,708.37,Ladakh,1.78,3875
+carbon_sequestration,285.87,11,8260.38,855.18,Lakshadweep,1.32,4736
+wetland_restoration,391.38,18,8430.14,237.27,Mizoram,1.49,3236
+carbon_sequestration,433.02,14,2441.14,491.96,Uttar Pradesh,1.57,2277
+wetland_restoration,491.42,20,7184.65,895.82,Kerala,0.94,3840
+solar_power,488.56,6,7436.17,351.31,Puducherry,0.86,2835
+carbon_sequestration,325.78,19,9849.34,786.97,Andhra Pradesh,1.21,4859
+green_building,399.54,17,5602.96,203.49,Jharkhand,1.83,2426
+wetland_restoration,357.53,9,6780.31,405.02,Jammu and Kashmir,1.78,3476
+geothermal_energy,143.28,11,4940.11,510.79,Andhra Pradesh,1.77,3290
+biochar_production,18.63,18,1735.01,626.6,Mizoram,0.56,1222
+green_building,38.11,8,2311.22,564.53,Uttar Pradesh,1.19,2037
+wetland_restoration,21.24,18,8971.39,271.18,Bihar,1.22,3353
+afforestation,107.23,12,9869.06,746.74,Jharkhand,0.73,4051
+reforestation,369.68,9,4094.55,545.91,Puducherry,1.95,3357
+afforestation,275.38,17,9519.16,359.53,Maharashtra,1.9,4222
+electric_mobility,393.0,16,9476.65,442.65,Meghalaya,0.63,3401
+reforestation,160.37,14,6587.13,239.91,Chhattisgarh,1.08,2494
+reforestation,392.16,15,7748.38,727.41,West Bengal,0.62,3227
+wind_energy,41.23,11,9006.95,599.85,Goa,1.4,4382
+reforestation,217.5,13,3155.16,197.25,Uttarakhand,1.51,1542
+carbon_sequestration,228.95,14,2974.87,421.4,Mizoram,1.27,1963
+wetland_restoration,80.52,12,5688.51,549.06,Rajasthan,1.29,3123
+afforestation,119.04,19,2223.41,895.64,Haryana,1.37,3121
+carbon_sequestration,409.25,12,9859.28,897.84,Haryana,1.98,6513
+green_building,247.57,15,4081.01,928.64,Andaman and Nicobar Islands,0.64,2413
+geothermal_energy,26.2,16,6763.79,172.43,Andhra Pradesh,1.7,2615
+sustainable_agriculture,409.29,8,4913.95,477.53,Himachal Pradesh,1.81,3203
+methane_capture,267.97,5,9776.31,465.98,Bihar,1.6,4424
+biochar_production,498.48,17,4234.66,616.14,Andhra Pradesh,1.86,3562
+green_building,165.71,12,6643.2,201.4,Himachal Pradesh,0.61,2239
+methane_capture,442.86,17,3689.04,499.23,Kerala,1.68,2784
+wind_energy,170.49,12,9397.24,562.36,Haryana,1.94,5001
+carbon_sequestration,225.44,15,9529.83,787.5,Meghalaya,1.56,5316
+solar_power,212.53,8,7009.74,457.61,Sikkim,1.3,3293
+wind_energy,345.22,11,8730.59,407.15,Maharashtra,0.76,3238
+carbon_sequestration,125.92,16,4954.49,814.52,Madhya Pradesh,0.98,3083
+methane_capture,344.06,14,3309.26,692.88,Rajasthan,1.9,3626
+solar_power,120.87,17,2389.34,339.54,Madhya Pradesh,1.39,1661
+biochar_production,444.57,19,8765.01,974.72,Chhattisgarh,1.31,5183
+biochar_production,275.15,8,9991.83,586.83,Himachal Pradesh,0.88,4030
+electric_mobility,266.27,12,2181.3,996.14,Ladakh,1.66,3962
+wetland_restoration,368.52,19,7726.46,848.06,Meghalaya,1.89,5524
+geothermal_energy,430.48,13,2233.73,138.45,Dadra and Nagar Haveli and Daman and Diu,1.7,1141
+reforestation,189.12,7,1583.59,259.58,Lakshadweep,1.03,1010
+wind_energy,250.01,18,2751.51,837.25,Puducherry,0.51,1679
+solar_power,9.43,10,5244.54,451.19,Puducherry,1.58,2999
+wetland_restoration,416.66,15,9048.4,997.36,Arunachal Pradesh,0.85,4410
+green_building,245.85,20,2761.64,247.72,Puducherry,1.22,1433
+biochar_production,461.01,6,7769.84,509.86,Delhi,0.77,3116
+afforestation,246.55,18,4794.66,901.96,Delhi,1.03,3296
+solar_power,183.18,15,5804.82,373.43,Dadra and Nagar Haveli and Daman and Diu,1.02,2503
+methane_capture,259.37,19,3505.53,420.24,Mizoram,1.22,2077
+carbon_sequestration,376.5,12,4254.1,354.32,Gujarat,0.7,1772
+solar_power,90.18,12,8893.85,655.23,Delhi,1.54,4686
+afforestation,209.0,9,1973.09,261.91,Andhra Pradesh,0.77,995
+wind_energy,127.2,19,6561.09,572.0,Chhattisgarh,1.72,3936
+sustainable_agriculture,151.92,19,6811.99,161.29,Arunachal Pradesh,1.07,2389
+wind_energy,428.91,9,1994.05,809.56,Punjab,1.79,3496
+carbon_sequestration,477.04,5,2548.23,903.52,Uttar Pradesh,1.54,3547
+wetland_restoration,208.09,11,2479.15,461.93,Jammu and Kashmir,1.7,2314
+green_building,162.44,15,8613.74,299.52,Uttar Pradesh,0.76,3039
+biochar_production,320.35,19,1570.5,702.82,Gujarat,1.14,2074
+green_building,459.24,9,5188.53,572.72,Chandigarh,1.81,3630
+geothermal_energy,198.13,12,5189.03,912.57,Himachal Pradesh,0.75,2926
+green_building,295.11,8,3051.2,397.1,Meghalaya,0.67,1447
+biochar_production,231.32,9,1261.35,885.81,Arunachal Pradesh,0.8,1796
+geothermal_energy,491.04,19,5242.2,835.74,Sikkim,1.71,4431
+wetland_restoration,148.68,18,2660.69,700.03,Gujarat,1.73,3220
+methane_capture,158.49,12,2155.86,898.6,Telangana,1.6,3522
+green_building,369.37,8,4404.8,737.12,Karnataka,0.88,2619
+wetland_restoration,126.68,5,3081.79,439.82,Tamil Nadu,1.73,2446
+biochar_production,488.0,9,3579.27,568.62,Jharkhand,1.05,2268
+green_building,129.68,12,2843.69,843.67,Himachal Pradesh,0.72,2068
+green_building,294.63,18,6194.27,377.65,Himachal Pradesh,1.38,2901
+solar_power,131.32,7,4199.53,129.88,Assam,0.99,1517
+carbon_sequestration,268.76,6,4590.66,812.62,Mizoram,0.95,2921
+carbon_sequestration,174.82,15,4029.15,631.6,Odisha,1.6,3230
+wind_energy,16.34,8,6160.01,598.08,Andhra Pradesh,0.59,2554
+solar_power,177.57,17,8462.04,204.8,Tamil Nadu,1.58,3186
+geothermal_energy,384.68,5,7798.06,684.08,Madhya Pradesh,1.52,4419
+electric_mobility,134.18,13,3094.34,376.29,Uttarakhand,1.44,2012
+wetland_restoration,427.85,14,1981.08,832.36,Arunachal Pradesh,1.43,2975
+wind_energy,473.1,20,1719.04,149.5,Karnataka,0.59,692
+wind_energy,162.56,16,3726.99,253.03,Telangana,1.82,2039
+sustainable_agriculture,98.95,11,2534.44,100.9,Chhattisgarh,1.81,1126
+solar_power,347.74,6,5225.77,911.85,Delhi,0.89,3191
+biochar_production,132.95,17,7299.77,371.08,Gujarat,1.38,3214
+reforestation,183.23,10,1719.96,536.19,Haryana,0.93,1513
+sustainable_agriculture,143.29,9,1848.12,526.38,Chhattisgarh,0.86,1460
+wind_energy,499.07,8,8734.04,165.27,Puducherry,1.52,3123
+electric_mobility,323.24,14,3847.81,220.2,Mizoram,0.87,1537
+green_building,155.1,5,3154.2,274.74,Uttar Pradesh,0.51,1226
+methane_capture,289.21,14,9537.79,947.27,Odisha,1.2,5135
+wind_energy,441.52,14,3598.54,683.42,Meghalaya,1.29,2843
+green_building,450.26,17,6606.97,569.9,Ladakh,0.86,2962
+methane_capture,431.42,7,7951.49,244.96,Manipur,0.64,2699
+green_building,79.75,12,4416.19,887.01,Odisha,0.68,2531
+biochar_production,266.57,14,5685.62,552.71,Tripura,1.75,3640
+afforestation,49.58,6,5862.72,550.2,Punjab,1.59,3508
+methane_capture,99.71,16,3860.46,469.96,Odisha,1.88,2925
+afforestation,45.19,16,7058.69,583.07,Odisha,1.2,3517
+sustainable_agriculture,201.27,15,4706.17,903.28,Punjab,1.49,4104
+wind_energy,446.52,18,1418.94,500.24,Haryana,1.55,1976
+geothermal_energy,13.36,7,7203.02,672.76,Karnataka,0.63,3009
+sustainable_agriculture,331.82,12,7786.81,222.37,Nagaland,1.18,2861
+afforestation,99.65,18,9537.05,997.7,Tripura,1.16,5176
+green_building,171.61,14,4706.79,661.92,Tripura,0.9,2603
+green_building,292.46,20,3692.41,381.45,Odisha,1.65,2367
+carbon_sequestration,115.07,16,6160.21,620.73,Dadra and Nagar Haveli and Daman and Diu,1.48,3685
+wetland_restoration,5.01,15,5901.61,761.27,Uttarakhand,0.91,3156
+geothermal_energy,218.96,5,2389.11,447.81,Kerala,1.27,1854
+afforestation,42.81,10,7246.47,622.38,Jammu and Kashmir,1.2,3668
+solar_power,386.12,20,4888.74,655.27,Madhya Pradesh,1.5,3432
+wetland_restoration,179.91,13,8850.25,387.57,Chandigarh,1.65,3934
+methane_capture,238.61,15,9447.06,852.06,Jammu and Kashmir,1.8,5902
+green_building,414.05,18,2628.5,244.88,Bihar,1.01,1283
+afforestation,190.62,10,9108.68,702.94,Madhya Pradesh,1.63,5024
+reforestation,74.61,11,5052.39,310.93,Arunachal Pradesh,0.74,1976
+geothermal_energy,143.21,8,8952.95,224.09,Odisha,1.17,3210
+biochar_production,341.93,10,2973.47,932.54,Chhattisgarh,1.66,3988
+geothermal_energy,438.64,14,2416.37,493.77,Chandigarh,1.55,2256
+methane_capture,38.75,13,1469.78,391.39,Maharashtra,1.45,1576
+green_building,32.27,6,9462.85,279.97,Telangana,0.81,3292
+biochar_production,308.03,10,6911.82,990.0,West Bengal,0.54,3143
+sustainable_agriculture,131.05,7,7363.33,721.85,Odisha,1.77,4764
+carbon_sequestration,132.25,5,2112.87,460.05,Assam,0.79,1361
+wetland_restoration,143.82,11,3313.47,325.77,Mizoram,1.54,1997
+wetland_restoration,203.99,11,5924.63,394.26,Madhya Pradesh,0.68,2314
+carbon_sequestration,35.94,7,5416.32,549.82,Tripura,1.12,2856
+wind_energy,472.94,19,1738.85,918.73,Delhi,1.22,2763
+solar_power,405.73,9,2285.92,399.23,Delhi,0.59,1157
+carbon_sequestration,151.85,8,5896.91,451.02,Mizoram,1.7,3303
+sustainable_agriculture,416.99,15,4702.92,138.9,Sikkim,0.89,1658
+reforestation,446.68,17,1821.9,927.52,Assam,1.92,4108
+afforestation,162.63,19,5728.96,238.63,Bihar,1.21,2296
+reforestation,335.43,13,6471.39,826.78,Kerala,1.05,3678
+biochar_production,105.57,14,8401.07,942.39,Mizoram,1.98,6252
+biochar_production,69.1,19,6081.52,107.29,Puducherry,0.51,1934
+wetland_restoration,355.7,7,8325.31,301.29,Maharashtra,0.51,2805
+carbon_sequestration,299.07,5,1542.59,476.92,Dadra and Nagar Haveli and Daman and Diu,1.89,2266
+wind_energy,200.43,20,7879.37,350.22,Jammu and Kashmir,1.12,3148
+wetland_restoration,266.8,20,4236.32,983.76,Andaman and Nicobar Islands,1.32,3868
+solar_power,438.46,11,3013.7,875.41,Dadra and Nagar Haveli and Daman and Diu,1.47,3478
+sustainable_agriculture,417.84,12,3589.25,810.15,Kerala,0.85,2454
+biochar_production,499.91,17,9001.32,474.74,Kerala,1.42,4049
+reforestation,376.17,14,9976.24,248.99,Kerala,0.77,3376
+afforestation,48.86,5,7395.86,874.45,Meghalaya,1.91,5559
+reforestation,374.52,18,1406.93,384.06,Gujarat,1.64,1682
+solar_power,242.54,18,3684.4,309.76,Meghalaya,0.52,1427
+methane_capture,357.35,19,3108.8,240.6,Uttar Pradesh,0.5,1173
+electric_mobility,468.77,8,3854.47,968.07,Jammu and Kashmir,0.94,2976
+biochar_production,224.55,7,5055.36,256.18,Mizoram,1.08,2070
+solar_power,479.66,14,5189.49,399.31,Assam,1.29,2587
+biochar_production,105.66,13,8930.93,359.43,West Bengal,0.53,3060
+methane_capture,31.83,15,9147.17,985.77,Tripura,1.57,5839
+electric_mobility,356.4,20,6974.14,966.35,Gujarat,0.71,3464
+carbon_sequestration,480.48,12,3498.1,298.17,Andhra Pradesh,1.5,1944
+green_building,349.13,10,3360.67,309.87,Himachal Pradesh,1.85,2155
+electric_mobility,426.36,5,5220.5,726.64,Ladakh,0.87,2831
+solar_power,359.05,5,9486.48,658.56,Gujarat,1.38,4664
+wetland_restoration,432.87,13,2721.7,171.56,Chandigarh,1.68,1393
+methane_capture,362.21,9,9001.87,527.22,Rajasthan,1.87,4672
+green_building,417.63,6,7630.75,963.96,West Bengal,0.87,3967
+geothermal_energy,99.55,17,1876.26,541.33,Mizoram,1.62,2317
+sustainable_agriculture,201.63,14,7705.77,838.14,Bihar,1.36,4591
+methane_capture,303.22,20,3700.21,426.42,Jharkhand,1.05,2006
+electric_mobility,254.31,5,2816.43,450.12,Rajasthan,0.65,1430
+green_building,209.0,5,2411.14,132.04,Punjab,1.62,1151
+biochar_production,279.91,18,8253.12,699.39,West Bengal,0.55,3245
+solar_power,240.19,7,2293.22,588.48,Chhattisgarh,1.39,2324
+solar_power,390.87,7,5847.6,910.65,Jammu and Kashmir,1.54,4559
+biochar_production,467.22,14,3919.89,414.18,Andaman and Nicobar Islands,1.23,2195
+sustainable_agriculture,320.01,20,5112.37,257.68,Rajasthan,1.33,2219
+green_building,456.72,6,9758.47,644.74,Manipur,1.24,4526
+biochar_production,385.63,9,4302.67,656.04,Ladakh,1.84,3705
+reforestation,454.51,17,6457.76,152.65,Gujarat,1.01,2246
+green_building,91.04,9,7782.85,695.65,Uttar Pradesh,1.47,4380
+green_building,209.8,12,2815.54,437.24,Telangana,0.54,1317
+reforestation,179.75,19,7394.2,137.69,Andaman and Nicobar Islands,0.57,2375
+wetland_restoration,494.46,11,7903.5,513.51,Goa,1.84,4261
+afforestation,236.49,18,7652.9,456.12,Sikkim,0.88,3099
+reforestation,456.5,6,7809.01,745.24,Assam,1.99,5309
+green_building,446.43,16,4898.64,976.36,Arunachal Pradesh,1.0,3422
+green_building,56.88,19,3218.58,145.63,Punjab,0.59,1137
+solar_power,183.84,12,1707.85,825.19,Manipur,0.67,1618
+reforestation,161.82,11,7449.87,175.99,Karnataka,0.79,2513
+carbon_sequestration,214.75,16,5713.61,741.54,Chhattisgarh,0.96,3138
+sustainable_agriculture,189.67,17,1575.45,578.62,Tripura,1.82,2579
+carbon_sequestration,8.21,10,9496.57,974.37,Meghalaya,1.46,5694
+electric_mobility,319.46,17,7957.63,261.68,Madhya Pradesh,1.14,2984
+geothermal_energy,175.87,10,3050.78,799.62,Haryana,1.73,3682
+sustainable_agriculture,239.07,13,5432.08,307.4,Maharashtra,1.11,2312
+reforestation,174.09,12,5677.8,276.99,Rajasthan,0.82,2158
+electric_mobility,421.58,8,4304.48,175.2,Nagaland,1.47,1806
+electric_mobility,254.61,8,7877.28,890.65,Manipur,0.57,3379
+geothermal_energy,111.99,9,5364.62,473.27,Arunachal Pradesh,0.99,2546
+electric_mobility,138.83,10,2313.34,400.67,Nagaland,1.4,1816
+reforestation,361.38,11,4238.75,602.39,Punjab,1.56,3151
+solar_power,31.71,5,4070.33,795.91,Maharashtra,1.91,4261
+wetland_restoration,263.38,16,3139.92,599.45,Manipur,1.67,2944
+methane_capture,151.69,12,5050.51,374.68,Mizoram,0.87,2167
+electric_mobility,6.77,20,5655.25,635.45,Dadra and Nagar Haveli and Daman and Diu,1.39,3463
+electric_mobility,102.48,14,5386.41,610.14,Gujarat,1.04,2885
+green_building,476.16,12,8491.53,767.55,Lakshadweep,0.8,3776
+wetland_restoration,496.51,12,2726.44,367.22,Jharkhand,1.69,2059
+solar_power,175.66,8,9732.13,331.12,Maharashtra,1.03,3602
+green_building,397.99,6,6752.49,833.8,Telangana,0.56,2960
+methane_capture,380.93,20,1587.57,830.99,Haryana,0.95,2055
+reforestation,421.28,6,7934.04,910.46,Nagaland,1.32,4784
+methane_capture,370.23,6,1965.6,688.21,Kerala,1.62,2819
+wind_energy,219.49,12,4977.65,991.95,Chhattisgarh,1.8,5064
+afforestation,398.08,8,8225.75,274.84,Rajasthan,1.68,3391
+solar_power,232.07,10,4031.29,831.48,Odisha,1.2,3205
+methane_capture,305.4,5,2363.99,770.61,Telangana,1.06,2343
+wetland_restoration,106.05,19,4724.48,751.17,Jharkhand,0.51,2184
+biochar_production,406.37,6,7520.23,671.43,Madhya Pradesh,1.64,4458
+electric_mobility,135.48,12,3194.43,832.24,Gujarat,1.24,3022
+methane_capture,322.89,9,1613.13,623.25,Dadra and Nagar Haveli and Daman and Diu,1.45,2291
+wetland_restoration,372.35,8,1681.74,118.19,Madhya Pradesh,0.73,677
+methane_capture,482.86,20,3210.06,961.31,Andaman and Nicobar Islands,0.63,2174
+geothermal_energy,469.02,19,1673.93,528.03,Mizoram,0.82,1368
+electric_mobility,223.32,20,3511.01,284.39,Gujarat,1.08,1668
+wind_energy,299.97,9,6913.59,359.49,Himachal Pradesh,1.82,3383
+green_building,444.56,16,9969.48,191.02,Uttarakhand,1.31,3491
+electric_mobility,89.91,7,5190.02,119.34,Madhya Pradesh,0.57,1693
+green_building,145.1,18,8474.4,321.41,Tripura,0.95,3153
+biochar_production,265.6,9,3376.26,616.48,Uttarakhand,1.82,3257
+reforestation,374.59,19,8131.54,549.06,Dadra and Nagar Haveli and Daman and Diu,1.42,3999
+biochar_production,315.38,15,7366.11,132.9,Madhya Pradesh,0.62,2375
+afforestation,41.62,19,4574.37,452.87,West Bengal,1.56,2785
+biochar_production,98.28,20,5425.68,512.22,Rajasthan,1.28,2939
+geothermal_energy,19.0,12,3596.6,705.05,Chhattisgarh,1.14,2686
+afforestation,409.23,20,3716.26,366.78,Chhattisgarh,1.93,2531
+sustainable_agriculture,252.82,7,2755.69,654.53,Tripura,1.31,2542
+biochar_production,18.5,15,7706.24,535.39,Maharashtra,0.96,3340
+electric_mobility,274.88,11,9370.4,605.83,Haryana,1.46,4580
+solar_power,288.92,8,7245.61,790.53,Uttarakhand,0.99,3739
+afforestation,343.22,17,4940.67,466.33,Delhi,0.75,2182
+wind_energy,132.39,18,5148.36,408.5,Mizoram,1.42,2705
+solar_power,227.82,15,5678.56,154.45,Ladakh,1.13,2053
+wetland_restoration,85.01,17,8545.0,442.04,Lakshadweep,1.8,4155
+wetland_restoration,275.51,10,3633.95,577.02,Assam,1.56,2890
+geothermal_energy,149.16,14,2484.06,470.83,Jharkhand,1.19,1866
+afforestation,187.91,19,3870.18,534.36,Jharkhand,1.2,2444
+green_building,49.16,9,8417.42,397.22,Himachal Pradesh,0.99,3312
+electric_mobility,56.34,9,4316.97,792.7,Assam,1.46,3610
+wind_energy,458.69,6,6904.02,469.34,Mizoram,0.9,2916
+geothermal_energy,147.01,12,9019.44,372.04,Dadra and Nagar Haveli and Daman and Diu,0.55,3115
+green_building,97.54,15,1688.38,691.51,Jharkhand,0.65,1405
+electric_mobility,440.09,13,2919.27,637.4,Bihar,1.93,3336
+biochar_production,131.11,14,1621.91,621.74,Arunachal Pradesh,0.56,1183
+biochar_production,217.3,8,3974.5,676.69,Gujarat,1.68,3466
+biochar_production,92.02,12,4359.91,114.94,Chandigarh,1.98,1763
+green_building,296.06,13,4478.96,993.99,Punjab,1.13,3590
+afforestation,123.27,11,1189.91,571.52,Arunachal Pradesh,0.96,1454
+sustainable_agriculture,395.75,20,5153.82,626.34,Chandigarh,0.64,2348
+wetland_restoration,241.88,19,7865.23,785.88,Uttar Pradesh,1.26,4340
+green_building,256.62,16,8527.39,795.22,Bihar,0.99,4133
+solar_power,468.02,12,4809.2,822.01,Karnataka,1.34,3646
+afforestation,141.62,13,3441.27,815.51,Chhattisgarh,1.65,3724
+wind_energy,92.29,16,8985.39,851.56,Madhya Pradesh,1.26,4842
+carbon_sequestration,76.34,11,5980.1,459.92,Odisha,1.59,3257
+geothermal_energy,429.48,16,9577.96,601.12,Karnataka,1.62,4821
+solar_power,206.62,14,2439.32,155.33,Karnataka,0.98,1036
+afforestation,358.87,13,2791.98,555.07,Karnataka,1.93,2980
+wind_energy,499.51,19,6526.59,984.87,Jammu and Kashmir,1.23,4381
+green_building,90.05,17,9949.49,669.64,Madhya Pradesh,1.59,5114
+afforestation,158.36,10,3248.32,745.54,Dadra and Nagar Haveli and Daman and Diu,0.65,1944
+green_building,54.77,7,1457.86,716.77,Chandigarh,1.26,2244
+carbon_sequestration,144.94,18,7797.97,160.13,Puducherry,1.53,2829
+wind_energy,322.07,13,2899.09,835.64,Uttar Pradesh,0.83,2257
+electric_mobility,449.35,8,8281.81,781.13,Lakshadweep,0.79,3719
+reforestation,286.11,19,5315.49,599.73,West Bengal,1.91,3886
+green_building,174.78,17,4161.27,715.68,Lakshadweep,0.57,2064
+methane_capture,130.28,10,6636.33,417.41,Uttarakhand,0.95,2784
+electric_mobility,357.18,8,7569.18,836.57,Andaman and Nicobar Islands,1.03,3994
+biochar_production,78.67,15,9215.19,571.17,Uttar Pradesh,1.86,4889
+methane_capture,391.31,12,7333.62,642.71,Karnataka,0.55,2907
+electric_mobility,346.9,11,3140.54,172.24,Maharashtra,1.94,1610
+solar_power,474.78,15,4438.29,854.48,Himachal Pradesh,1.62,4100
+solar_power,162.53,12,4908.77,268.7,Assam,0.68,1838
+wind_energy,224.25,10,2484.2,326.86,Chhattisgarh,1.5,1726
+reforestation,159.3,13,6522.79,198.43,Dadra and Nagar Haveli and Daman and Diu,0.96,2338
+methane_capture,453.33,13,2707.43,942.94,Goa,1.05,2792
+afforestation,248.7,11,1022.49,317.13,Kerala,1.71,1391
+reforestation,138.97,16,7358.91,809.22,Haryana,1.02,3858
+sustainable_agriculture,102.29,10,6242.3,373.88,Meghalaya,1.79,3211
+wind_energy,360.51,12,3098.63,383.98,Chandigarh,1.6,2158
+biochar_production,251.95,18,6846.55,129.95,Rajasthan,0.7,2236
+afforestation,151.28,6,8918.18,893.65,Nagaland,1.0,4463
+electric_mobility,352.96,5,1012.45,681.97,Bihar,1.46,2295
+afforestation,407.93,11,7238.02,866.75,Ladakh,1.06,4009
+afforestation,228.36,20,3825.28,972.34,Dadra and Nagar Haveli and Daman and Diu,1.06,3209
+reforestation,10.47,16,7528.37,746.53,Chandigarh,1.96,5185
+biochar_production,488.92,15,8902.94,258.79,Mizoram,0.88,3126
+electric_mobility,324.71,12,6575.75,980.47,Nagaland,0.77,3483
+afforestation,192.39,19,2113.1,506.9,Himachal Pradesh,1.14,1790
+carbon_sequestration,62.41,18,5538.6,114.28,Puducherry,1.45,1993
+green_building,193.12,16,8369.37,920.19,Chandigarh,1.56,5382
+sustainable_agriculture,15.53,5,4507.03,381.98,Goa,1.4,2422
+green_building,250.02,7,4038.26,318.66,Andaman and Nicobar Islands,0.56,1568
+solar_power,179.66,16,7399.77,248.78,Madhya Pradesh,0.81,2623
+green_building,428.19,14,3210.18,439.35,Jharkhand,1.34,2141
+biochar_production,484.45,8,3710.03,944.52,Andhra Pradesh,1.97,4834
+electric_mobility,290.28,7,5911.93,783.53,Uttar Pradesh,1.02,3372
+afforestation,442.8,13,9725.9,974.79,Puducherry,0.68,4243
+methane_capture,26.8,6,6936.53,868.13,Jammu and Kashmir,1.19,4147
+wind_energy,426.36,7,5528.24,356.19,Chhattisgarh,1.03,2392
+solar_power,151.67,11,4081.44,455.48,Tamil Nadu,1.48,2573
+afforestation,77.76,12,1557.5,670.28,Chandigarh,0.89,1660
+methane_capture,230.66,5,2401.3,457.76,Kerala,1.18,1801
+electric_mobility,8.49,7,6764.57,528.1,Bihar,1.12,3212
+wetland_restoration,128.65,8,8011.43,507.35,Lakshadweep,0.62,3033
+methane_capture,316.01,7,9592.55,946.77,Puducherry,0.65,4109
+green_building,6.53,9,4986.78,277.99,Jharkhand,1.88,2541
+wind_energy,247.58,20,6952.37,991.62,Sikkim,1.87,5794
+sustainable_agriculture,6.1,19,5373.0,297.58,Uttar Pradesh,1.34,2409
+afforestation,233.48,16,8674.89,869.54,Telangana,1.59,5368
+carbon_sequestration,351.27,11,6329.18,816.87,Tamil Nadu,1.9,5003
+wetland_restoration,45.37,7,9360.1,838.68,West Bengal,1.7,5660
+solar_power,486.69,15,3375.11,509.32,Uttarakhand,0.68,1705
+biochar_production,166.47,8,1757.67,468.2,Bihar,1.85,2260
+reforestation,237.24,13,1607.51,745.22,Karnataka,1.84,3225
+geothermal_energy,339.95,12,5918.31,656.48,Gujarat,1.35,3548
+afforestation,410.45,17,2405.9,317.12,Andaman and Nicobar Islands,0.73,1185
+geothermal_energy,129.96,17,4591.25,915.17,Haryana,1.61,4324
+solar_power,446.23,5,2816.96,568.16,Telangana,1.76,2845
+carbon_sequestration,310.23,10,6988.53,966.48,Bihar,1.4,4803
+electric_mobility,263.41,19,3379.38,411.77,Madhya Pradesh,0.78,1656
+reforestation,319.71,18,6306.0,398.34,Chandigarh,1.3,2927
+wetland_restoration,444.06,6,9037.75,244.79,Mizoram,1.11,3255
+electric_mobility,424.46,12,9423.9,790.51,Himachal Pradesh,0.64,3839
+reforestation,268.29,18,5074.08,245.48,Telangana,0.77,1900
+reforestation,43.2,19,5954.29,647.57,Assam,1.67,3949
+wind_energy,284.9,20,4948.7,200.12,Bihar,1.42,2053
+green_building,384.42,18,1909.87,941.28,Andhra Pradesh,1.81,3980
+carbon_sequestration,458.62,18,3408.18,637.61,Lakshadweep,1.17,2514
+biochar_production,168.17,19,7037.77,931.32,West Bengal,1.68,5241
+methane_capture,200.46,7,3725.86,469.56,Telangana,0.5,1587
