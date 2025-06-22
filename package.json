@@ -3,7 +3,14 @@
   "version": "1.0.0",
   "main": "react.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "install": "concurrently \"npm run Dependencies\" \"npm run devdependencies\"\"npm run Aidependencies\"",
+    "Dependencies": "cd carbon-credit-frontend && npm i @headlessui/react ethers express &&  npm i -D @metamask/providers @types/node autoprefixer nodemon postcss tailwindcss",
+    "devdependencies": "cd carbon-credit-backend && npm i express mongoose dotenv cors ethers",
+    "Aidependencies": "pip install fastapi uvicorn scikit-learn pandas xgboost",
+    "dev": "concurrently \"npm run frontend\" \"npm run backend\" \"npm run ai\"",
+    "frontend": "cd carbon-credit-frontend && cd carbon-credit-frontend  && npm run dev",
+    "backend": "cd carbon-credit-backend && npm run dev",
+    "ai": "uvicorn main:app --reload --port 8000"
   },
   "keywords": [],
   "author": "",
@@ -25,6 +32,7 @@
     "@metamask/providers": "^22.1.0",
     "@types/node": "^22.14.0",
     "autoprefixer": "^10.4.21",
+    "concurrently": "^9.1.2",
     "nodemon": "^3.1.9",
     "postcss": "^8.5.3",
     "tailwindcss": "^4.1.4"
